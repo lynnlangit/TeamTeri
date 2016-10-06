@@ -28,9 +28,8 @@ GCLOUD_ARGS="--zone $ZONE --project $PROJECT"
 # 1b. CREATE IMAGE to be used as a basis for your GCE instance (includes Galaxy install)
 /bin/echo "Creating client image, please wait..."
 gcloud compute images create $GCLOUD_ARGS  \
-     --tags "Galaxy_client" --image $TEAMTERI_IMAGE 
+     --tags "Galaxy_client" --image $TEAMTERI_IMAGE \
      --source-uri "galaxyproject_images/planemo_machine_smc.06.image.tar.gz"
-    done
 /bin/echo " galaxy GCE / VM image created..."
 
 # 2a. CREATE CLIENT VMS & DISKS
@@ -49,7 +48,8 @@ then
         /bin/echo -n "  attaching galaxy-persistent-disk-$i to galaxy-client-$i:"
         gcloud compute instances $GCLOUD_ARGS attach-disk galaxy-client-$i --disk galaxy-persistent-disk-$i
     done
-/bin/echo
+fi
+/bin/echo " persistent disks created..."
 
 # 3. CONNECT TO GALAXY on your GCE VM ('hello-gene')
 # - Edit your VM to allow http/https traffic on the network for that VM (click in the GCP console)
