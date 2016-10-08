@@ -1,0 +1,33 @@
+<tool id="dpc" name="VCF DPC" version="1.0.0">
+	<description>VCF clustering</description>
+	<requirements>
+		<container type="docker">r-base</container>
+	</requirements>
+	<command interpreter="Rscript">
+dpc.R ${input_vcf} ${sample_number}
+	</command>
+
+	<inputs>
+		<param format="vcf" name="input_vcf" type="data" label="VCF file" help="" />
+		<param type="integer" name="sample_number" label="Sample number" help="The ith sample column in the VCF file" value="1"/>
+	</inputs>
+
+	<outputs>
+		<data format="png" name="output_png" label="DirichletProcessplotBinomial PNG" from_work_dir="DirichletProcessplotBinomial.png"/>
+		<data format="txt" name="cellularity" label="Cellularity (Sub Challenge 1A)" from_work_dir="subchallenge1A.txt"/>
+		<data format="txt" name="no_clusters" label="Number Clusters (Sub Challenge 1B)" from_work_dir="subchallenge1B.txt"/>
+		<data format="txt" name="proportions" label="Cluster Proportions (Sub Challenge 1C)" from_work_dir="subchallenge1C.txt"/>
+		<data format="txt" name="assignments" label="Cluster Assignments (Sub Challenge 2A)" from_work_dir="subchallenge2A.txt"/>
+		<data format="txt" name="co_clustering" label="Co-Cluster (Sub Challenge 2B)" from_work_dir="subchallenge2B.txt"/>
+	</outputs>
+
+	<help>
+You should totally explain how to use your tool here
+	</help>
+
+	<tests>
+		<test>
+		</test>
+	</tests>
+
+</tool>

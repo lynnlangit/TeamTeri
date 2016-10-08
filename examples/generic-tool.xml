@@ -1,0 +1,39 @@
+<tool id="simple_tool" name="My Simple Tool" version="1.0.0"
+  <!--
+  To use this template:
+  1) Change the tool id above to a unique string
+  2) Write a wrapper to your program that takes 3 arguments (in this order):
+    - The VCF file
+    - The CNA file
+    - The output file
+  3) Change the 'my-program' in the requirements - container section
+  4) If your container is not in the Docker registry (https://registry.hub.docker.com/), create a Dockerfile
+  5) Change 'my_program' in the command section to the name of your program
+    (if the program is not in the PATH, use the full path of the program)
+  
+  This program template only outputs a single file, so if you wish to submit to multiple 
+  sub-challenges, replicate the 'OUTPUT_FILE_1' in the command line and the 
+  'outputs' section, or make one tool template per subchallenge
+  --
+	<descriptionA simple example</description
+	<requirements
+		<container type="docker"my-program</container
+	</requirements
+	<command
+my_program ${VCF_FILE} ${CNA_FILE} ${OUTPUT_FILE_1}
+	</command
+
+	<inputs
+		<param format="vcf" name="VCF_FILE" type="data" label="VCF file" help="" /
+    <param format="txt" name="CNA_FILE" type="data" label="CNA file" help="" /
+	</inputs
+
+	<outputs
+		<data format="txt" name="OUTPUT_FILE_1" label="Output File"/
+	</outputs
+
+	<help
+You should totally explain how to use your tool here
+	</help
+
+</tool
