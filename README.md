@@ -8,3 +8,9 @@ To understand the GCP Google Cloud Genomics API, see this link --
 
 We suggest running the GCP Genomics Quick Start steps to get started --
     https://cloud.google.com/genomics/quickstart
+
+For end-to-end documentation see the Google Genomics Cookbook -- 
+    http://googlegenomics.readthedocs.io/en/latest/
+
+For a list of public genomics datasets, many hosted on GCP, see --
+    http://googlegenomics.readthedocs.io/en/latest/use_cases/discover_public_data/index.html
