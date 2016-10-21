@@ -2,7 +2,7 @@ FROM ubuntu
 
 RUN apt-get update &amp;&amp; apt-get install -y gfortran build-essential make gcc build-essential python python-dev wget libgsl0ldbl gsl-bin libgsl0-dev python-pip git
 
-# blas   ......
+# blas   ..........
 ADD blas.sh /tmp/blas.sh
 RUN chmod 755 /tmp/blas.sh
 RUN /tmp/blas.sh
