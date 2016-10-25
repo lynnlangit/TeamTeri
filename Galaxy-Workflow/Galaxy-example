@@ -1,0 +1,23 @@
+1. Get Data
+    Upload data into Galaxy (main and variant)
+        from UCSC Main table browser
+2. Analyze Data
+    Operate on Genomic Intervals
+        Join exons w/SNPs
+    Join, Subtract and Group
+        Count SNPs per exon
+    Filter/Sort
+        Sort exons by SNP count
+    Manipulation/Select First
+        Select top 5 exons with highest SNP count
+    Join, Subtract and Group
+        Recover exon detail for data display
+3. Extract as Galaxy Workflow (optional0
+    Can also annotate/save as history
+4. Edit Workflow 
+    Flag workflow outputs (hides intermediate steps)
+    Rename inputs for readability
+    Set desired parameters at runtime in workflow
+5. Run updated workflow on entire genome
+    Get/import datasets
+    Start the workflow
