@@ -4,4 +4,4 @@
 * GitHub Repo is here (https://github.com/bigdatagenomics/adam) - this tool is being built by a team at the AMPLamp (https://amplab.cs.berkeley.edu/software/) at UC Berkeley and other universities
 * Interesting 'cleaning tool' is SampleClean (http://sampleclean.org/index.html) - uses algorithms, stats and AWS Mechanical Turks to pre-process data
 * Here is diagram of their 'Big Data Stack'
-
+![Stack Diagram](https://github.com/lynnlangit/TeamTeri/blob/master/Images/BigDataStackBerkeley.png)
