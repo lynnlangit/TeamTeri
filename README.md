@@ -1,7 +1,7 @@
 # TeamTeri
 Artifacts for the Cancer Genomics on GCP work
 
-![GCP-Genomics](https://github.com/lynnlangit/TeamTeri/blob/master/Images/Genomics-Cookbook.png)
+![GCP-Genomics](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics-Jobs.png)
 
 Explanation of NGS (next-generation sequencing - Illumina example) --
     https://github.com/ga4gh/schemas/issues/63
