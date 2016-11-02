@@ -1,11 +1,10 @@
 # TeamTeri
 Artifacts for the Cancer Genomics on GCP work
 
-More information about the challenge at this link -- 
-   https://www.synapse.org/#!Synapse:syn2813581/wiki/303137
+![GCP-Genomics](https://github.com/lynnlangit/TeamTeri/blob/master/Images/Genomics-Cookbook.png)
 
 Explanation of NGS (next-generation sequencing - Illumina example) --
-    https://github.com/ga4gh/schemas/issues/63#issuecomment-44129172
+    https://github.com/ga4gh/schemas/issues/63
 
 ## Google Cloud 
 
@@ -20,6 +19,9 @@ For end-to-end documentation see the Google Genomics Cookbook --
 
 For a list of public genomics datasets, many hosted on GCP, see --
     http://googlegenomics.readthedocs.io/en/latest/use_cases/discover_public_data/index.html
+
+On the GCP/Galaxy challenge -- 
+   https://www.synapse.org/#!Synapse:syn2813581/wiki/303137
 
 ## Galaxy
 
