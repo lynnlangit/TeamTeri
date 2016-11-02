@@ -4,6 +4,9 @@ Artifacts for the Cancer Genomics on GCP work
 More information about the challenge at this link -- 
    https://www.synapse.org/#!Synapse:syn2813581/wiki/303137
 
+Explanation of NGS (next-generation sequencing - Illumina example) --
+    https://github.com/ga4gh/schemas/issues/63#issuecomment-44129172
+
 ## Google Cloud 
 
 To understand the GCP Google Cloud Genomics API, see this link --
