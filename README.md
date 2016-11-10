@@ -24,6 +24,9 @@ End-to-end documentation see the Google Genomics Cookbook --
 List of public genomics datasets, many hosted on GCP, see --
     http://googlegenomics.readthedocs.io/en/latest/use_cases/discover_public_data/index.html
 
+Broad Institute Genomic Analysis Toolkit - GATK
+    https://software.broadinstitute.org/gatk/
+
 ## Galaxy
 
 Main Galaxy site -- https://galaxyproject.org/
