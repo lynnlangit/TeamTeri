@@ -8,23 +8,21 @@ Explanation of NGS (next-generation sequencing - Illumina example) --
 
 ![Next Generation Sequence Diagram](https://github.com/lynnlangit/TeamTeri/blob/master/Images/NGS-Workflow.png)
 
-
 ## Google Cloud 
 
-To understand the GCP Google Cloud Genomics API, see this link --
+Understand the GCP Google Cloud Genomics API, see this link --
     https://cloud.google.com/genomics/overview
 
-We suggest running the GCP Genomics Quick Start steps to get started --
+Read and run the GCP Genomics Quick Start steps to get started --
     https://cloud.google.com/genomics/quickstart
 
 ![GCP-Genomics](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics-Jobs.png)
 
-For end-to-end documentation see the Google Genomics Cookbook -- 
+End-to-end documentation see the Google Genomics Cookbook -- 
     http://googlegenomics.readthedocs.io/en/latest/
 
-For a list of public genomics datasets, many hosted on GCP, see --
+List of public genomics datasets, many hosted on GCP, see --
     http://googlegenomics.readthedocs.io/en/latest/use_cases/discover_public_data/index.html
-
 
 ## Galaxy
 
@@ -34,11 +32,10 @@ Use public Galaxy server (main site)  -- https://usegalaxy.org/
 
 Using Galaxy 101/Hello Galaxy step-by-step -- https://github.com/nekrut/galaxy/wiki/Galaxy101-1
 
-
 ## Public Competitions and Challenges
 
-Dream Challenges --
+List of Dream Challenges --
    http://dreamchallenges.org/challenges/
 
-On the GCP/Galaxy challenge -- 
+Sample GCP/Galaxy challenge -- 
    https://www.synapse.org/#!Synapse:syn2813581/wiki/303137
