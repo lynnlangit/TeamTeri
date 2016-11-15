@@ -34,3 +34,7 @@ BigQuery
     Ad hoc queries
     Script-enhanced queries, i.e. Python
     BG Pipelines
+
+Deployments
+    YAML configuation files to deploy and manage GCP components
+    Samples - https://github.com/GoogleCloudPlatform/deploymentmanager-samples
