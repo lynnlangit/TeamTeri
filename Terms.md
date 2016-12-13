@@ -1,5 +1,4 @@
 # Terms
-* * *
 
 ## Understanding Cancer Genomic Data Analysis
 
@@ -16,6 +15,8 @@ A major goal of cancer genome sequencing is to identify driver mutations: geneti
 A personal-genomics analysis requires further functional characterization of the detected mutant genes, and the development of a basic model of the origin and progression of the tumor. This analysis can be used to make pharmacological treatment recommendations.As of February 2012, this has only been done for patients clinical trials designed to assess the personal genomics approach to cancer treatment.
 
 * **Main Link** : https://en.wikipedia.org/wiki/Cancer_genome_sequencing
+
+* * *
 
 ## General Genomics Terms
 
@@ -34,6 +35,8 @@ A personal-genomics analysis requires further functional characterization of the
 * .bam files - mapped reads
 * .bed files - representations of genomic regions
 * .vcf files - variants
+
+* * *
 
 ## Google Genomics API Terms
 
@@ -54,5 +57,6 @@ A personal-genomics analysis requires further functional characterization of the
 **Call set**s — A call set is a collection of variant calls, coming from a single sample using a particular variant calling algorithm and parameters.
 
 **Operations** — Import and export of variants and reads, along with custom pipelines, are long-running operations. An operation resource maintains state, which can be queried for input and output details, along with execution status.
+
 * * *
 
