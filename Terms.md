@@ -1,7 +1,10 @@
 # Terms
 * * *
-## Genomics**
+## General Genomics
 
+* **Genomics** : refers to the study of the genome in contrast to genetics which refers to the study of genes and their roles in inheritance. Genomics is a discipline in genetics
+* **DNA Sequencing** : is the process of determining the precise order of nucleotides within a DNA molecule. It includes any method or technology that is used to determine the order of the four bases—adenine, guanine, cytosine, and thymine—in a strand of DNA.
+* **Genomics Analysis** : includes 3 parts - the sequencing of DNA, the assembly of that sequence to create a representation of the original chromosome, and the annotation and analysis of that representation.
 * **Location** : a position on a chromosome. People have ~3 billion locations in their genetic code.
 * **Variant** : a specific location on a chromosome where different people can have different genotypes or haplotypes. A rough estimate is that each person has 3 million variants.
 * **Genotype** : a person's genetic code at a specific location, represented by 2 potentially different letters because each person generally has 2 instances of each location (i.e. G/A)
@@ -14,6 +17,22 @@
 * .bam files - mapped reads
 * .bed files - representations of genomic regions
 * .vcf files - variants
+
+## Cancer Genomics
+
+* **Main Link** : https://en.wikipedia.org/wiki/Cancer_genome_sequencing
+
+## Understanding Cancer Genomic Data Analysis
+
+As with any genome sequencing project, the reads must be assembled to form a representation of the chromosomes being sequenced. With cancer genomes, this is usually done by aligning the reads to the human reference genome.
+
+Since even non-cancerous cells accumulate somatic mutations, it is necessary to compare sequence of the tumor to a matched normal tissue in order to discover which mutations are unique to the cancer. In some cancers, such as leukemia, it is not practical to match the cancer sample to a normal tissue, so a different non-cancerous tissue must be used.
+
+It has been estimated that discovery of all somatic mutations in a tumor would require 30-fold sequencing coverage of the tumor genome and a matched normal tissue.[29] By comparison, the original draft of the human genome had approximately 65-fold coverage.
+
+A major goal of cancer genome sequencing is to identify driver mutations: genetic changes which increase the mutation rate in the cell, leading to more rapid tumor evolution and metastasis.[31] It is difficult to determine driver mutations from DNA sequence alone; but drivers tend to be the most commonly shared mutations amongst tumors, cluster around known oncogenes, and are tend to be non-silent.Passenger mutations, which are not important in the progression of the disease, are randomly distributed throughout the genome. It has been estimated that the average tumor carries c.a. 80 somatic mutations, fewer than 15 of which are expected to be drivers.
+
+A personal-genomics analysis requires further functional characterization of the detected mutant genes, and the development of a basic model of the origin and progression of the tumor. This analysis can be used to make pharmacological treatment recommendations.As of February 2012, this has only been done for patients clinical trials designed to assess the personal genomics approach to cancer treatment.
 
 ## Google Genomics API Terms
 
