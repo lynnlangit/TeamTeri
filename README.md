@@ -1,6 +1,6 @@
 # TeamTeri
 Artifacts for patterns / tools for cloud-scaling cancer genomic pipelines using GCP or AWS.
-For terms and definitions see the terms.md file.
+For terms and definitions see the [terms](https://github.com/lynnlangit/TeamTeri/blob/master/Terms.md) file.
 
 Explanation of NGS (next-generation sequencing - Illumina example) --
     https://github.com/ga4gh/schemas/issues/63

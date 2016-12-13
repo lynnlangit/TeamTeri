@@ -1,6 +1,6 @@
-**Terms
-****
-Genomics**
+# Terms
+* * *
+## Genomics**
 
 * **Location** : a position on a chromosome. People have ~3 billion locations in their genetic code.
 * **Variant** : a specific location on a chromosome where different people can have different genotypes or haplotypes. A rough estimate is that each person has 3 million variants.
@@ -9,13 +9,13 @@ Genomics**
 * **Allele** : a specific haplotype, categorized into "reference allele" (i.e. G) and "alternate allele" (i.e. A)
 * **Biallelic** : a variant which is only represented by 2 different letters in our data (i.e. only G and A are present for all the people in our data, not T or C). Most variants are biallelic.
 
-Genomic Sequencing File Types
+## Genomic Sequencing File Types
 
 * .bam files - mapped reads
 * .bed files - representations of genomic regions
 * .vcf files - variants
 
-Google Genomics API Terms
+## Google Genomics API Terms
 
 **Datasets** --A dataset is a logical grouping of genomic data and analysis associated with your cloud project. For example, a dataset might consist of aligned reads and variant calls from the 1000 Genomes project.
 
