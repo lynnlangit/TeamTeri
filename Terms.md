@@ -24,6 +24,9 @@
 
 ## Understanding Cancer Genomic Data Analysis
 
+![Cancer Sequencing Diagram](https://github.com/lynnlangit/TeamTeri/blob/master/Images/SequencingIllustrated.png)
+
+
 As with any genome sequencing project, the reads must be assembled to form a representation of the chromosomes being sequenced. With cancer genomes, this is usually done by aligning the reads to the human reference genome.
 
 Since even non-cancerous cells accumulate somatic mutations, it is necessary to compare sequence of the tumor to a matched normal tissue in order to discover which mutations are unique to the cancer. In some cancers, such as leukemia, it is not practical to match the cancer sample to a normal tissue, so a different non-cancerous tissue must be used.
