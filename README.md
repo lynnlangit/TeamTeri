@@ -33,9 +33,12 @@ A personal-genomics analysis requires further functional characterization of the
 
 ## Genomic Sequencing File Types
 
-* .bam files - mapped reads
+* .uBam or .FASTQ files - raw input files
+    --unmapped BAM (from Illumina) base calls w/metadata
+    --FASTQ with raw unmapped sequences without metadata
+* .bam/.sam files - mapped reads
 * .bed files - representations of genomic regions
-* .vcf files - variants
+* .vcf files - variant call format files
 
 * * *
 
