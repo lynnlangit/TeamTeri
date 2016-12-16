@@ -14,6 +14,9 @@ End-to-end pipeline patterns and documentation, see the Google Genomics Cookbook
 List of public genomics datasets, many hosted on GCP, see --
     http://googlegenomics.readthedocs.io/en/latest/use_cases/discover_public_data/index.html
 
+Alternate list of public genomic datasets on GCP --
+    https://cloud.google.com/genomics/v1/public-data
+
 Broad Institute Genomic Analysis Toolkit - GATK
     https://software.broadinstitute.org/gatk/
 
