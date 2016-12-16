@@ -1,12 +1,14 @@
 # Google Cloud Platform
 
+![GCP-Genomics](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics.png)
+
 Understand the GCP Google Cloud Genomics API, see this link --
     https://cloud.google.com/genomics/overview
 
 Read and run the GCP Genomics API Quick Start steps to get started --
     https://cloud.google.com/genomics/quickstart
 
-![GCP-Genomics](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics-Jobs.png)
+![GCP-Genomics-Console](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics-Jobs.png)
 
 End-to-end pipeline patterns and documentation, see the Google Genomics Cookbook -- 
     http://googlegenomics.readthedocs.io/en/latest/
