@@ -15,4 +15,5 @@ Services, tools, patterns, practices and demos from AWS for Genomics pipelines
 * **Seven Bridges, R and  AWS** -- https://aws.amazon.com/blogs/big-data/extending-seven-bridges-genomics-with-amazon-redshift-and-r/
 * **BEST PRACTICES** -- https://d0.awsstatic.com/whitepapers/compliance/AWS_dBGaP_Genomics_on_AWS_Best_Practices.pdf
 
+![AWS Genomic Datasets](https://github.com/lynnlangit/TeamTeri/blob/master/Images/AWS-Genomic-Datasets.png)
 * * *
