@@ -1,5 +1,6 @@
 # TeamTeri
-Artifacts for patterns / tools for cloud-scaling cancer genomic pipelines using GCP or AWS.
+Artifacts for patterns / tools for cloud-scaling cancer genomic pipelines using GCP or AWS 
+and commonly-used bioinformatics frameworks and tools such as Galaxy, ADAM and more.
 
 ## Understanding Cancer Genomic Data Analysis
 
