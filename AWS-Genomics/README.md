@@ -8,7 +8,7 @@ Services, tools, patterns, practices and demos from AWS for Genomics pipelines
 * **MAIN** AWS for life sciences  -- https://aws.amazon.com/health/life-sciences/
 * **GENOMICS** AWS for Genomics -- https://aws.amazon.com/health/genomics/
 * **1000 Genomes Dataset** -- https://aws.amazon.com/1000genomes/
-* **DEMO** Athena -- https://aws.amazon.com/blogs/big-data/interactive-analysis-of-genomic-datasets-using-amazon-athena/k
+* **DEMO** Athena -- https://aws.amazon.com/blogs/big-data/interactive-analysis-of-genomic-datasets-using-amazon-athena/
 * **NEW** AWS Batch -- https://aws.amazon.com/batch/
 * **NEW** AWS Athena -- https://aws.amazon.com/athena/
 * **ADAM, Spark and EMR** -- https://aws.amazon.com/blogs/big-data/will-spark-power-the-data-behind-precision-medicine/
