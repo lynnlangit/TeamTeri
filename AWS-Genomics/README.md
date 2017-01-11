@@ -14,6 +14,7 @@ Services, tools, patterns, practices and demos from AWS for Genomics pipelines
 * **ADAM, Spark and EMR** -- https://aws.amazon.com/blogs/big-data/will-spark-power-the-data-behind-precision-medicine/
 * **Seven Bridges, R and  AWS** -- https://aws.amazon.com/blogs/big-data/extending-seven-bridges-genomics-with-amazon-redshift-and-r/
 * **BEST PRACTICES** -- https://d0.awsstatic.com/whitepapers/compliance/AWS_dBGaP_Genomics_on_AWS_Best_Practices.pdf
+* **Lambda pipeline example** -- https://aws.amazon.com/blogs/aws/genome-engineering-applications-early-adopters-of-the-cloud/
 
 ![AWS Genomic Datasets](https://github.com/lynnlangit/TeamTeri/blob/master/Images/AWS-Genomic-Datasets.png)
 * * *
