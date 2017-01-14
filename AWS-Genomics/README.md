@@ -10,6 +10,10 @@ Services, tools, patterns, practices and demos from AWS for Genomics pipelines
 * **1000 Genomes Dataset** -- https://aws.amazon.com/1000genomes/
 * **DEMO** Athena -- https://aws.amazon.com/blogs/big-data/interactive-analysis-of-genomic-datasets-using-amazon-athena/
 * **NEW** AWS Batch -- https://aws.amazon.com/batch/
+
+![AWS Genomics using Batch](https://github.com/lynnlangit/TeamTeri/blob/master/Images/aws-sequence-pipe.png)
+
+
 * **NEW** AWS Athena -- https://aws.amazon.com/athena/
 * **ADAM, Spark and EMR** -- https://aws.amazon.com/blogs/big-data/will-spark-power-the-data-behind-precision-medicine/
 * **Seven Bridges, R and  AWS** -- https://aws.amazon.com/blogs/big-data/extending-seven-bridges-genomics-with-amazon-redshift-and-r/
