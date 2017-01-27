@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BashSupportProjectSettings">
+    <option name="globalVariables">
+      <set>
+        <option value="ACCOUNT" />
+        <option value="BOOT_DISK_SIZE" />
+        <option value="CLIENT_INSTANCES" />
+        <option value="CLIENT_INSTANCE_TYPE" />
+        <option value="CLIENT_TAG" />
+        <option value="GCLOUD_ARGS" />
+        <option value="PERSISTENT_DISK" />
+        <option value="PROJECT" />
+        <option value="TEAMTERI_IMAGE" />
+        <option value="ZONE" />
+      </set>
+    </option>
+  </component>
+</project>

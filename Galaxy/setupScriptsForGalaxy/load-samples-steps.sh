@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # SSH to GCE / Galaxy instance
 
 # change to galaxy user
