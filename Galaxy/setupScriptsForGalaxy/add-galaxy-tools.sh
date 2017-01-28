@@ -1,17 +1,17 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# SSH to GCE / Galaxy instance
 
-# ---------------Load example Galaxy Tools------------
-# Using the GCP (GCE) console, click the 'SSH' button to open an SSH shell
+# change to galaxy user
+sudo su ubuntu 
 
-sudo su ubuntu
-cd /opt/galaxy/tools
-git clone https://github.com/Sage-Bionetworks/SMC-Het-Challenge-Examples.git
-# cd SMC-Het-Challenge-Examples
+# change to galaxy directory
+cd /opt/galaxy/tools/
 
-sudo service docker restart
+# clone sample tools
+git clone https://github.com/Sage-Bionetworks/SMC-het-challenge-examples.git
+
+# restart galaxy to load new tools
 restart_galaxy
 
-# import data (within Galaxy) using the 'Data' link --> import history
-# test the tools
-# use this file In the 'VCF file' field select 'Tumour1.mutect.vcf'
-# evalate results using the Evaluator Tool in the left hand tool panel
+#open code ide (log in with your email)
+<public ip address/ide/>
