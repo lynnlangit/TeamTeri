@@ -1,13 +1,15 @@
 ACCOUNT=<GOOGLE EMAIL>
 PROJECT=<PROJECT ID>
 
+ID=1
 NUM_AS_CLIENTS=1                        # set the number of GCE VM instances of Galaxy
-ZONE=us-west1-a                         # set your zone, i.e 'us-central1-b', etc....
+ZONE=us-central1-a                         # set your zone, i.e 'us-central1-b', etc....
 CLIENT_INSTANCE_TYPE=n1-standard-1      # set your VM instance type / size
 USE_PERSISTENT_DISK=0                   # set to 0 for no extra disk, 1 for extra persistent disk
 TEAMTERI_IMAGE=galaxy-image-1           # the Galaxy image you create & store in GCE Images
 BOOT_DISK_SIZE=200GB                    # set to 30 GB or greater for ability to 'dockerize'
+CLIENT_TAG=galaxy-client
+CLIENT_INSTANCES=galaxy-client-${ID}
+PERSISTENT_DISK=galaxy-data-${ID}
 
-
-CLIENT_INSTANCES=`for i in $(seq 2 ${NUM_AS_CLIENTS}); do echo galaxy-client-${i}; done`
 GCLOUD_ARGS="--zone ${ZONE} --project ${PROJECT}"
