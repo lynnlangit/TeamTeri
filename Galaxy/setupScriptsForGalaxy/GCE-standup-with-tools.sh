@@ -21,4 +21,12 @@ gcloud compute instances create ${GCLOUD_ARGS} ${CLIENT_INSTANCES} \
     --tags ${CLIENT_TAG} \
     --image ${TEAMTERI_IMAGE} \
     --image-project ${PROJECT} \
-    --boot-disk-size ${BOOT_DISK_SIZE} 
+    --boot-disk-size ${BOOT_DISK_SIZE} \
+    --metadata startup-script= '#! /bin/bash
+    # Installs Galaxy SMC-Het-Challenge-Examples Tools
+	sudo su ubuntu
+	cd /opt/galaxy/tools
+	git clone https://github.com/Sage-Bionetworks/SMC-Het-Challenge-Examples.git
+	
+	sudo service docker restart
+	restart_galaxy'
