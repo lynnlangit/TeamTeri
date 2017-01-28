@@ -16,5 +16,10 @@ gcloud compute images create ${TEAMTERI_IMAGE} \
     --source-uri="http://storage.googleapis.com/galaxyproject_images/planemo_machine_smc.06.image.tar.gz"
 
 echo "Creating client instances, please wait..."
-gcloud compute instances create ${GCLOUD_ARGS} ${CLIENT_INSTANCES} --machine-type ${CLIENT_INSTANCE_TYPE} --tags ${CLIENT_TAG} --image ${TEAMTERI_IMAGE} --image-project ${PROJECT} --boot-disk-size ${BOOT_DISK_SIZE} --metadata-from-file startup-script=./boot.sh
-    
+gcloud compute instances create ${GCLOUD_ARGS} ${CLIENT_INSTANCES} \
+	--machine-type ${CLIENT_INSTANCE_TYPE} 
+	--tags ${CLIENT_TAG} 
+	--image ${TEAMTERI_IMAGE} 
+	--image-project ${PROJECT} 
+	--boot-disk-size ${BOOT_DISK_SIZE}
+	--metadata-from-file startup-script=./boot.sh

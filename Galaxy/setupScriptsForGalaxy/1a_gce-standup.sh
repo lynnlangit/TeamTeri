@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Importing configuration from cli.rc..."
-source ./cli.rc
+source ./0_cli.rc
 
 echo "authenticate to GCP from your working directory via Terminal"
 echo "will not launch if ${ACCOUNT} already has credentials"
