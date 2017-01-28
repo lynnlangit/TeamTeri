@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Importing configuration from cli.rc..."
-source ./cli.rc
+source ./0_cli.rc
 
 echo "authenticate to GCP from your working directory via Terminal"
 echo "will not launch if ${ACCOUNT} already has credentials"
@@ -17,8 +17,8 @@ gcloud compute images create ${TEAMTERI_IMAGE} \
 
 echo "Creating client instances, please wait..."
 gcloud compute instances create ${GCLOUD_ARGS} ${CLIENT_INSTANCES} \
-    --machine-type ${CLIENT_INSTANCE_TYPE} \
-    --tags ${CLIENT_TAG} \
-    --image ${TEAMTERI_IMAGE} \
-    --image-project ${PROJECT} \
-    --boot-disk-size ${BOOT_DISK_SIZE} 
+	--machine-type ${CLIENT_INSTANCE_TYPE} \
+	--tags ${CLIENT_TAG} \
+	--image ${TEAMTERI_IMAGE} \
+	--image-project ${PROJECT} \
+	--boot-disk-size ${BOOT_DISK_SIZE} 

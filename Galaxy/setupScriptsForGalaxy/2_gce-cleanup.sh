@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source ./cli.rc
+source ./0_cli.rc
 
 # ------------------- CLEAN UP  -----------------------
 
