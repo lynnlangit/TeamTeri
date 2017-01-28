@@ -1,5 +1,5 @@
-ACCOUNT=sptkrishnan@gmail.com
-PROJECT=dragons-knights
+ACCOUNT=<email>
+PROJECT=<projectID>
 
 ID=1
 NUM_AS_CLIENTS=2                        # set the number of GCE VM instances of Galaxy
