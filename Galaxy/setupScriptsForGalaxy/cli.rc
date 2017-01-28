@@ -1,7 +1,7 @@
 ACCOUNT=<GOOGLE EMAIL>
 PROJECT=<PROJECT ID>
 
-ID=1
+ID=2
 NUM_AS_CLIENTS=1                        # set the number of GCE VM instances of Galaxy
 ZONE=us-central1-a                         # set your zone, i.e 'us-central1-b', etc....
 CLIENT_INSTANCE_TYPE=n1-standard-1      # set your VM instance type / size
