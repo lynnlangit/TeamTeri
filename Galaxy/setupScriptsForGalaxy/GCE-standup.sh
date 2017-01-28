@@ -15,8 +15,8 @@ gcloud compute images create ${TEAMTERI_IMAGE} \
     --description="Galaxy_client" \
     --source-uri="http://storage.googleapis.com/galaxyproject_images/planemo_machine_smc.06.image.tar.gz"
 
-echo "Creating persistent disk image..."
-gcloud compute disks create --size=500GB --zone=${ZONE} ${PERSISTENT_DISK}
+#echo "Creating persistent disk image..."
+#gcloud compute disks create --size=500GB --zone=${ZONE} ${PERSISTENT_DISK}
 
 echo "Creating client instances, please wait..."
 gcloud compute instances create ${GCLOUD_ARGS} ${CLIENT_INSTANCES} \
@@ -25,5 +25,5 @@ gcloud compute instances create ${GCLOUD_ARGS} ${CLIENT_INSTANCES} \
     --image ${TEAMTERI_IMAGE} \
     --image-project ${PROJECT} \
     --boot-disk-size ${BOOT_DISK_SIZE} \
-    --disk=name=${PERSISTENT_DISK},device-name=galaxy-data \
-    --metadata-from-file startup-script=boot.sh
+#    --disk=name=${PERSISTENT_DISK},device-name=galaxy-data \
+#    --metadata-from-file startup-script=boot.sh
