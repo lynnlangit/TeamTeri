@@ -1,0 +1,26 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: galaxy-deployment
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: galaxy
+    spec:
+      containers:
+        - name: galaxy
+          image: bgruening/galaxy-stable
+          ports:
+            - containerPort: 80
+            - containerPort: 21
+            - containerPort: 22
+          volumeMounts:
+            - mountPath: /export
+              name: export-volume
+      volumes:
+        - name: export-volume
+          gcePersistentDisk:
+            pdName: galaxy-export
+            fsType: ext4
