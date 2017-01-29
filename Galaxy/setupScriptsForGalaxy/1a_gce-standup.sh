@@ -8,10 +8,10 @@ echo "will not launch if ${ACCOUNT} already has credentials"
 gcloud auth login ${ACCOUNT} --brief
 
 echo "Creating firewall rule..."
-gcloud compute firewall-rules create galaxy-allow-http --allow tcp:80 --target-tags ${CLIENT_TAG}
+gcloud compute firewall-rules create --project ${PROJECT} galaxy-allow-http --allow tcp:80 --target-tags ${CLIENT_TAG}
 
 echo "Creating client image, please wait..."
-gcloud compute images create ${TEAMTERI_IMAGE} \
+gcloud compute images create --project ${PROJECT} ${TEAMTERI_IMAGE} \
     --description="Galaxy_client" \
     --source-uri="http://storage.googleapis.com/galaxyproject_images/planemo_machine_smc.06.image.tar.gz"
 
@@ -21,4 +21,4 @@ gcloud compute instances create ${GCLOUD_ARGS} ${CLIENT_INSTANCES} \
 	--tags ${CLIENT_TAG} \
 	--image ${TEAMTERI_IMAGE} \
 	--image-project ${PROJECT} \
-	--boot-disk-size ${BOOT_DISK_SIZE} 
+	--boot-disk-size ${BOOT_DISK_SIZE}

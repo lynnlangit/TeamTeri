@@ -12,5 +12,4 @@ CLIENT_TAG=galaxy-client
 CLIENT_INSTANCES=galaxy-client-${ID}
 PERSISTENT_DISK=galaxy-data-${ID}
 
-CLIENT_INSTANCES=`for i in $(seq 1 ${NUM_AS_CLIENTS}); do echo galaxy-client-${i}; done`
 GCLOUD_ARGS="--zone ${ZONE} --project ${PROJECT}"

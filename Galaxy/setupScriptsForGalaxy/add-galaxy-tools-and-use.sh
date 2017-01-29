@@ -6,7 +6,6 @@
 sudo su ubuntu
 cd /opt/galaxy/tools
 git clone https://github.com/Sage-Bionetworks/SMC-Het-Challenge-Examples.git
-# cd SMC-Het-Challenge-Examples
 
 sudo service docker restart
 restart_galaxy
