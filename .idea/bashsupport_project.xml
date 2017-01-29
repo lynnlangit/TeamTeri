@@ -8,9 +8,12 @@
         <option value="CLIENT_INSTANCES" />
         <option value="CLIENT_INSTANCE_TYPE" />
         <option value="CLIENT_TAG" />
+        <option value="CLUSTER_NAME" />
+        <option value="COMPUTE_ZONE" />
         <option value="GCLOUD_ARGS" />
         <option value="PERSISTENT_DISK" />
         <option value="PROJECT" />
+        <option value="PROJECT_ID" />
         <option value="TEAMTERI_IMAGE" />
         <option value="ZONE" />
       </set>
