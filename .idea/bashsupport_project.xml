@@ -5,7 +5,6 @@
       <set>
         <option value="ACCOUNT" />
         <option value="BOOT_DISK_SIZE" />
-        <option value="CLIENT_INSTANCES" />
         <option value="CLIENT_INSTANCE_TYPE" />
         <option value="CLIENT_TAG" />
         <option value="CLUSTER_NAME" />
@@ -15,6 +14,8 @@
         <option value="PROJECT" />
         <option value="PROJECT_ID" />
         <option value="TEAMTERI_IMAGE" />
+        <option value="TOOLS_INSTANCE" />
+        <option value="VANILLA_INSTANCE" />
         <option value="ZONE" />
       </set>
     </option>
