@@ -9,8 +9,7 @@ USE_PERSISTENT_DISK=0                   # set to 0 for no extra disk, 1 for extr
 TEAMTERI_IMAGE=galaxy-image-1           # the Galaxy image you create & store in GCE Images
 BOOT_DISK_SIZE=200GB                    # set to 30 GB or greater for ability to 'dockerize'
 CLIENT_TAG=galaxy-client
-CLIENT_INSTANCES=galaxy-client-${ID}
-PERSISTENT_DISK=galaxy-data-${ID}
+VANILLA_INSTANCE=galaxy-vanilla-${ID}
+TOOLS_INSTANCE=galaxy-tools-${ID}
 
-CLIENT_INSTANCES=`for i in $(seq 1 ${NUM_AS_CLIENTS}); do echo galaxy-client-${i}; done`
 GCLOUD_ARGS="--zone ${ZONE} --project ${PROJECT}"
