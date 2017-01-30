@@ -43,9 +43,4 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-
-Galaxy/setupScriptsForGalaxy/cli.rc
-
-Galaxy/setupScriptsForGalaxy/cli.rc
-
 *.rc
