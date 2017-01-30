@@ -1,0 +1,419 @@
+{
+    "a_galaxy_workflow": "true", 
+    "annotation": "", 
+    "format-version": "0.1", 
+    "name": "PhyloWGS", 
+    "steps": {
+        "0": {
+            "annotation": "", 
+            "id": 0, 
+            "input_connections": {}, 
+            "inputs": [
+                {
+                    "description": "", 
+                    "name": "battenberg"
+                }
+            ], 
+            "label": null, 
+            "name": "Input dataset", 
+            "outputs": [], 
+            "position": {
+                "left": 636.5, 
+                "top": 253.566650390625
+            }, 
+            "tool_errors": null, 
+            "tool_id": null, 
+            "tool_state": "{\"name\": \"battenberg\"}", 
+            "tool_version": null, 
+            "type": "data_input", 
+            "user_outputs": [], 
+            "uuid": "4d972031-48db-482e-b0c2-f00824706651"
+        }, 
+        "1": {
+            "annotation": "", 
+            "id": 1, 
+            "input_connections": {}, 
+            "inputs": [
+                {
+                    "description": "", 
+                    "name": "mutect"
+                }
+            ], 
+            "label": null, 
+            "name": "Input dataset", 
+            "outputs": [], 
+            "position": {
+                "left": 891.5, 
+                "top": 517.566650390625
+            }, 
+            "tool_errors": null, 
+            "tool_id": null, 
+            "tool_state": "{\"name\": \"mutect\"}", 
+            "tool_version": null, 
+            "type": "data_input", 
+            "user_outputs": [], 
+            "uuid": "9120b393-1ea5-48cf-8898-2e7bf033b3f5"
+        }, 
+        "2": {
+            "annotation": "", 
+            "id": 2, 
+            "input_connections": {
+                "battenberg": {
+                    "id": 0, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [], 
+            "label": null, 
+            "name": "PhyloWGS CNVs Prep", 
+            "outputs": [
+                {
+                    "name": "cnv_out", 
+                    "type": "tabular"
+                }
+            ], 
+            "position": {
+                "left": 872.5, 
+                "top": 331.566650390625
+            }, 
+            "post_job_actions": {
+                "HideDatasetActioncnv_out": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "cnv_out"
+                }
+            }, 
+            "tool_errors": null, 
+            "tool_id": "PhyloWGS_CNVs_Prep", 
+            "tool_state": "{\"__page__\": 0, \"battenberg\": \"null\", \"__rerun_remap_job_id__\": null, \"chromInfo\": \"\\\"/opt/galaxy/galaxy-app/tool-data/shared/ucsc/chrom/?.len\\\"\", \"cellularity\": \"\\\"1.0\\\"\"}", 
+            "tool_version": "0.1.0", 
+            "type": "tool", 
+            "user_outputs": [], 
+            "uuid": "fe17cd64-510a-4b16-8773-ebb7cef6ce69"
+        }, 
+        "3": {
+            "annotation": "", 
+            "id": 3, 
+            "input_connections": {
+                "cnvs": {
+                    "id": 2, 
+                    "output_name": "cnv_out"
+                }, 
+                "vcf_file": {
+                    "id": 1, 
+                    "output_name": "output"
+                }
+            }, 
+            "inputs": [], 
+            "label": null, 
+            "name": "PhyloWGS Tool Input Prep", 
+            "outputs": [
+                {
+                    "name": "output_cnvs", 
+                    "type": "tabular"
+                }, 
+                {
+                    "name": "output_variants", 
+                    "type": "tabular"
+                }
+            ], 
+            "position": {
+                "left": 1119.5, 
+                "top": 407.566650390625
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionoutput_cnvs": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "output_cnvs"
+                }, 
+                "HideDatasetActionoutput_variants": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "output_variants"
+                }
+            }, 
+            "tool_errors": null, 
+            "tool_id": "PhyloWGS_Tool_Input_Prep", 
+            "tool_state": "{\"cnv_confidence\": \"\\\"1.0\\\"\", \"__page__\": 0, \"read_length\": \"\\\"100\\\"\", \"input_type\": \"\\\"mutect_smchet\\\"\", \"vcf_file\": \"null\", \"subsample\": \"{\\\"count\\\": \\\"20\\\", \\\"run\\\": \\\"yes\\\", \\\"__current_case__\\\": 0}\", \"only_normal_cn\": \"\\\"False\\\"\", \"chromInfo\": \"\\\"/opt/galaxy/galaxy-app/tool-data/shared/ucsc/chrom/?.len\\\"\", \"__rerun_remap_job_id__\": null, \"cnvs\": \"null\"}", 
+            "tool_version": "0.1.0", 
+            "type": "tool", 
+            "user_outputs": [], 
+            "uuid": "cb008be1-0da0-4701-906a-69b2df958c11"
+        }, 
+        "4": {
+            "annotation": "", 
+            "id": 4, 
+            "input_connections": {
+                "cnv_file": {
+                    "id": 3, 
+                    "output_name": "output_cnvs"
+                }, 
+                "ssm_file": {
+                    "id": 3, 
+                    "output_name": "output_variants"
+                }
+            }, 
+            "inputs": [], 
+            "label": null, 
+            "name": "PhyloWGS Tool", 
+            "outputs": [
+                {
+                    "name": "OUTPUT_TOP_K_TREES", 
+                    "type": "text"
+                }, 
+                {
+                    "name": "OUTPUT_CLONAL_FREQS", 
+                    "type": "text"
+                }, 
+                {
+                    "name": "TREES", 
+                    "type": "binary"
+                }
+            ], 
+            "position": {
+                "left": 1379.5, 
+                "top": 427.566650390625
+            }, 
+            "post_job_actions": {
+                "DeleteIntermediatesActionOUTPUT_TOP_K_TREES": {
+                    "action_arguments": {}, 
+                    "action_type": "DeleteIntermediatesAction", 
+                    "output_name": "OUTPUT_TOP_K_TREES"
+                }, 
+                "HideDatasetActionOUTPUT_CLONAL_FREQS": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "OUTPUT_CLONAL_FREQS"
+                }, 
+                "HideDatasetActionOUTPUT_TOP_K_TREES": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "OUTPUT_TOP_K_TREES"
+                }, 
+                "HideDatasetActionTREES": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "TREES"
+                }
+            }, 
+            "tool_errors": null, 
+            "tool_id": "PhyloWGS_Tool", 
+            "tool_state": "{\"MCMC_SAMPLES\": \"\\\"1\\\"\", \"__page__\": 0, \"cnv_file\": \"null\", \"__rerun_remap_job_id__\": null, \"BURN_IN\": \"\\\"400\\\"\", \"RANDOM_SEED\": \"\\\"12345\\\"\", \"MH_ITERATIONS\": \"\\\"1\\\"\", \"ssm_file\": \"null\"}", 
+            "tool_version": "0.1.0", 
+            "type": "tool", 
+            "user_outputs": [], 
+            "uuid": "c29d731e-4274-42a5-bbf1-e790516854ff"
+        }, 
+        "5": {
+            "annotation": "", 
+            "id": 5, 
+            "input_connections": {
+                "trees": {
+                    "id": 4, 
+                    "output_name": "TREES"
+                }
+            }, 
+            "inputs": [], 
+            "label": null, 
+            "name": "PhyloWGS Report Format", 
+            "outputs": [
+                {
+                    "name": "tree_summary", 
+                    "type": "binary"
+                }, 
+                {
+                    "name": "mutations", 
+                    "type": "binary"
+                }, 
+                {
+                    "name": "mutation_assignments", 
+                    "type": "binary"
+                }
+            ], 
+            "position": {
+                "left": 1659.5, 
+                "top": 422.566650390625
+            }, 
+            "post_job_actions": {
+                "HideDatasetActionmutation_assignments": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "mutation_assignments"
+                }, 
+                "HideDatasetActionmutations": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "mutations"
+                }, 
+                "HideDatasetActiontree_summary": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "tree_summary"
+                }
+            }, 
+            "tool_errors": null, 
+            "tool_id": "PhyloWGS_Report_Format", 
+            "tool_state": "{\"__page__\": 0, \"__rerun_remap_job_id__\": null, \"chromInfo\": \"\\\"/opt/galaxy/galaxy-app/tool-data/shared/ucsc/chrom/?.len\\\"\", \"TumourSample\": \"\\\"1\\\"\", \"trees\": \"null\"}", 
+            "tool_version": "0.1.0", 
+            "type": "tool", 
+            "user_outputs": [], 
+            "uuid": "3cc1df27-16a2-4e79-bfe7-736d88f3133e"
+        }, 
+        "6": {
+            "annotation": "", 
+            "id": 6, 
+            "input_connections": {
+                "mutation_assignments": {
+                    "id": 5, 
+                    "output_name": "mutation_assignments"
+                }, 
+                "mutations": {
+                    "id": 5, 
+                    "output_name": "mutations"
+                }, 
+                "tree_summary": {
+                    "id": 5, 
+                    "output_name": "tree_summary"
+                }
+            }, 
+            "inputs": [], 
+            "label": null, 
+            "name": "PhyloWGS Submission Format", 
+            "outputs": [
+                {
+                    "name": "1A", 
+                    "type": "text"
+                }, 
+                {
+                    "name": "1B", 
+                    "type": "text"
+                }, 
+                {
+                    "name": "1C", 
+                    "type": "text"
+                }, 
+                {
+                    "name": "2A", 
+                    "type": "text"
+                }, 
+                {
+                    "name": "2B", 
+                    "type": "binary"
+                }, 
+                {
+                    "name": "3A", 
+                    "type": "text"
+                }, 
+                {
+                    "name": "3B", 
+                    "type": "binary"
+                }
+            ], 
+            "position": {
+                "left": 1922.5, 
+                "top": 450.566650390625
+            }, 
+            "post_job_actions": {
+                "HideDatasetAction1A": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "1A"
+                }, 
+                "HideDatasetAction1B": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "1B"
+                }, 
+                "HideDatasetAction1C": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "1C"
+                }, 
+                "HideDatasetAction2A": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "2A"
+                }, 
+                "HideDatasetAction2B": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "2B"
+                }, 
+                "HideDatasetAction3A": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "3A"
+                }, 
+                "HideDatasetAction3B": {
+                    "action_arguments": {}, 
+                    "action_type": "HideDatasetAction", 
+                    "output_name": "3B"
+                }
+            }, 
+            "tool_errors": null, 
+            "tool_id": "PhyloWGS_Submission_Format", 
+            "tool_state": "{\"__page__\": 0, \"mutation_assignments\": \"null\", \"__rerun_remap_job_id__\": null, \"mutations\": \"null\", \"chromInfo\": \"\\\"/opt/galaxy/galaxy-app/tool-data/shared/ucsc/chrom/?.len\\\"\", \"tree_summary\": \"null\"}", 
+            "tool_version": "0.1.0", 
+            "type": "tool", 
+            "user_outputs": [], 
+            "uuid": "4bd30d8e-146b-4144-aeef-09c8d9edac92"
+        }, 
+        "7": {
+            "annotation": "", 
+            "id": 7, 
+            "input_connections": {
+                "cellularity|predfile": {
+                    "id": 6, 
+                    "output_name": "1A"
+                }, 
+                "cluster_assignment|phylogeny|predfile": {
+                    "id": 6, 
+                    "output_name": "3A"
+                }, 
+                "cluster_assignment|predfile": {
+                    "id": 6, 
+                    "output_name": "2A"
+                }, 
+                "cocluster_assignment|ancestor|predfile": {
+                    "id": 6, 
+                    "output_name": "3B"
+                }, 
+                "cocluster_assignment|predfile": {
+                    "id": 6, 
+                    "output_name": "2B"
+                }, 
+                "population|predfile": {
+                    "id": 6, 
+                    "output_name": "1B"
+                }, 
+                "proportion|predfile": {
+                    "id": 6, 
+                    "output_name": "1C"
+                }
+            }, 
+            "inputs": [], 
+            "label": null, 
+            "name": "SMC-Het Evaluator", 
+            "outputs": [
+                {
+                    "name": "outfile", 
+                    "type": "txt"
+                }
+            ], 
+            "position": {
+                "left": 2242.5, 
+                "top": 521.566650390625
+            }, 
+            "post_job_actions": {}, 
+            "tool_errors": null, 
+            "tool_id": "smc_het_eval", 
+            "tool_state": "{\"cocluster_assignment\": \"{\\\"ancestor\\\": {\\\"predfile\\\": null, \\\"submit\\\": \\\"yes\\\", \\\"__current_case__\\\": 0}, \\\"predfile\\\": null, \\\"submit\\\": \\\"yes\\\", \\\"__current_case__\\\": 0}\", \"__page__\": 0, \"__rerun_remap_job_id__\": null, \"proportion\": \"{\\\"predfile\\\": null, \\\"submit\\\": \\\"yes\\\", \\\"__current_case__\\\": 0}\", \"sample\": \"{\\\"__class__\\\": \\\"UnvalidatedValue\\\", \\\"value\\\": \\\"/opt/galaxy/data/Tumour1/Tumour1\\\"}\", \"cellularity\": \"{\\\"predfile\\\": null, \\\"submit\\\": \\\"yes\\\", \\\"__current_case__\\\": 0}\", \"cluster_assignment\": \"{\\\"predfile\\\": null, \\\"phylogeny\\\": {\\\"predfile\\\": null, \\\"submit\\\": \\\"yes\\\", \\\"__current_case__\\\": 0}, \\\"submit\\\": \\\"yes\\\", \\\"__current_case__\\\": 0}\", \"chromInfo\": \"\\\"/opt/galaxy/galaxy-app/tool-data/shared/ucsc/chrom/?.len\\\"\", \"population\": \"{\\\"predfile\\\": null, \\\"submit\\\": \\\"yes\\\", \\\"__current_case__\\\": 0}\"}", 
+            "tool_version": "0.1.0", 
+            "type": "tool", 
+            "user_outputs": [], 
+            "uuid": "91a8f313-81ba-485c-911a-48c48e2e81b0"
+        }
+    }, 
+    "uuid": "e606d460-fa81-4e20-a94b-9bac77456e1b"
+}
