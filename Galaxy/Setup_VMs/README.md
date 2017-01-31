@@ -5,8 +5,8 @@
 
 # Files
 * **0_cli.rc** contains the configuration files for deploying galaxy on GCE.
-* **1_gce-standup.sh.rc** run this script to create one instance with default settings and one instance that uses a boot script to add some additional tools.
-* **2_gce-cleanup.sh** to cleanup the instances
+* **1_gce-standup.sh** run this bash script to create one instance with default settings and one instance that uses a boot script to add some additional tools.
+* **2_gce-cleanup.sh** run this bash script to cleanup the instances
 * **use-galaxy-tool.md** describes how to do a simple test in Galaxy once the instances are created.
 * **boot.sh** used when standing up instances to pre-install the extra tools. 
 
