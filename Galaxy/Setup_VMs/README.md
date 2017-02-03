@@ -12,8 +12,5 @@
 
 # Notes
 * After Galaxy instances launch, manually edit the GCE (VM) configuration to allow http access
-* Click the 'edit' button in the 'Compute Engine' GCP console for your instance
-* Scroll down to the 'Firewalls' section and click the box 'Allow HTTP' traffic
-* Scroll to the bottom of the page and click the blue 'Save' button
 * Scroll up to the top of the 'Compute Engine' GCP console and then click on the 'External IP' link to connect
 * Log in as with username of 'admin' and password of 'admin' to connect to your Galaxy instance
