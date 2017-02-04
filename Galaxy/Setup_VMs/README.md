@@ -1,4 +1,4 @@
-## To creates Galaxy instances on GCP Virtual Machine(s) - GCE
+## To create Galaxy instances on GCP Virtual Machine(s) - GCE
 
 ### Prepare Scripts
 * **EDIT your `0_cli.rc` file** to add your email and project information 
