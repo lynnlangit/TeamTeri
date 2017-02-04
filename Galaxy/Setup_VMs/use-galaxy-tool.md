@@ -16,5 +16,5 @@ restart_galaxy
 * Import data (within Galaxy) using the 'Data' link --> import history
 * Use this file in the 'VCF file' field select 'Tumour1.mutect.vcf'
 * Click 'Execute' to run the tool - this can take up to 30 minutes to complete
-* Evalate results using the Evaluator Tool (SMC-HeT Evaluator) in the left hand tool panel
+* Evaluate results using the Evaluator Tool (SMC-HeT Evaluator) in the left hand tool panel
 * NOTE: The example is from this link - https://www.synapse.org/#!Synapse:syn2813581/wiki/303161
