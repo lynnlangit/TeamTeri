@@ -1,4 +1,4 @@
-* **Update** cluster.rc, add your project name.
+* **Update** `cluster.rc`, add your project name.
 * **Run** `bash 00-standup.sh`
 
 When the cluster is up you can deploy Galaxy with this command:
@@ -10,6 +10,6 @@ Next you can monitor progress of the deployment by creating a proxy that allows 
 This command will print a message indicating that the proxy has started.  
 
 Next, you can visit the cluster UI at this address:
-* **VISIT CLUSTER** go to this address http://localhost:8001/ui
+* **VISIT CLUSTER** go to this address `http://localhost:8001/ui`
 
 In the Kubernetes UI, click the "Services" link in the left hand menu, and then click the hyperlink there which will take you to the IP where Galaxy is running.
