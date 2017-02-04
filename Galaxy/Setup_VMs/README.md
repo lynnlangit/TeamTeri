@@ -1,8 +1,8 @@
 ## Installation - creates Galaxy instances on GCP Virtual Machine(s)
 
 ### Prepare Scripts
-* **EDIT the 0_cli.rc file ** to add your email and project information 
-* **REVIEW the default values ** for other variables in the same file
+* **EDIT your 0_cli.rc file** to add your email and project information 
+* **REVIEW the default values** for other variables in the same file
 
 ### Run Scripts
 * **RUN `bash 0_cli.rc`** contains the configuration files for deploying galaxy on GCE.
@@ -14,4 +14,4 @@
 ### Access Galaxy 
 * **CLICK ON** the GCP console -> 'Compute Engine' link
 * **CLICK ON** the 'External IP' link of your GCE instance to connect to Galaxy
-* **LOGIN** as with username of 'admin' and password of 'admin' to connect to your Galaxy instance
+* **LOGIN** to your Galaxy instance with the default username of 'admin' and password of 'admin' 
