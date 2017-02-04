@@ -1,12 +1,12 @@
 ##Setup Galaxy Docker instance on GCP Kubernetes cluster
 
 ###Prepare and Run Scripts
-* **Update** `cluster.rc`, add your project name.
-* **Run** `bash 00-standup.sh`
+* **UPDATE** `cluster.rc`, add your project name.
+* **RUN** `bash 00-standup.sh`
 
 ###Deploy Galaxy to the cluster
 After the cluster is up, then you can deploy Galaxy to your cluster with this command:
-* **Deploy Galaxy** `bash kubectl apply -f primary-deployment.yaml`
+* **DEPLOY GALAXY** `bash kubectl apply -f primary-deployment.yaml`
 NOTE: This command tells kubernetes to create the replication controller and service described in the YAML file.
 
 ###Monitor your cluster
