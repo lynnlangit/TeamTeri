@@ -4,10 +4,9 @@
 #   more on AWS Batch at http://docs.aws.amazon.com/batch/latest/userguide/job-definition-template.html
 #   IMPORTANT: 'Managed'  = use AWS Container(s) vs. 'Unmanaged'  = use your own custom Containers
 
-#   use to generate the template format below
+#   use to generate the template format below and showing sample output
 aws batch register-job-definition --generate-cli-skeleton
 
-#   sample output
 {
     "jobDefinitionName": "",
     "type": "",
