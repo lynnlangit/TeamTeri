@@ -12,7 +12,7 @@ Run GATK with GCP Genomics (https://cloud.google.com/genomics/v1alpha2/gatk).
 
 Run Picard/GATK tools on GCP cloud-resident genomic data (http://googlegenomics.readthedocs.io/en/latest/use_cases/run_picard_and_gatk/index.html).
 
-NOTE: Picard/GATK tools are command line utilities for genomic sequencing data processing that typically take BAM and other files as input and produce modified BAM files.
+NOTE: Picard/GATK tools are command line utilities for genomic sequencing data processing that typically take BAM and other files as input and produce modified BAM files and can be downloaded from this link (http://broadinstitute.github.io/picard/)
 
 These tools are frequently chained together into pipelines to perform step-by-step processing of the sequencing data all the way from unaligned sequencer output to variant calls. For more information see Broad best practices (https://software.broadinstitute.org/gatk/best-practices/).
 
