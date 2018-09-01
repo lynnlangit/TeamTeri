@@ -1,6 +1,6 @@
 # VariantSpark
 
-* **SEE** VariantSpark (a Spark-based machine learning analysis library for genomic data), for more information about the library --
+* **SEE** VariantSpark (a Spark-based custom genome-wide RandomForest machine learning analysis library for genomic variants), for more information about the library --
     http://bioinformatics.csiro.au/variantspark
 
 * **USE** the VariantSpark steps on GitHub to get started --  
