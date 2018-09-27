@@ -23,6 +23,13 @@
 ![GCP-Genomics-Console](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics-Jobs.png)
 
 * * *
+## Other Google Genomics Tools
+
+* **USE** Google `DeepVariant` on GCP - https://github.com/google/deepvariant for source code   
+- https://cloud.google.com/genomics/docs/tutorials/deepvariant for a tutorial  
+
+- https://codelabs.developers.google.com/codelabs/genomics-deepvariant/#0 for a codelab
+***
 
 ## Galaxy Bio informatics tool
 
