@@ -1,18 +1,12 @@
 # VariantSpark
 
-* **SEE** VariantSpark (a Spark-based custom genome-wide RandomForest machine learning analysis library for genomic variants), for more information about the library --
-    http://bioinformatics.csiro.au/variantspark
+* **SEE** VariantSpark (a Spark-based custom genome-wide RandomForest machine learning analysis library for genomic variants), for more information about the library -- http://bioinformatics.csiro.au/variantspark
 
-* **USE** the VariantSpark steps on GitHub to get started --  
-    
-    For Apache Spark 2.x (src code) 
-    - Download from https://github.com/csirobigdata/variant-spark
-    
-    For Apache Spark 2.x (jar file) 
-    - Download from http://mvnrepository.com/artifact/au.csiro.aehrc.variant-spark/variant-spark_2.11/0.1.0
+* **USE** VariantSpark (steps on GitHub to get started for Apache Spark 2.x)
+    - Download from https://github.com/csirobigdata/variant-spark src code
+    - Download from http://mvnrepository.com/artifact/au.csiro.aehrc.variant-spark/variant-spark_2.11/0.1.0 jar file
+    - Cloud Platforms - we are working on the AWS Cloud and have created reference implementations on DataBricks/AWS, AWS/EMR and AWS/EKS
 
-    NOTE: For Apache Spark 1.x (src code) 
-    - Download from https://github.com/BauerLab/VariantSpark
 
 ![VariantSpark](https://github.com/lynnlangit/TeamTeri/blob/master/Images/Variant-Spark.png)
 
