@@ -1,7 +1,8 @@
 #!/bin/bash
+# NOTE: edit `0_cli.rc` to include your GCP account information before running this script file
 
 echo "Importing configuration from cli.rc..."
-source ./0_cli.rc
+source ./0_cli.rc								
 
 echo "authenticate to GCP from your working directory via Terminal"
 echo "will not launch if ${ACCOUNT} already has credentials"
