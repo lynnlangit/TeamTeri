@@ -3,6 +3,7 @@ Artifacts for patterns / tools for cloud-scaling cancer genomic data pipelines u
 * **Public Cloud** : services from either GCP (Google Cloud Platform) or AWS (Amazon Web Services)
 * **Bioinformatics** : frameworks, tools and libraries such as VariantSpark, Galaxy, ADAM and others
 * **Practices** : industry patterns and practices for scalable data pipelines including serverless
+* **Learn More** : [link to Repo (awesome bioinformatics)](https://github.com/openbiox/awosome-bioinformatics) with large number of curated links for learning about bioinformatics tools and topics
 
 ## Understanding Cancer Genomic Data Analysis
 
