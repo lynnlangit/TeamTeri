@@ -4,7 +4,9 @@ The open source [GATK (Genome Analysis Toolkit)](https://software.broadinstitute
 
 ![GATK Overview](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-1.png)
 
--------
+----
+
+## Running GATK
 
 - RUN GATK with GCP Genomics (https://cloud.google.com/genomics/v1alpha2/gatk). 
 - RUN Picard/GATK tools on GCP cloud-resident genomic data (http://googlegenomics.readthedocs.io/en/latest/use_cases/run_picard_and_gatk/index.html).
@@ -14,7 +16,10 @@ The open source [GATK (Genome Analysis Toolkit)](https://software.broadinstitute
 Here is more about the GATK process
 ![GATK Process](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-deep.png).
 
--------
+----
+
+## GATK running on Broad Institute Cloud Platforms
+
 Alternatively, GATK tools are available running on GCP via the Broad Institute's 'FireCloud'(https://software.broadinstitute.org/firecloud/).  Firecloud is evolving to become the [Terra.bio](https://terra.bio/) interface which also runs on GCP.  Terra.bio architecture summary is shown in the screenshot below.  An example Firecloud screenshot is also shown below.
 
 ---
