@@ -1,37 +1,26 @@
 # Google Cloud Platform for Genomics Pipelines
 
-* **SEE** the GCP Google Cloud Genomics API, see this link --
-    https://cloud.google.com/genomics/overview
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics.png" width=600>
 
-* **USE** the GCP Genomics API Quick Start steps to get started --
-    https://cloud.google.com/genomics/quickstart
-    
+* **SEE** the GCP Google Cloud Genomics API, see this [link](https://cloud.google.com/genomics/overview). General pattern shown above.
+* **USE** the GCP Genomics API Quick Start steps to get started, see this [link](https://cloud.google.com/genomics/quickstart)
 * **LEARN** more - I have created an open source course `gcp-for-bioinformatics` -- https://github.com/lynnlangit/gcp-for-bioinformatics
 
 ---
 
-![GCP-Genomics](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics.png)
+* **End-to-end pipeline** patterns and documentation, see the Google Genomics Cookbook, see this [link](http://googlegenomics.readthedocs.io/en/latest/)
+* **LIST** public genomics datasets, many hosted on GCP, see this [link](http://googlegenomics.readthedocs.io/en/latest/use_cases/discover_public_data/index.html)
+* **LIST** of public genomic datasets on GCP, see this [link](https://cloud.google.com/genomics/v1/public-data)
+* **SEE** Broad Institute Genomic Analysis Toolkit - GATK, see this [link](https://software.broadinstitute.org/gatk/)
 
-* **End-to-end pipeline** patterns and documentation, see the Google Genomics Cookbook -- 
-    http://googlegenomics.readthedocs.io/en/latest/
-
-* **LIST** public genomics datasets, many hosted on GCP, see --
-    http://googlegenomics.readthedocs.io/en/latest/use_cases/discover_public_data/index.html
-
-* **LIST** of public genomic datasets on GCP --
-    https://cloud.google.com/genomics/v1/public-data
-
-* **SEE** Broad Institute Genomic Analysis Toolkit - GATK
-    https://software.broadinstitute.org/gatk/
-
-![GCP-Genomics-Console](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics-Jobs.png)
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics-Jobs.png" width=600>
 
 * * *
+
 ## Other Google Genomics Tools
 
-* **USE** Google `DeepVariant` on GCP - https://github.com/google/deepvariant for source code   
+* **USE** Google [`DeepVariant` on GCP](https://github.com/google/deepvariant) for source code for DeepVariant  
 - https://cloud.google.com/genomics/docs/tutorials/deepvariant for a tutorial  
-
 - https://codelabs.developers.google.com/codelabs/genomics-deepvariant/#0 for a codelab
 ***
 
