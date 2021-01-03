@@ -4,4 +4,4 @@
 - Use IDSeq - https://idseq.net/my_data
 
 IDSeq Taxonomy View
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/IDSeq-taxonomy.png" width=600
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/IDSeq-taxonomy.png" width=600>
