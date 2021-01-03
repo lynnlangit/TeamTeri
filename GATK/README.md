@@ -17,6 +17,8 @@ Here is more about the GATK process
 -------
 Alternatively, GATK tools are available running on GCP via the Broad Institute's 'FireCloud'(https://software.broadinstitute.org/firecloud/).  Firecloud is evolving to become the [Terra.bio](https://terra.bio/) interface which also runs on GCP.  Terra.bio architecture summary is shown in the screenshot below.  An example Firecloud screenshot is also shown below.
 
+---
+
 Terra.bio Architecture  
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/Terra-arch.png" width=800>  
 
@@ -26,7 +28,7 @@ Terra.bio Architecture
 Firecloud GATK WDL Workflows Example List
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-FireCloud.png" width=800>
 
--------
+
 
 
 
