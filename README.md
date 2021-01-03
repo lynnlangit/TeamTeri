@@ -1,18 +1,18 @@
 # Team Teri
 
-Artifacts for patterns / tools for cloud-scaling genomic data pipelines for disease research (cancer, viral, others...) using...  
+Artifacts for patterns / tools for cloud-scaling genomic data pipelines (often called data lakes) for disease research (cancer, viral, others...) using...  
 
-* **Public Cloud** : services from either GCP (Google Cloud Platform) or AWS (Amazon Web Services)
-* **Bioinformatics** : frameworks, tools and libraries such as VariantSpark, Galaxy, ADAM and others
+* **Public Cloud** : services from either GCP (Google Cloud Platform) or AWS (Amazon Web Services), usually implemented via Data Lake pattern (shown below)
+* **Bioinformatics** : frameworks, tools and libraries such as GATK, VariantSpark, Galaxy, ADAM and others
 * **Practices** : industry patterns and practices for scalable data pipelines including serverless
 * **Learn More** : [link to Repo (awesome bioinformatics)](https://github.com/openbiox/awosome-bioinformatics) with large number of curated links for learning about bioinformatics tools and topics
 * **Bioinformatics Workbook** : [link to online course with key bioinformatics concepts](https://bioinformaticsworkbook.org/)
 
+<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/data-lake.png" width=600>
+
 ---
 
 ## Understanding Cancer Genomic Data Analysis
-
-![Cancer Sequencing Diagram](https://github.com/lynnlangit/TeamTeri/blob/master/Images/SequencingIllustrated.png)
 
 As with any genome sequencing project, the reads must be assembled to form a representation of the chromosomes being sequenced. With cancer genomes, this is usually done by aligning the reads to the human reference genome.
 
@@ -23,6 +23,8 @@ It has been estimated that discovery of all somatic mutations in a tumor would r
 A major goal of cancer genome sequencing is to identify driver mutations: genetic changes which increase the mutation rate in the cell, leading to more rapid tumor evolution and metastasis. It is difficult to determine driver mutations from DNA sequence alone; but drivers tend to be the most commonly shared mutations amongst tumors, cluster around known oncogenes, and are tend to be non-silent. Passenger mutations, which are not important in the progression of the disease,are randomly distributed throughout the genome. It has been estimated that the average tumor carries c.a. 80 somatic mutations, fewer than 15 of which are expected to be drivers.
 
 A personal-genomics analysis requires further functional characterization of the detected mutant genes, and the development of a basic model of the origin and progression of the tumor. This analysis can be used to make pharmacological treatment recommendations. As of February 2012, this has only been done for patients clinical trials designed to assess the personal genomics approach to cancer treatment.
+
+![Cancer Sequencing Diagram](https://github.com/lynnlangit/TeamTeri/blob/master/Images/SequencingIllustrated.png)
 
 * **Main Link** : https://en.wikipedia.org/wiki/Cancer_genome_sequencing
 
