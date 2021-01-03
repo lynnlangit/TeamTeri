@@ -8,6 +8,7 @@ There are a growing number of (mostly open source) genomic analysis tools availa
 - Dockstore - Genomic workflows - in CWL, NF or WDL (hosted in GitHub) and associated container-based tools
 - Galaxy Toolshed - tools for Galaxy Project workflows (.ga files)
 - nf-core - Nextflow workflows (.nf files)
+- bioconda - Bioconda is a channel for the conda package manager specializing in bioinformatics software
 
 ## Blast 10 Ways
 
