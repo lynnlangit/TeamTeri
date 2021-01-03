@@ -1,8 +1,8 @@
 # IGV
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/IGV.png" width=600>
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/IGV.png" width=800>
 
-The Integrated Genomics Viewer (IGV) is available from The Broad Institute -info [here](http://software.broadinstitute.org/software/igv/)
+The Integrated Genomics Viewer (IGV) is open source and available from The Broad Institute -info [here](http://software.broadinstitute.org/software/igv/)
 - for local download - [link](http://software.broadinstitute.org/software/igv/download)
 - as a web site app (can 'point to' URL-data, including files located in buckets in AWS S3, Azure Blobs or GCP Cloud Storage) - [link](https://igv.org/app/)
 - as an embedable object in a Jupyter notebook - [link](https://github.com/igvteam/igv-jupyter)

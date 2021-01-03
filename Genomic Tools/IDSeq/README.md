@@ -1,5 +1,7 @@
 # IDSeq
 
+IDSeq is open source and available from CZI Science.  
+
 - About the IDSeq tool - https://www.discoveridseq.com/
 - Use IDSeq - https://idseq.net/my_data
 
