@@ -28,9 +28,7 @@
 ## Galaxy Bio informatics tool
 
 * **SEE** Main Galaxy site -- https://galaxyproject.org/
-
 * **USE** public Galaxy server (main site)  -- https://usegalaxy.org/
-
 * **USE** Galaxy 101/Hello Galaxy step-by-step -- https://github.com/nekrut/galaxy/wiki/Galaxy101-1
 
 ## Public Genomic Data Competitions and Challenges
