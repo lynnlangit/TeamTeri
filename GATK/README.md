@@ -8,7 +8,7 @@ The open source [GATK (Genome Analysis Toolkit)](https://software.broadinstitute
 
 ## Using GATK Tools
 
-Shown below is more about the GATK tools used in the genomic analysis process  
+Shown below is task-by-task usage for tools from the  GATK tools used in an example genomic analysis process  
 ![GATK Process](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-deep.png).
 
 - RUN GATK with GCP Genomics (https://cloud.google.com/genomics/v1alpha2/gatk). 
@@ -29,9 +29,12 @@ Terra.bio Architecture
 
 ---
 
-
 Firecloud GATK WDL Workflows Example List
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-FireCloud.png" width=800>
+
+## Genomics in the Cloud book
+
+To learn more, I suggest reading the book ['Genomics in the Cloud'](https://www.amazon.com/Genomics-Cloud-GATK-Spark-Docker/dp/1491975199).  One of the authors (Geraldine) wrote a book [chapter synopsis on twitter](https://twitter.com/VdaGeraldine/status/1263336914859560962?s=20).  There is also an associated book club, run by [KT Picard](https://genomedad.com/2020/12/15/genomics-in-the-cloud-book-club/).  The book club has a YouTube channel and also a [Slack channel](https://gitcbookclub.slack.com/).
 
 
 
