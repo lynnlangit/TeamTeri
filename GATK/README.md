@@ -11,13 +11,17 @@ The open source [GATK (Genome Analysis Toolkit)](https://software.broadinstitute
 - NOTE: Picard/GATK tools are command line utilities for genomic sequencing data processing that typically take BAM and other files as input and produce modified BAM files and can be downloaded from this link (http://broadinstitute.github.io/picard/)
 - These tools are frequently chained together into pipelines to perform step-by-step processing of the sequencing data all the way from unaligned sequencer output to variant calls. For more information see Broad best practices (https://software.broadinstitute.org/gatk/best-practices/).
 
+Here is more about the GATK process
+![GATK Process](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-deep.png).
+
 -------
 Alternatively, GATK tools are available running on GCP via the Broad Institute's 'FireCloud'(https://software.broadinstitute.org/firecloud/).  Shown below is a sample screenshot.  Firecloud has evolved to become the [Terra.bio](https://terra.bio/) interface which also runs on GCP.
+
+
 
 ![GATK Process on FireCloud, running on GCP](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-FireCloud.png).
 
 -------
 
-Here is more about the GATK process
-![GATK Process](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-deep.png).
+
 
