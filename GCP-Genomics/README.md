@@ -4,7 +4,8 @@
 
 * **SEE** the GCP Google Cloud Genomics API, see this [link](https://cloud.google.com/genomics/overview). General pattern shown above.
 * **USE** the GCP Genomics API Quick Start steps to get started, see this [link](https://cloud.google.com/genomics/quickstart)
-* **LEARN** more - I have created an open source course `gcp-for-bioinformatics` -- https://github.com/lynnlangit/gcp-for-bioinformatics
+* **LEARN** more - I have created an open source course `gcp-for-bioinformatics`, see this [link](https://github.com/lynnlangit/gcp-for-bioinformatics)
+* **UNDERSTAND** architecture pattern - see my [reference architecture diagrams for genomic analysis](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/6_ARCHITECTURE.md)
 
 ---
 
