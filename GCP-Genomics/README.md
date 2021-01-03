@@ -5,6 +5,10 @@
 
 * **USE** the GCP Genomics API Quick Start steps to get started --
     https://cloud.google.com/genomics/quickstart
+    
+* **LEARN** more - I have created an open source course `gcp-for-bioinformatics` -- https://github.com/lynnlangit/gcp-for-bioinformatics
+
+---
 
 ![GCP-Genomics](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics.png)
 
