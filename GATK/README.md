@@ -12,7 +12,7 @@ The open source [GATK (Genome Analysis Toolkit)](https://software.broadinstitute
 - These tools are frequently chained together into pipelines to perform step-by-step processing of the sequencing data all the way from unaligned sequencer output to variant calls. For more information see Broad best practices (https://software.broadinstitute.org/gatk/best-practices/).
 
 -------
-Alternatively, these tools are available via GCP and the Broad Institute's 'FireCloud'(https://software.broadinstitute.org/firecloud/).  Shown below is a sample screenshot.
+Alternatively, GATK tools are available running on GCP via the Broad Institute's 'FireCloud'(https://software.broadinstitute.org/firecloud/).  Shown below is a sample screenshot.  Firecloud has evolved to become the [Terra.bio](https://terra.bio/) interface which also runs on GCP.
 
 ![GATK Process on FireCloud, running on GCP](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-FireCloud.png).
 
