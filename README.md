@@ -1,5 +1,7 @@
-# TeamTeri
-Artifacts for patterns / tools for cloud-scaling genomic data pipelines for disease research (cancer, viral, others...) using... 
+# Team Teri
+
+Artifacts for patterns / tools for cloud-scaling genomic data pipelines for disease research (cancer, viral, others...) using...  
+
 * **Public Cloud** : services from either GCP (Google Cloud Platform) or AWS (Amazon Web Services)
 * **Bioinformatics** : frameworks, tools and libraries such as VariantSpark, Galaxy, ADAM and others
 * **Practices** : industry patterns and practices for scalable data pipelines including serverless
@@ -80,3 +82,7 @@ Explanation of NGS (next-generation sequencing - Illumina example) --
 ![Next Generation Sequence Diagram](https://github.com/lynnlangit/TeamTeri/blob/master/Images/NGS-Workflow.png)
 
 * * *
+
+## Who is Teri?
+
+Teri is the impetus for my movement into the world of genomic research.  She was diagnosed with breast cancer in 2016.  She survived, but suffered a long course of intense and painful treatment due in part to the lack of availability of personality treatment options at the time of her diagnosis.
