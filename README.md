@@ -87,4 +87,4 @@ Explanation of NGS (next-generation sequencing - Illumina example) --
 
 ## Who is Teri?
 
-Teri is the impetus for my movement into the world of genomic research.  She was diagnosed with breast cancer in 2016.  She survived, but suffered a long course of intense and painful treatment due in part to the lack of availability of personality treatment options at the time of her diagnosis.
+Teri is the impetus for my movement into the world of genomic research.  She was diagnosed with breast cancer in 2016.  She survived, but suffered a long course of intense and painful treatment due in part to the lack of availability of personalized treatment options at the time of her diagnosis.
