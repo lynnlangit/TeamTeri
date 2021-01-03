@@ -8,3 +8,7 @@ There are a growing number of (mostly open source) genomic analysis tools availa
 - Dockstore - Genomic workflows - in CWL, NF or WDL (hosted in GitHub) and associated container-based tools
 - Galaxy Toolshed - tools for Galaxy Project workflows (.ga files)
 - nf-core - Nextflow workflows (.nf files)
+
+## Blast 10 Ways
+
+I wrote a short article on Medium using the `blast` tool, which demonstrates my approach to testing genomics tools - [link](https://medium.com/@lynnlangit/blast-10-ways-3db78f881059)
