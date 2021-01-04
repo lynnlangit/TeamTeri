@@ -1,6 +1,6 @@
 # Team Teri
 
-Artifacts for patterns / tools for cloud-scaling genomic data pipelines (often called data lakes) for disease research (cancer, viral, others...) using...  
+This Repo contains my own study notes for 'Understanding bioinformatics concepts for cloud professionals' - including...
 
 * **Bioinformatics** : frameworks, tools and libraries such as GATK, VariantSpark, Galaxy, ADAM and others, also workflow platforms such as Terra.bio
 * **Public Cloud** : services from either GCP (Google Cloud Platform) or AWS (Amazon Web Services), usually implemented via a **Data Lake** pattern (shown below)
