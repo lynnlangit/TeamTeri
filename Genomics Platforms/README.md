@@ -1,6 +1,6 @@
 # Genomics Platforms
 
-Includes info about Galaxy Project, Terra.bio and Seven Bridges Genomics
+Includes info about Galaxy Project, Terra.bio and Seven Bridges Genomics. This represents a small subset of the available platforms.  Some platforms are free (for research), others are commercial and have associated costs.  Still other platforms have a 'free tier' (running on public cloud) and then a 'you-pay-for-it' tier, usually based on the size of the data you need to analyze.
 
 ## Workflow Languages
 
@@ -12,8 +12,11 @@ There are a number of DSLs (domain-specific languages) for genomics workflows.  
 
 ## Workflow Patterns
 
-Most workflows follow this pattern:
+Most workflows follow this pattern (summarized in the diagram below):
 - Data Lake (shared file storage - local SAN or cloud buckets)
-- Burstable compute cluster (HPC or cloud)
+- Burstable compute cluster (HPC or cloud) - use VMs and/or container clusters on the cloud
 - Use of genomics workflow description language (see list above) - WDL, CWL, NF, GA
 - Use of containers to encapsulate data analysis/processing tasks - docker or singularity containers, the latter for HPC environments
+- Use of libraries along with job controllers to manage cluster resources (CPU, RAM) - cloud library include AWS Batch, Azure Batch, GCP Life Sciences
+
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/analysis-toolkit.png" width=800>
