@@ -3,7 +3,7 @@
 Includes info about Galaxy Project, Terra.bio and Seven Bridges Genomics. This represents a small subset of the available platforms.  Some platforms are free (for research), others are commercial and have associated costs.  Still other platforms have a 'free tier' (running on public cloud) and then a 'you-pay-for-it' tier, usually based on the size of the data you need to analyze.
 ## Workflow Patterns
 
-Most workflows follow this pattern (summarized in the diagram below):
+Most workflows follow this pattern (summarized in the diagram below for AWS):
 - **Data Lake** (shared file storage - local SAN or cloud buckets)
 - Burstable **compute cluster** (HPC or cloud) - use VMs and/or container clusters on the cloud
 - Use of **genomics workflow description language** (see list above) - WDL, CWL, NF, GA
