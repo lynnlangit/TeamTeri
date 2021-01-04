@@ -16,4 +16,8 @@ Artifacts for the Scaling Galaxy for Cancer Genomics on GCP work
 
 ![GalaxyToolshed](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GalaxyToolShed.png)
 
+---
+
+
+
 

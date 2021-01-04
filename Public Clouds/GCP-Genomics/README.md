@@ -19,24 +19,11 @@
 
 * * *
 
-## Other Google Genomics Tools
+## Google Genomics DeepVariant Tool
 
-* **USE** Google [`DeepVariant` on GCP](https://github.com/google/deepvariant) for source code for DeepVariant  
-- https://cloud.google.com/genomics/docs/tutorials/deepvariant for a tutorial  
-- https://codelabs.developers.google.com/codelabs/genomics-deepvariant/#0 for a codelab
+* Source Code for [`Deep Variant` on GCP](https://github.com/google/deepvariant) 
+- Google [`Deep Variant `Tutorial](https://cloud.google.com/genomics/docs/tutorials/deepvariant)  
+- Google [`Deep Variant` Code Lab](https://codelabs.developers.google.com/codelabs/genomics-deepvariant/#0) 
 ***
 
-## Galaxy Bio informatics tool
 
-* **SEE** Main Galaxy site -- https://galaxyproject.org/
-* **USE** public Galaxy server (main site)  -- https://usegalaxy.org/
-* **USE** Galaxy 101/Hello Galaxy step-by-step -- https://github.com/nekrut/galaxy/wiki/Galaxy101-1
-
-## Public Genomic Data Competitions and Challenges
-
-* **LIST** of Dream Challenges --
-   http://dreamchallenges.org/challenges/
-* **SEE** Sample GCP/Galaxy challenge -- 
-   https://www.synapse.org/#!Synapse:syn2813581/wiki/303137
-
-* * * 
