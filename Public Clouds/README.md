@@ -1,6 +1,6 @@
 # Public Clouds for Genomics
 
-- Includes info about AWS, Azure and GCP - see README.md in each folder for introductory information
+- Includes info about Alibaba Cloud, AWS, Azure and GCP - see the `README.md` in each folder for introductory information
 
 ## GCP Genomics
 
