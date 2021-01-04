@@ -3,7 +3,7 @@
 Artifacts for patterns / tools for cloud-scaling genomic data pipelines (often called data lakes) for disease research (cancer, viral, others...) using...  
 
 * **Bioinformatics** : frameworks, tools and libraries such as GATK, VariantSpark, Galaxy, ADAM and others, also workflow platforms such as Terra.bio
-* **Public Cloud** : services from either GCP (Google Cloud Platform) or AWS (Amazon Web Services), usually implemented via Data Lake pattern (shown below)
+* **Public Cloud** : services from either GCP (Google Cloud Platform) or AWS (Amazon Web Services), usually implemented via a **Data Lake** pattern (shown below)
 * **Practices** : industry patterns and practices for scalable data pipelines including serverless
 
 <img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/data-lake.png" width=600>
