@@ -6,6 +6,7 @@
 * **USE** the GCP Genomics API Quick Start steps to get started, see this [link](https://cloud.google.com/genomics/quickstart)
 * **LEARN** more - I have created an open source course `gcp-for-bioinformatics`, see this [link](https://github.com/lynnlangit/gcp-for-bioinformatics)
 * **UNDERSTAND** architecture patterns - see my [reference architecture diagrams for genomic analysis](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/6_ARCHITECTURE.md)
+* **READ** GCP Genomics Reference [architecture](https://cloud.google.com/solutions/genomic-data-processing-reference-architecture) article
 
 ---
 
@@ -35,7 +36,6 @@
 
 * **LIST** of Dream Challenges --
    http://dreamchallenges.org/challenges/
-
 * **SEE** Sample GCP/Galaxy challenge -- 
    https://www.synapse.org/#!Synapse:syn2813581/wiki/303137
 
