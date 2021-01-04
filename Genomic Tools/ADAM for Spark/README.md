@@ -5,6 +5,7 @@
 * Of note is their 'cleaning tool' named [SampleClean](http://sampleclean.org/index.html)
 * Simple Clean uses algorithms, stats and AWS Mechanical Turks to pre-process data
 * Here is a DataBricks [Scala Notebook](http://cdn2.hubspot.net/hubfs/438089/notebooks/Samples/Miscellaneous/Genome_Variant_Analysis_using_k-means_ADAM_and_Apache_Spark.html) which demos Genome Variant Analysis using k-means, ADAM, and Apache Spark
+* My companion Repo to my [`Cloud Scaling Apache Spark` course](https://github.com/lynnlangit/learning-hadoop-and-spark) 
 * Here is diagram of their 'Big Data Stack'
 
 ![Stack Diagram](https://github.com/lynnlangit/TeamTeri/blob/master/Images/BigDataStackBerkeley.png)
