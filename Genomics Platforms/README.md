@@ -10,7 +10,7 @@ Most workflows follow this pattern (summarized in the diagram below):
 - Use of **containers to encapsulate data analysis tasks/tools** - docker or singularity containers, the latter for HPC environments
 - Use of **libraries AND job controllers** to manage cluster resources (CPU, RAM) - cloud libraries include AWS Batch, Azure Batch, GCP Life Sciences
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/analysis-toolkit.png" width=800>
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/lake-pattern.png" width=800>
 
 ## Workflow Languages
 
