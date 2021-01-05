@@ -9,6 +9,7 @@ For more detail, see my open source course 'gcp-for-bioinformatics' at https://g
 
 ## Genomic Datasets on GCP 
 
+* **SEARCH** for public datasets via Google Dataset search, see this [link](https://toolbox.google.com/datasetsearch)
 * **LIST** public genomics datasets, many hosted on GCP, see this [link](http://googlegenomics.readthedocs.io/en/latest/use_cases/discover_public_data/index.html)
 * **LIST** of public genomic datasets on GCP, see this [link](https://cloud.google.com/life-sciences/docs/resources/public-datasets)
 
