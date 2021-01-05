@@ -1,7 +1,8 @@
 # HAIL-IS on Apache Spark
 
-[Hail](https://hail.is) is an open-source, scalable framework for exploring and analyzing genetic data from The Broad Instiute.
-Starting from sequencing or microarray data in VCF and other formats, Hail can, for example:
+[Hail](https://hail.is) is an [open-source](https://github.com/hail-is/hail), scalable framework for exploring and analyzing genetic data from The Broad Instiute. Starting from sequencing or microarray data in VCF and other formats, Hail can, for example:
+
+## HAIL Features
 
 * generate variant annotations like call rate, Hardy-Weinberg equilibrium p-value, 
 and population-specific allele count
@@ -13,6 +14,9 @@ and population-specific allele count
 
 All this functionality is backed by distributed algorithms built on top of Apache Spark to efficiently analyze gigabyte-scale data on a laptop or terabyte-scale data on an on-prem cluster or in the cloud.
 
-https://github.com/hail-is/hail
+## Docs/Tutorials
 
-[Using HAIL on GCP / Cloud Dataproc](http://discuss.hail.is/t/using-hail-on-the-google-cloud-platform/80)
+- [Using HAIL on GCP / Cloud Dataproc](https://hail.is/docs/0.2/hail_on_the_cloud.html)
+- [HAIL on AWS](https://aws-quickstart.github.io/quickstart-hail/)
+- [Hail Tables cheat sheet](https://hail.is/docs/0.2/_static/cheatsheets/hail_tables_cheat_sheet.pdf)
+- [Hail MATRIX Tables cheat sheet](https://hail.is/docs/0.2/_static/cheatsheets/hail_matrix_tables_cheat_sheet.pdf)
