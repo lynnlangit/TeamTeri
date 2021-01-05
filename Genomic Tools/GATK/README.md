@@ -11,10 +11,9 @@ The open source [GATK (Genome Analysis Toolkit)](https://software.broadinstitute
 Shown below is task-by-task usage for tools from the  GATK tools used in an example genomic analysis process  
 ![GATK Process](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-deep.png).
 
-- RUN GATK with the GCP Life Sciences API (https://cloud.google.com/genomics/v1alpha2/gatk). 
-- RUN Picard/GATK tools on GCP cloud-resident genomic data (http://googlegenomics.readthedocs.io/en/latest/use_cases/run_picard_and_gatk/index.html).
-- UNDERSTAND Picard/GATK tools are command line utilities for genomic sequencing data processing that typically take BAM and other files as input and produce modified BAM files and can be downloaded from this link (http://broadinstitute.github.io/picard/)
-- LEARN that these tools are frequently chained together into pipelines to perform step-by-step processing of the sequencing data all the way from unaligned sequencer output to variant calls. For more information see Broad best practices (https://software.broadinstitute.org/gatk/best-practices/).
+- UNDERSTAND how to use GATK - (https://gatk.broadinstitute.org/hc/en-us)
+- START using GATK - (https://gatk.broadinstitute.org/hc/en-us/articles/360036194592-Getting-started-with-GATK4)
+- RUN GATK best practices workflows/pipelines (https://gatk.broadinstitute.org/hc/en-us/articles/360035894751-Pipeline-Index)
 
 ----
 
