@@ -15,7 +15,7 @@
 ## Genomic Datasets on GCP 
 
 * **LIST** public genomics datasets, many hosted on GCP, see this [link](http://googlegenomics.readthedocs.io/en/latest/use_cases/discover_public_data/index.html)
-* **LIST** of public genomic datasets on GCP, see this [link](hhttps://cloud.google.com/life-sciences/docs/resources/public-datasets)
+* **LIST** of public genomic datasets on GCP, see this [link](https://cloud.google.com/life-sciences/docs/resources/public-datasets)
 
 * * *
 
