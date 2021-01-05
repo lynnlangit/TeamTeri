@@ -9,9 +9,10 @@
 ## Using VariantSpark
 
 Use VariantSpark on AWS or GCP using these templates and/or patterns  
-    - VariantSpark on AWS (using EMR or EKS) - https://bioinformatics.csiro.au/blog/variantspark-on-the-cloud-in-a-few-clicks/
-    - VariantSpark on Databricks/AWS - https://bioinformatics.csiro.au/tag/databricks/
-    - VariantSpark on Terra.bio on GCP - https://bioinformatics.csiro.au/blog/variantspark-is-available-on-terra-2/
+
+- VariantSpark on AWS (using EMR or EKS) - https://bioinformatics.csiro.au/blog/variantspark-on-the-cloud-in-a-few-clicks/
+- VariantSpark on Databricks/AWS - https://bioinformatics.csiro.au/tag/databricks/
+- VariantSpark on Terra.bio on GCP - https://bioinformatics.csiro.au/blog/variantspark-is-available-on-terra-2/
 
 ## Review the Source Code
 
