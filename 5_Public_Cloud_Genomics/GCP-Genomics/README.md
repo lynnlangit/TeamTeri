@@ -1,5 +1,7 @@
 # Google Cloud Platform for Genomics Pipelines
 
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics.png" width=600>
+
 Genomics on GCP includes using data, service and patterns.  This page summarizes these topics.  
 For more detail, see my open source course 'gcp-for-bioinformatics' at https://github.com/lynnlangit/gcp-for-bioinformatics
 
@@ -12,7 +14,7 @@ For more detail, see my open source course 'gcp-for-bioinformatics' at https://g
 
 * * *
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics.png" width=600>
+## Genomic Analysis Patterns on GCP
 
 * **SEE** the GCP Google Cloud Life Sciences API, see this [link](https://cloud.google.com/genomics/overview). General pattern shown above.  GCP Web UI for Google Life Sciences (job run output example) shown in screenshot below.
 * **USE** the GCP Life Sciences API Quick Start steps to get started, see this [link](https://cloud.google.com/genomics/quickstart)
