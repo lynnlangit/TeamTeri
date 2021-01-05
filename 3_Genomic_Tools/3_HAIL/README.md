@@ -1,6 +1,6 @@
 # HAIL-IS on Apache Spark
 
-[Hail](https://hail.is) is an [open-source](https://github.com/hail-is/hail), scalable framework for exploring and analyzing genetic data from The Broad Instiute. Starting from sequencing or microarray data in VCF and other formats, Hail can, for example:
+[Hail](https://hail.is) is an [open-source](https://github.com/hail-is/hail), scalable framework for exploring and analyzing genetic data from The Broad Institute. Starting from sequencing or microarray data in VCF and other formats, Hail is a library for analyzing structured tabular and matrix data. Hail contains a collection of primitives for operating on data in parallel, as well as a suite of functionality for processing genetic data.
 
 ## HAIL Features
 
