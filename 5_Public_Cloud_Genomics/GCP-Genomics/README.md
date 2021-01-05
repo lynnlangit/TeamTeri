@@ -28,13 +28,15 @@ For more detail, see my open source course 'gcp-for-bioinformatics' at https://g
 
 ---
 
-## Google Genomics DeepVariant Tool
+## Google Genomics Deep Variant Tool
 
 DeepVariant is a and open source deep learning library which reconstructs the true genome sequence from HTS sequencer data with significantly greater accuracy than previous classical methods. DeepVariant transforms the task of variant calling, as this reconstruction problem is known in genomics, into an image classification problem using TensorFlow.
 
-* Source Code for [`Deep Variant` on GCP](https://github.com/google/deepvariant) 
+- Source Code for [`Deep Variant` on GCP](https://github.com/google/deepvariant) 
 - Google [`Deep Variant `Tutorial](https://cloud.google.com/genomics/docs/tutorials/deepvariant)  
 - Google [`Deep Variant` Code Lab](https://codelabs.developers.google.com/codelabs/genomics-deepvariant/#0) 
+
+<img src=="https://github.com/lynnlangit/TeamTeri/blob/master/Images/deep-variant.png" width=800>
 ***
 
 
