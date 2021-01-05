@@ -11,13 +11,17 @@ This Repo contains my own study notes for 'Understanding bioinformatics concepts
 ## How this Repo is Organized
 
 This Repo is my own 'study notes' as I learn tools, platforms and work with clients.  I update it frequently.  The Repo is organized as follows.  
+- **Concepts and Terms** (genomics files types, use cases, terminology and also whitepapers)
+- **Lab Testing** (Illumina and more)
 - **Genomic Tools** (GATK, VariantSpark, HAIL and many more - this section updates OFTEN)
 - **Genomics Platforms** (Terra.bio, Galaxy Project, IDSeq and others)
-- **Lab Testing** (Illumina and more)
-- **Public Cloud Genomics** (AWS, Azure or GCP)
-- **Genomics Whitepapers** (anything I am reading of interest, some 'future-looking' whitepapers)
+- **Public Cloud Genomics** (Alibaba Cloud, AWS, Azure or GCP)
+
+---
 
 ## More Cloud/Genomics Reources
+
+In addition to this Repo, I have a number of other Repos with cloud bioinformatics information.  Also, I've included two of my favorite link aggregator resources here for additional learning.  
 
 - My `learn-cloud` Repo - https://github.com/lynnlangit/learning-cloud
 - My `gcp-for-bioinformatics` open source course - https://github.com/lynnlangit/gcp-for-bioinformatics
