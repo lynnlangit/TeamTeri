@@ -2,9 +2,7 @@
 
 ![VariantSpark](https://github.com/lynnlangit/TeamTeri/blob/master/Images/Variant-Spark.png)
 
-- [VariantSpark](http://bioinformatics.csiro.au/variantspark) is an open source Scala library, created and maintained by the CSIRO Bioinformatics team in Australia
-- It runs on Apache Spark 2.x or greater and creates insights from high-dimensional data
-- VariantSpark is a Spark-based custom genome-wide RandomForest machine learning analysis library for finding genomic variants
+[VariantSpark](http://bioinformatics.csiro.au/variantspark) is an open source Scala library, created and maintained by the CSIRO Bioinformatics team in Australia. It runs on Apache Spark 2.x or greater and creates insights from high-dimensional data. VariantSpark is a Spark-based custom genome-wide RandomForest machine learning analysis library for finding genomic variants.
 
 ## Using VariantSpark
 
