@@ -1,5 +1,17 @@
 # Google Cloud Platform for Genomics Pipelines
 
+Genomics on GCP includes using data, service and patterns.  This page summarizes these topics.  
+For more detail, see my open source course 'gcp-for-bioinformatics' at https://github.com/lynnlangit/gcp-for-bioinformatics
+
+---
+
+## Genomic Datasets on GCP 
+
+* **LIST** public genomics datasets, many hosted on GCP, see this [link](http://googlegenomics.readthedocs.io/en/latest/use_cases/discover_public_data/index.html)
+* **LIST** of public genomic datasets on GCP, see this [link](https://cloud.google.com/life-sciences/docs/resources/public-datasets)
+
+* * *
+
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics.png" width=600>
 
 * **SEE** the GCP Google Cloud Life Sciences API, see this [link](https://cloud.google.com/genomics/overview). General pattern shown above.  GCP Web UI for Google Life Sciences (job run output example) shown in screenshot below.
@@ -12,12 +24,6 @@
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics-Jobs.png" width=600>
 
 ---
-## Genomic Datasets on GCP 
-
-* **LIST** public genomics datasets, many hosted on GCP, see this [link](http://googlegenomics.readthedocs.io/en/latest/use_cases/discover_public_data/index.html)
-* **LIST** of public genomic datasets on GCP, see this [link](https://cloud.google.com/life-sciences/docs/resources/public-datasets)
-
-* * *
 
 ## Google Genomics DeepVariant Tool
 
