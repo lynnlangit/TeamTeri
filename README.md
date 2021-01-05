@@ -1,21 +1,16 @@
 # Team Teri
 
-This Repo contains my own study notes for 'Understanding bioinformatics concepts for cloud professionals' - including...
-
-* **Bioinformatics** : frameworks, tools and libraries such as GATK, VariantSpark, Galaxy, ADAM and others, also workflow platforms such as Terra.bio
-* **Public Cloud** : services from either GCP (Google Cloud Platform) or AWS (Amazon Web Services), usually implemented via a **Data Lake** pattern (shown below)
-* **Practices** : industry patterns and practices for scalable data pipelines including serverless
-
-<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/data-lake.png" width=600>
-
 ## How this Repo is Organized
 
-This Repo is my own 'study notes' as I learn tools, platforms and work with clients.  I update it frequently.  The Repo is organized as follows.  
+This Repo contains my own 'study notes' as I learn genomic-scale cloud bioinformatics.  It includes descriptions of common tools, platforms and summarieis of my work with clients.  I update this Repo frequently.  It is organized via the folder structure shown below.   
+ 
 - **Concepts and Terms** (genomics files types, use cases, terminology and also whitepapers)
 - **Lab Testing** (Illumina and more)
 - **Genomic Tools** (GATK, VariantSpark, HAIL and many more - this section updates OFTEN)
 - **Genomics Platforms** (Terra.bio, Galaxy Project, IDSeq and others)
-- **Public Cloud Genomics** (Alibaba Cloud, AWS, Azure or GCP)
+- **Public Cloud Genomics** (Alibaba Cloud, AWS, Azure or GCP). The general approach is to implement a cloud-native Data Lake pattern for scalable genomic analysis.  A conceptual rendering of this pattern is shown below.
+
+<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/data-lake.png" width=600>
 
 ---
 
