@@ -2,7 +2,7 @@
 
 ![GATK Overview](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-1.png)
 
-The open source [GATK (Genome Analysis Toolkit)](https://software.broadinstitute.org/gatk/) is the industry standard for identifying SNPs and indels in germline DNA and RNAseq data. Its scope is now expanding to include somatic variant calling tools, and to tackle copy number (CNV) and structural variation (SV). GATK is created and maintained by The Broad Institute.
+The open source [GATK (Genome Analysis Toolkit)](https://software.broadinstitute.org/gatk/) contains common genomics tools.  These tools are used for identifying SNPs and indels in germline DNA and RNAseq data. GATK also includes somatic variant calling tools, for copy number (CNV) and structural variation (SV). GATK is created and maintained by The Broad Institute.  GATK is available as a downloadble JAR file or in a Docker container.
 
 ----
 
@@ -11,16 +11,18 @@ The open source [GATK (Genome Analysis Toolkit)](https://software.broadinstitute
 Shown below is task-by-task usage for tools from the  GATK tools used in an example genomic analysis process  
 ![GATK Process](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-deep.png).
 
-- RUN GATK with GCP Genomics (https://cloud.google.com/genomics/v1alpha2/gatk). 
+- RUN GATK with the GCP Life Sciences API (https://cloud.google.com/genomics/v1alpha2/gatk). 
 - RUN Picard/GATK tools on GCP cloud-resident genomic data (http://googlegenomics.readthedocs.io/en/latest/use_cases/run_picard_and_gatk/index.html).
 - UNDERSTAND Picard/GATK tools are command line utilities for genomic sequencing data processing that typically take BAM and other files as input and produce modified BAM files and can be downloaded from this link (http://broadinstitute.github.io/picard/)
 - LEARN that these tools are frequently chained together into pipelines to perform step-by-step processing of the sequencing data all the way from unaligned sequencer output to variant calls. For more information see Broad best practices (https://software.broadinstitute.org/gatk/best-practices/).
 
 ----
 
-## GATK running on Broad Institute Cloud Platforms
+## GATK running on the Broad Institute Cloud Platforms
 
-Alternatively, GATK tools are available running on GCP via the Broad Institute's 'FireCloud'(https://software.broadinstitute.org/firecloud/).  Firecloud is evolving to become the [Terra.bio](https://terra.bio/) interface which also runs on GCP.  Terra.bio architecture summary is shown in the screenshot below.  An example Firecloud screenshot is also shown below.
+- GATK tools are available to run on GCP via the Broad Institute's 'Terra.bio' platform(https://terra.bio/)
+- [Terra.bio](https://terra.bio/) evolved from the [Firecloud platform](https://software.broadinstitute.org/firecloud/)
+- A Terra.bio platform architecture summary is shown in the screenshot below
 
 ---
 
@@ -28,10 +30,6 @@ Terra.bio Architecture
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/Terra-arch.png" width=800>  
 
 ---
-
-Firecloud GATK WDL Workflows Example List
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-FireCloud.png" width=800>
-
 ## Genomics in the Cloud book
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/genomics-in-the-cloud.png" width=300>
