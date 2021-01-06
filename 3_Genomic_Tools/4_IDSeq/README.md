@@ -12,4 +12,4 @@ IDSeq is an open source cloud-based service for pathogen detection and surveilla
 
 IDSeq includes a number of data visualization tools, including the taxonomy view, example shown below.
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/IDSeq-taxonomy.png" width=600>
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/IDSeq-taxonomy.png" width=800>
