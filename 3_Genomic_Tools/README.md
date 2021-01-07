@@ -19,3 +19,7 @@ The general pattern for using bioinformatics tools in genomic analysis is to cre
 ## Blast 10 Ways
 
 I wrote a short article on Medium using the `blast` tool, which demonstrates my approach to testing genomics tools - [link](https://medium.com/@lynnlangit/blast-10-ways-3db78f881059)
+
+## Practical Advice
+
+- 5 tips for better [bioinformatics software](https://www.youtube.com/watch?v=ujWnEMicotE) - useful video from Maria Nattestad
