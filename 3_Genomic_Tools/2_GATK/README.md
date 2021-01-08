@@ -31,10 +31,17 @@ Terra.bio Architecture
 ---
 ## Genomics in the Cloud book
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/genomics-in-the-cloud.png" width=300>
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/genomics-in-the-cloud.png" width=300 align=left>
+
+### Book GITC
 
 - To learn more, I suggest reading the book ['Genomics in the Cloud'](https://www.amazon.com/Genomics-Cloud-GATK-Spark-Docker/dp/1491975199)
-- One of the authors (Geraldine) wrote a book [chapter synopsis on twitter](https://twitter.com/VdaGeraldine/status/1263336914859560962?s=20)
+  - One of the authors (Geraldine) wrote a book [chapter synopsis on twitter](https://twitter.com/VdaGeraldine/status/1263336914859560962?s=20)
+  - Associated GitHub code Repo for this book includes [WDL examples](https://github.com/broadinstitute/genomics-in-the-cloud)
+
+
+### Book Club GITC
+
 - There is also an associated book club, run by [KT Picard](https://genomedad.com/2020/12/15/genomics-in-the-cloud-book-club/)
 - The book club has a [YouTube channel](https://www.youtube.com/channel/UCtdwGKTSsRQZgAO6D79lSPA)
 - The book club also has a [Slack channel](https://gitcbookclub.slack.com/).
