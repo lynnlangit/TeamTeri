@@ -31,7 +31,9 @@ Terra.bio Architecture
 ---
 ## Genomics in the Cloud book
 
+
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/genomics-in-the-cloud.png" width=300 align=left>
+
 
 ### Book GITC
 
