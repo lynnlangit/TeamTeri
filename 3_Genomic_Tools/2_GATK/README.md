@@ -2,7 +2,7 @@
 
 ![GATK Overview](https://github.com/lynnlangit/TeamTeri/blob/master/Images/GATK-1.png)
 
-The open source [GATK (Genome Analysis Toolkit)](https://software.broadinstitute.org/gatk/) contains common genomics tools.  These tools are used for identifying SNPs and indels in germline DNA and RNAseq data. GATK also includes somatic variant calling tools, for copy number (CNV) and structural variation (SV). GATK is created and maintained by The Broad Institute.  GATK is available as a downloadble JAR file or in a Docker container.
+The open source [GATK (Genome Analysis Toolkit)](https://software.broadinstitute.org/gatk/) contains common genomics tools.  These tools are used for identifying SNPs and indels in germline DNA and RNAseq data. GATK also includes somatic variant calling tools, for copy number (CNV) and structural variation (SV). GATK is created and maintained by The Broad Institute.  GATK is available as a [downloadble JAR file](https://github.com/broadinstitute/gatk/releases) or in a [Docker container.](https://hub.docker.com/r/broadinstitute/gatk/)
 
 ----
 
