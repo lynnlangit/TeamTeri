@@ -15,7 +15,7 @@ Most workflows follow this pattern (summarized in the diagram below for AWS):
 ## Workflow Languages
 
 There are a number of DSLs (domain-specific languages) for genomics workflows.  These include the following:
-- **WDL** - workflow definition language ('widdle') - open source, created at The Broad Institute - see my [`learn-wdl` open source course](https://github.com/openwdl/learn-wdl)
+- **WDL** - workflow definition language ('widdle') - open source, created at The Broad Institute - see my [`learn-wdl` open source course](https://github.com/openwdl/learn-wdl) usally runs with the `cromwell` service, but can use other services, `miniwdl` and others.
 - **CWL** - common workflow language
 - **NF** - Nextflow - see my ['Nextflow on GCP' summary](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/2_Virtual_Machines_%26_Docker_Containers/9a_Use_Nextflow_for_Pipelines.md)
 - **GA** - Galaxy Workflow Language - see the `Galaxy Project` folder in this Repo
