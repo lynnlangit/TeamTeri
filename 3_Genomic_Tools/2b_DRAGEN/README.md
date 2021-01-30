@@ -19,7 +19,6 @@ communication with the DRAGEN board.
 
 ## AWS Template for DRAGEN w/FPGA
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/fpga-arch.png" width=700>
 
 From the AWS docs --> 
 - The DRAGEN Complete Suite* enables ultra-rapid analysis of NGS data for large data sets, such as whole genomes, exomes, and genes/panels
@@ -32,13 +31,7 @@ From the AWS docs -->
     - GATK Best Practices  
 - The DRAGEN Germline and Somatic pipelines have greatly improved accuracy in calling SNPs and Indels compared to industry standard
 - This app also supports Illumina NovaSeq BCL conversion, download/upload of data streaming, and compressed reference hash tables for a more seamless and efficient workflow
-- Image above from - [link](https://www.elprocus.com/fpga-architecture-and-applications/).
-
-### AWS CF Templates
-
 - Requires FPGA EC2 instances, from AWS Marketplace, costs ~ 20 USD/hr to run with CR template defaults - [link](https://aws.amazon.com/marketplace/pp/Illumina-Inc-DRAGEN-Complete-Suite/B07CZ3F5HY).  More info from the AWS Marketplace  
-- AWS FPGA Marketplace CF temaplate - [link](https://aws.amazon.com/marketplace/pp/B06VVYBLZZ?qid=1611970635452&sr=0-8&ref_=brs_res_product_title)
-- What is FPGA? - wikipedia [link](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
 
 ## Exaple DNA DRAGEN Pipeline
 
@@ -51,3 +44,15 @@ Shown below...
 Shown below...   
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/dragen-rna.png" width=800>
+
+---
+
+### AWS FPGA Dev Resources
+
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/fpga-arch.png" width=400 align=left>
+
+- AWS GitHub FPGA Dev Repo - [link](https://github.com/aws/aws-fpga)
+- AWS FPGA Marketplace CF temaplate - [link](https://aws.amazon.com/marketplace/pp/B06VVYBLZZ?qid=1611970635452&sr=0-8&ref_=brs_res_product_title)
+- What is FPGA? - wikipedia [link](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+- Image above from - [link](https://www.elprocus.com/fpga-architecture-and-applications/)
+
