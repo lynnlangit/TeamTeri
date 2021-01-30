@@ -21,7 +21,10 @@ communication with the DRAGEN board.
 
 Requires FPGA EC2 instances, from AWS Marketplace, costs ~ 20 USD/hr to run with CR template defaults - [link](https://aws.amazon.com/marketplace/pp/Illumina-Inc-DRAGEN-Complete-Suite/B07CZ3F5HY).  More info from the AWS Marketplace  
 
-"The DRAGEN Complete Suite* enables ultra-rapid analysis of Next Generation Sequencing (NGS) data for large data sets, such as whole genomes, exomes, and genes/panels. This application uses the DRAGEN Platform and includes highly-optimized algorithms for mapping, aligning, sorting, duplicate marking, and haplotype variant calling. The DRAGEN CS includes a host of pipelines including our DRAGEN Germline Pipeline, DRAGEN Somatic Pipeline (T and T/N), DRAGEN Copy Number Variant (CNV) Pipeline, DRAGEN RNA Gene Fusion, DRAGEN Joint Genotyping Pipeline, and GATK Best Practices. The DRAGEN Germline and Somatic pipelines have greatly improved accuracy in calling SNPs and Indels compared to industry standard. This app also supports Illumina NovaSeq BCL conversion, download/upload of data streaming, and compressed reference hash tables for a more seamless and efficient workflow."
+"The DRAGEN Complete Suite* enables ultra-rapid analysis of Next Generation Sequencing (NGS) data for large data sets, such as whole genomes, exomes, and genes/panels. This application uses the DRAGEN Platform and includes highly-optimized algorithms for mapping, aligning, sorting, duplicate marking, and haplotype variant calling. The DRAGEN CS includes a host of pipelines including our DRAGEN Germline Pipeline, DRAGEN Somatic Pipeline (T and T/N), DRAGEN Copy Number Variant (CNV) Pipeline, DRAGEN RNA Gene Fusion, DRAGEN Joint Genotyping Pipeline, and GATK Best Practices. The DRAGEN Germline and Somatic pipelines have greatly improved accuracy in calling SNPs and Indels compared to industry standard. This app also supports Illumina NovaSeq BCL conversion, download/upload of data streaming, and compressed reference hash tables for a more seamless and efficient workflow."  
+
+- AWS FPGA Marketplace CF temaplate - [link](https://aws.amazon.com/marketplace/pp/B06VVYBLZZ?qid=1611970635452&sr=0-8&ref_=brs_res_product_title)
+- What is FPGA? - wikipedia [link](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
 
 ## Exaple DNA DRAGEN Pipeline
 
