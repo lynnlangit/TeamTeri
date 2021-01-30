@@ -19,6 +19,12 @@ communication with the DRAGEN board.
 
 ## Exaple DNA DRAGEN Pipeline
 
+Shown below...  
 
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/dragen-dna.png" width=800>
 
 ## Exaple RNA DRAGEN Pipeline
+
+Shown below...   
+
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/dragen-rna.png" width=800>
