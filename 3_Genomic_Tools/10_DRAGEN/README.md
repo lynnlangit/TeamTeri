@@ -6,7 +6,7 @@ The Illumina DRAGEN™ Bio-IT Platform is based on the highly reconfigurable DRA
 which is integrated on a Field Programmable Gate Array (FPGA) card and is available in a preconfigured
 server that can be seamlessly integrated into bioinformatics workflows. The platform can be loaded
 with highly optimized algorithms for many different NGS secondary analysis pipelines, including the
-following:
+following:  
 
 • Whole genome
 • Exome
@@ -16,6 +16,10 @@ following:
 
 All interaction is accomplished via DRAGEN software that runs on the host server and manages all
 communication with the DRAGEN board.
+
+## AWS Template for DRAGEN
+
+Requires FPGA EC2 instances, from AWS Marketplace, costs ~ 20 USD/hr to run with CR template defaults - [link](https://aws.amazon.com/marketplace/pp/Illumina-Inc-DRAGEN-Complete-Suite/B07CZ3F5HY)
 
 ## Exaple DNA DRAGEN Pipeline
 
