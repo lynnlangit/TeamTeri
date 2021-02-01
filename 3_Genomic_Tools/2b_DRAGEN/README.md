@@ -51,8 +51,9 @@ Shown below...
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/fpga-arch.png" width=400 align=left>
 
+- AWS QuickStart DRAGEN - [link](https://aws.amazon.com/quickstart/architecture/illumina-dragen/)
 - AWS GitHub FPGA Dev Repo - [link](https://github.com/aws/aws-fpga)
-- AWS FPGA Marketplace CF temaplate - [link](https://aws.amazon.com/marketplace/pp/B06VVYBLZZ?qid=1611970635452&sr=0-8&ref_=brs_res_product_title)
+- AWS FPGA Marketplace CF template - [link](https://aws.amazon.com/marketplace/pp/B06VVYBLZZ?qid=1611970635452&sr=0-8&ref_=brs_res_product_title)
 - What is FPGA? - wikipedia [link](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
 - Image above from - [link](https://www.elprocus.com/fpga-architecture-and-applications/)
 
