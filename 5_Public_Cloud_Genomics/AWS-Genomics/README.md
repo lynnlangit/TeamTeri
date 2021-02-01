@@ -28,8 +28,8 @@ Services, tools, patterns, practices and demos from AWS for Genomics pipelines
 ## Genomics Platforms on AWS
 
 * **Seven Bridges, R and AWS** -- https://aws.amazon.com/blogs/big-data/extending-seven-bridges-genomics-with-amazon-redshift-and-r/
-* **Databricks Genomics and AWS** -- https://databricks.com/blog/2019/06/26/scaling-genomic-workflows-with-spark-sql-bgen-and-vcf-readers.html example architecture shown below
 * **IDSeq on AWS** -- https://www.discoveridseq.com/
+* **Databricks Genomics and AWS** -- https://databricks.com/blog/2019/06/26/scaling-genomic-workflows-with-spark-sql-bgen-and-vcf-readers.html example architecture shown below
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/databricks-genomics.png" width=800>
 
