@@ -2,7 +2,8 @@
 
 About the Terra.bio platform 
 - built by The Broad Institute and Verily, architecture shown below - runs using the Broad's [`cromwell`](https://cromwell.readthedocs.io/en/stable/) service PLUS an  execution platform (currently GCP, announced adding [Azure](https://www.cnbc.com/2021/01/11/microsoft-azure-coming-to-terra-co-created-by-alphabet-verily.html) as alternative)
-- runs on GCP, can start a new account with $ 300 in GCP credits
+- currently runs on GCP, can start a new account with $ 300 in GCP credits
+- announcement - partnership with Microsoft --> building a version of Terra on Azure as well
 - start here - https://terra.bio/resources/getting-started/
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/Terra-arch.png" width=800>
