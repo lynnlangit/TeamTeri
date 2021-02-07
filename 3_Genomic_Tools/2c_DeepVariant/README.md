@@ -10,7 +10,11 @@
  - Usage options - DeepVariant can be run via Docker or binaries, using both on-premise hardware or in the cloud, with support for hardware accelerators like GPUs and TPUs.
 
 ### What is this
+
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/deepVariant-how.png" width=800>
+
 - USE GCP Genomics API + a purpose-built deep neural network machine learning model for genomic variant analysis (SNPs and Indels variant calling)
+- Linke to explanation of Deep Variant - https://github.com/google/deepvariant#how-deepvariant-works
 - RUN 'optimzed for (run) time' or 'optimized for (run) cost'.  Shown below is a typical GCP architecture for workloads using Deep Variant.
 
 ![Deep Variant Architecture](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/deep-variant-arch.png)
