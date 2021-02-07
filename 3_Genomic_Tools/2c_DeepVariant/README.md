@@ -40,6 +40,7 @@
     - Using preemptible VMs
     - Using different numbers of shards
     - Calling only exome regions
+- DeepTrio is a deep learning-based trio variant caller built on top of DeepVariant. DeepTrio extends DeepVariant's functionality, allowing it to utilize the power of neural networks to predict genomic variants in trios or duos
 
 ### How to learn more
  - :octocat: GitHub Repo for [DeepVariant](https://github.com/google/deepvariant)
