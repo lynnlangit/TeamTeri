@@ -8,14 +8,13 @@ Services, tools, patterns, practices and demos from AWS for Genomics pipelines
 * **Genomic Datasets** on AWS -- https://registry.opendata.aws/tag/genomic/
 * **1000 Genomes Dataset** -- https://aws.amazon.com/1000genomes/
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/AWS-Genomic-Datasets.png" width=800>
-
 ## Patterns and Best Practices for Genomics on AWS
 
 * **MAIN** AWS for life sciences  -- https://aws.amazon.com/health/life-sciences/
 * **GENOMICS** AWS for Genomics -- https://aws.amazon.com/health/genomics/
 * **BEST PRACTICES** -- https://d0.awsstatic.com/whitepapers/compliance/AWS_dBGaP_Genomics_on_AWS_Best_Practices.pdf
 * **WORKFLOWS** on AWS for Genomics (examples) -- https://docs.opendata.aws/genomics-workflows/ and [link to repo](https://github.com/aws-samples/aws-genomics-workflows)
+* **COST EFFECTIVE** workflows -- https://docs.opendata.aws/genomics-workflows/orchestration/cost-effective-workflows/cost-effective-workflows/
 
 ## AWS Services used in Genomics 
 
