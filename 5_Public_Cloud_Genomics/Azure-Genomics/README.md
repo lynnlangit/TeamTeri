@@ -17,3 +17,8 @@ To Azure Batch and standard tools (such as GATK), Microsoft adds their genomics 
 - For each genome sample that you want to process, you create a configuration file containing all the parameters
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/msft-genomics.png" width=600>
+
+## Genomics Workflow Languages and Azure Batch
+
+- WDL/Cromwell on Azure Batch - https://lynnlangit.medium.com/azure-for-genomic-scale-workloads-ad3c989a3d0b
+- Nextflow on Azure Batch - https://www.nextflow.io/blog/2021/introducing-nextflow-for-azure-batch.html
