@@ -22,9 +22,13 @@ Services, tools, patterns, practices and demos from AWS for Genomics pipelines
 * **ADAM, Spark and AWS EMR** -- https://aws.amazon.com/blogs/big-data/will-spark-power-the-data-behind-precision-medicine/
 * **Lambda CSIRO Genomic pipeline example** -- https://aws.amazon.com/blogs/aws/genome-engineering-applications-early-adopters-of-the-cloud/
 * **EC2 Cluster Controller** service AWS Batch -- https://aws.amazon.com/batch/ pattern for genomic analysis with AWS Batch shown below
-* **AWS Batch & cromwell** reference example -- https://aws.amazon.com/blogs/industries/cromwell-on-aws-a-simpler-and-improved-aws-batch-backend/
+* **AWS Batch & cromwell** reference example shown below -- https://aws.amazon.com/blogs/industries/cromwell-on-aws-a-simpler-and-improved-aws-batch-backend/
 
-![AWS Genomics using Batch](https://github.com/lynnlangit/TeamTeri/blob/master/Images/aws-sequence-pipe.png)
+![Cromwell/GATK using Batch](https://github.com/lynnlangit/TeamTeri/blob/master/Images/aws-sequence-pipe.png)
+
+* **AWS Batch & nextflow** -- https://aws-quickstart.s3.amazonaws.com/quickstart-nextflow/doc/nextflow-on-the-aws-cloud.pdf
+
+![Nextflow using AWS Batch](https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png)
 
 ---
 
