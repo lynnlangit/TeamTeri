@@ -5,7 +5,7 @@
 There are a LARGE number of types of sequencing.  Start with wikipedia  
 - DNA Sequencing - https://en.wikipedia.org/wiki/DNA_sequencing
 - RNA Sequencing (RNA-seq) - https://en.wikipedia.org/wiki/RNA-Seq
-- NGS Sequencing (next-gen) in 4 min YouTube annimated video - https://www.youtube.com/watch?v=CZeN-IgjYCo
+- NGS Sequencing (next-gen) in a 4-min YouTube animated video - https://www.youtube.com/watch?v=CZeN-IgjYCo
 
 ## Background and Illumina
 
