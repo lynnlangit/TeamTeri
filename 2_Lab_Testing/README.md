@@ -1,6 +1,6 @@
 # Genomic Sequencing
 
-<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/dna.png" width=600>
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/dna.png" width=600>
 
 There are a LARGE number of types of sequencing.  Start with wikipedia  
 - DNA Sequencing - https://en.wikipedia.org/wiki/DNA_sequencing
