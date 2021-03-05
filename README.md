@@ -1,7 +1,5 @@
 # Team Teri
 
-<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/dna.png" width=600>
-
 
 ## How this Repo is Organized
 
