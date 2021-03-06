@@ -47,8 +47,12 @@
 - DeepTrio is a deep learning-based trio variant caller built on top of DeepVariant. DeepTrio extends DeepVariant's functionality, allowing it to utilize the power of neural networks to predict genomic variants in trios or duos
 
 ### How to learn more
+
+ [![DeepVariant](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/deep-variant.png)](https://google.github.io/deepvariant/posts/2018-12-05-improved-non-human-variant-calling-using-species-specific-deepvariant-models/)  
+ 
  - :octocat: GitHub Repo for [DeepVariant](https://github.com/google/deepvariant)
+ - :octocat: GitHub Repo for [PEPPER using DeepVariant](https://github.com/kishwarshafin/pepper) - also see `haplotype-aware...pdf` in this Repo folder
  - Interview with Maria Nattestad - she discusses `Deep Variant` from 30:00 onwards - [link](https://www.youtube.com/watch?v=ynX2R-aWkEg)
 
- [![DeepVariant](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/deep-variant.png)](https://google.github.io/deepvariant/posts/2018-12-05-improved-non-human-variant-calling-using-species-specific-deepvariant-models/)
+
  -  📘 From GCP: Marketplace - [Parabricks](https://console.cloud.google.com/marketplace/details/parabricks/parabricks) supports the full GATK4 germline, somatic and variant calling pipelines, Google DeepVariant and population study tools.
