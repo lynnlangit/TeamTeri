@@ -52,7 +52,5 @@
  
  - :octocat: GitHub Repo for [DeepVariant](https://github.com/google/deepvariant)
  - :octocat: GitHub Repo for [PEPPER using DeepVariant](https://github.com/kishwarshafin/pepper) - also see `haplotype-aware...pdf` in this Repo folder
- - Interview with Maria Nattestad - she discusses `Deep Variant` from 30:00 onwards - [link](https://www.youtube.com/watch?v=ynX2R-aWkEg)
-
-
- -  📘 From GCP: Marketplace - [Parabricks](https://console.cloud.google.com/marketplace/details/parabricks/parabricks) supports the full GATK4 germline, somatic and variant calling pipelines, Google DeepVariant and population study tools.
+ - 🗣️ Interview with Maria Nattestad - she discusses `Deep Variant` from 30:00 onwards - [link](https://www.youtube.com/watch?v=ynX2R-aWkEg)
+ - 📘 From GCP: Marketplace - [Parabricks](https://console.cloud.google.com/marketplace/details/parabricks/parabricks) supports the full GATK4 germline, somatic and variant calling pipelines, Google DeepVariant and population study tools.
