@@ -33,13 +33,13 @@ From the AWS docs -->
 - This app also supports Illumina NovaSeq BCL conversion, download/upload of data streaming, and compressed reference hash tables for a more seamless and efficient workflow
 - Requires FPGA EC2 instances, from AWS Marketplace, costs ~ 20 USD/hr to run with CR template defaults - [link](https://aws.amazon.com/marketplace/pp/Illumina-Inc-DRAGEN-Complete-Suite/B07CZ3F5HY).  More info from the AWS Marketplace  
 
-## Exaple DNA DRAGEN Pipeline
+## Example DNA DRAGEN Pipeline
 
 Shown below...  
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/dragen-dna.png" width=800>
 
-## Exaple RNA DRAGEN Pipeline
+## Example RNA DRAGEN Pipeline
 
 Shown below...   
 
