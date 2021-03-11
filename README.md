@@ -11,6 +11,8 @@ This Repo contains my own 'study notes' as I learn genomic-scale cloud bioinform
 - **Genomics Platforms** (Terra.bio, Galaxy Project, IDSeq and others)
 - **Public Cloud Genomics** (Alibaba Cloud, AWS, Azure or GCP). The general approach is to implement a cloud-native Data Lake pattern for scalable genomic analysis. A conceptual rendering of this pattern is shown below.
 
+### Data Lake Pattern
+
 <img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/data-lake.png" width=600>
 
 ---
