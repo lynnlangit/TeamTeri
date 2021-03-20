@@ -3,7 +3,7 @@
 
 ## How this Repo is Organized
 
-This Repo contains my own 'study notes' as I learn genomic-scale cloud bioinformatics. It includes descriptions of common tools, platforms and summaries of my work with clients. I update this Repo frequently. It is organized via the folder structure shown below.
+This Repo contains my own 'study notes' as I learn **genomic-scale cloud bioinformatics**. It includes descriptions of common tools, platforms and summaries of my work with clients. I update this Repo frequently. It is organized via the folder structure shown below.
 
 - **Concepts and Terms** (genomics files types, use cases, terminology and also whitepapers)
 - **Lab Testing** (Illumina and more)
