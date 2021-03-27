@@ -12,6 +12,7 @@ The general pattern for using bioinformatics tools in genomic analysis is to cre
 
 - [Biocontainers](https://biocontainers.pro/#/) - tool containers (images hosted on DockerHub, Quay.io or other public container registry)
 - [Dockstore](https://dockstore.org/) - Genomic workflows - in CWL, NF or WDL (hosted in GitHub) and associated container-based tools
+  - Learn Dockstore(https://www.youtube.com/playlist?list=PL2uhATKMu4U_MxWFXCvu9WlASdJQgAevh) - Series of short screencasts
 - [Galaxy Toolshed](https://toolshed.g2.bx.psu.edu/) - tools for Galaxy Project workflows (.ga files)
 - [nf-core](https://nf-co.re/) - Nextflow workflows (.nf files)
 - [bioconda](https://bioconda.github.io/) - Bioconda is a channel for the conda package manager specializing in bioinformatics software
