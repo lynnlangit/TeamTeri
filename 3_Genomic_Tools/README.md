@@ -10,6 +10,7 @@ The general pattern for using bioinformatics tools in genomic analysis is to cre
 
 ## Genomics Registries
 
+- [Genomic Visualizers](https://github.com/cmdcolin/awesome-genome-visualization) - huge list of visualization tools (companion website has screenshots!)
 - [Biocontainers](https://biocontainers.pro/#/) - tool containers (images hosted on DockerHub, Quay.io or other public container registry)
 - [Dockstore](https://dockstore.org/) - Genomic workflows - in CWL, NF or WDL (hosted in GitHub) and associated container-based tools
   - [Learn Dockstore](https://www.youtube.com/playlist?list=PL2uhATKMu4U_MxWFXCvu9WlASdJQgAevh) - series of short screencasts showing how to use the Dockstore registry
