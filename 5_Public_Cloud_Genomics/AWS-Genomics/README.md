@@ -30,6 +30,8 @@ Services, tools, patterns, practices and demos from AWS for Genomics pipelines
 
 ![Nextflow using AWS Batch](https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png)
 
+* **Genomics Secondary Analysis Using AWS Step Functions and AWS Batch solution architecture** -- https://aws.amazon.com/solutions/implementations/genomics-secondary-analysis-using-aws-step-functions-and-aws-batch
+
 ---
 
 ## Genomics Platforms on AWS
