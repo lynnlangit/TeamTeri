@@ -13,3 +13,4 @@ About the Terra.bio platform
 - Data - https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/1_Files_%26_Data/5_Use_Terra.bio_Genomic_Datasets.md
 - Interactive Notebooks - https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/2_Virtual_Machines_%26_Docker_Containers/3_Use_Terra.bio_Notebooks.md
 - Batch-based Analysis - https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/2_Virtual_Machines_%26_Docker_Containers/8_Use_Terra.bio_Workflows.md
+- Practical Example of Use - https://genomedad.com/2021/06/13/7-things-i-learned-while-reprocessing-my-wgs-data-on-terra-part-1/
