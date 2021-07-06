@@ -26,7 +26,7 @@ Services, tools, patterns, practices and demos from AWS for Genomics pipelines
 
 ![Cromwell/GATK using Batch](https://github.com/lynnlangit/TeamTeri/blob/master/Images/aws-sequence-pipe.png)
 
-* **AWS Batch & nextflow** -- https://aws-quickstart.s3.amazonaws.com/quickstart-nextflow/doc/nextflow-on-the-aws-cloud.pdf
+* **AWS Batch & Nextflow** -- https://aws-quickstart.s3.amazonaws.com/quickstart-nextflow/doc/nextflow-on-the-aws-cloud.pdf & https://aws.amazon.com/blogs/industries/running-gatk-workflows-on-aws-a-user-friendly-solution
 
 ![Nextflow using AWS Batch](https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png)
 
