@@ -2,7 +2,8 @@
 
 There are a growing number of (mostly open source) genomic analysis tools available.  In addition, there are genomic tool registries which help with discovery of such tools.  These include GATK, HAIL, ADAM, Bioconductor, IDSeq, VariantSpark and more.
 
-- Tools in the browser! - WebAssembly (open source) project --> https://biowasm.com/ Includes samtools, bedtools, bowtie2, fastp, seq-align and more
+- Tools in the browser! - WebAssembly (open source) project --> https://biowasm.com/ 
+- Includes samtools, bedtools, bowtie2, fastp, seq-align and more
 
 ## Tools and Pipelines
 
