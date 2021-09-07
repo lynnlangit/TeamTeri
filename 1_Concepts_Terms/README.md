@@ -34,7 +34,9 @@ A personal-genomics analysis requires further functional characterization of the
 * **Haplotype** : half of a person's genetic code at a specific location, given with 1 letter (i.e. G)
 * **Allele** : a specific haplotype, categorized into "reference allele" (i.e. G) and "alternate allele" (i.e. A)
 * **Phenotype** : the way a specific allele is expressed for a particular characteristic (i.e. bbgg for blue eye color)
-* **Biallelic** : a variant which is only represented by 2 different letters in our data (i.e. only G and A are present for all the people in our data, not T or C). Most variants are biallelic.
+* **Biallelic** : a variant which is only represented by 2 different letters in our data (i.e. only G and A are present for all the people in our data, not T or C). Most variants are biallelic.  
+
+For a list of cancer research information from a working bioinformatics researcher, see this link - https://github.com/mdozmorov/Cancer_notes  
 
 ## Genomic Sequencing File Types
 
