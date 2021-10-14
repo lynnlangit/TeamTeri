@@ -13,6 +13,8 @@ Most workflows follow this pattern (summarized in the diagram below for AWS):
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/lake-pattern.png" width=800>
 
+The diagram above shows a workflow one possible example. It uses cloud vendor AWS (VM controller `AWS Batch` service, workflow language / job controller `cromwell service` (for `WDL language`) and genomic analysis toolset `GATK`.
+
 ## Workflow Languages
 
 There are a number of DSLs (domain-specific languages) for genomics workflows.  These include the following:
