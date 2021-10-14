@@ -1,7 +1,9 @@
 # Nextflow (NF)
 
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png" width=800>
+
 About the Nextflow platform 
-- built by Seqera Labs, architecture 
+- built by Seqera Labs, architecture (running on AWS) shown above
 - runs on AWS, Azure or GCP
 - start here - https://www.nextflow.io/index.html
 - documentation - https://www.nextflow.io/docs/latest/index.html
@@ -14,5 +16,5 @@ About the Nextflow platform
 
 
 ### Nextflow on GCP
-- Example - https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/2_Virtual_Machines_%26_Docker_Containers/9a_Use_Nextflow_for_Pipelines.md
+- Patterns and info - [link on my repo 'gcp-for-bioinformatics'](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/2_Virtual_Machines_%26_Docker_Containers/9a_Use_Nextflow_for_Pipelines.md)
 
