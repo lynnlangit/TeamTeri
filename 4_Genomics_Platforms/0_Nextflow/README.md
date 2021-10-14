@@ -10,7 +10,7 @@ About the Nextflow platform
 - Set of pipeline examples - https://github.com/nextflow-io/awesome-nextflow
 - Tools / NFTower - https://help.tower.nf/getting-started/usage/ and see screen below
 
-
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-tower.png" width=800>
 
 
 ### Nextflow on GCP
