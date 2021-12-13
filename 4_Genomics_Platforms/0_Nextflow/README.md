@@ -2,16 +2,18 @@
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png" width=800>
 
-About the Nextflow platform 
-- built by Seqera Labs, architecture (running on AWS) shown above
-- runs on AWS, Azure or GCP
+## About the Nextflow platform 
+Built by Seqera Labs, architecture (running on AWS) shown above...runs on AWS, Azure, GCP and other environments
 - start here - https://www.nextflow.io/index.html
 - documentation - https://www.nextflow.io/docs/latest/index.html
 - core concepts - https://www.nextflow.io/docs/latest/basic.html
-- NF on AWS Batch - https://docs.opendata.aws/genomics-workflows/orchestration/nextflow/nextflow-overview.html
+
+## Execution Environments and Tools
+- Example NF pipelines - https://nf-co.re/pipelines
 - Set of pipeline examples - https://github.com/nextflow-io/awesome-nextflow
 - Tools / NFTower - https://help.tower.nf/getting-started/usage/ and see screen below
 - Config runtime environments (include for AWS/Azure/GCP and more) for NF-Tower - https://help.tower.nf/compute-envs/overview/
+- NF on AWS Batch - https://docs.opendata.aws/genomics-workflows/orchestration/nextflow/nextflow-overview.html
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-tower.png" width=800>
 
