@@ -8,6 +8,8 @@ Built by Seqera Labs, architecture (running on AWS) shown above...runs on AWS, A
 - documentation - https://www.nextflow.io/docs/latest/index.html
 - core concepts - https://www.nextflow.io/docs/latest/basic.html
 
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png" width=800>
+
 ## Execution Environments and Tools
 - Example NF pipelines - https://nf-co.re/pipelines
 - Set of pipeline examples - https://github.com/nextflow-io/awesome-nextflow
