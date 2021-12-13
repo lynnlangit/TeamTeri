@@ -1,9 +1,13 @@
 # Nextflow (NF)
 
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-pipe.png" width=800>
+
+Nextflow allows you to build, configure and run data-driven computational pipelines, an example is shown above.  Nextflow enables scalable and reproducible scientific workflows using software containers. It allows the adaptation of pipelines written in the most common scripting languages.  Its fluent DSL simplifies the implementation and the deployment of complex parallel and reactive workflows on clouds and clusters.  The general pattern for deploying a Nextflow pipeline on a public cloud (VM batch) service is shown below.
+
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-batch.png" width=800>
 
 ## About the Nextflow platform 
-Built by Seqera Labs, architecture (running on AWS) example shown below...runs on AWS, Azure, GCP and other environments
+NF is built by Seqera Labs. An example architecture (running on AWS) is shown below. NF pipelines can run on AWS, Azure, GCP and other environments
 - start here - https://www.nextflow.io/index.html
 - documentation - https://www.nextflow.io/docs/latest/index.html
 - core concepts - https://www.nextflow.io/docs/latest/basic.html
