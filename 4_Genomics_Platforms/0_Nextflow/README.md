@@ -1,6 +1,6 @@
 # Nextflow (NF)
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png" width=800>
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-batch.png" width=800>
 
 ## About the Nextflow platform 
 Built by Seqera Labs, architecture (running on AWS) example shown below...runs on AWS, Azure, GCP and other environments
