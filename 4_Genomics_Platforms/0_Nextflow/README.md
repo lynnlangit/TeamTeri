@@ -3,7 +3,7 @@
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png" width=800>
 
 ## About the Nextflow platform 
-Built by Seqera Labs, architecture (running on AWS) shown above...runs on AWS, Azure, GCP and other environments
+Built by Seqera Labs, architecture (running on AWS) example shown below...runs on AWS, Azure, GCP and other environments
 - start here - https://www.nextflow.io/index.html
 - documentation - https://www.nextflow.io/docs/latest/index.html
 - core concepts - https://www.nextflow.io/docs/latest/basic.html
