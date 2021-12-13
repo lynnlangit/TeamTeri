@@ -11,6 +11,7 @@ About the Nextflow platform
 - NF on AWS Batch - https://docs.opendata.aws/genomics-workflows/orchestration/nextflow/nextflow-overview.html
 - Set of pipeline examples - https://github.com/nextflow-io/awesome-nextflow
 - Tools / NFTower - https://help.tower.nf/getting-started/usage/ and see screen below
+- Config runtime environments (include for AWS/Azure/GCP and more) for NF-Tower - https://help.tower.nf/compute-envs/overview/
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-tower.png" width=800>
 
