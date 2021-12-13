@@ -1,8 +1,10 @@
 # Nextflow (NF)
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-pipe.png" width=800>
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-pipe.png" width=1000>
 
-Nextflow allows you to build, configure and run data-driven computational pipelines, an example is shown above.  Nextflow enables scalable and reproducible scientific workflows using software containers. It allows the adaptation of pipelines written in the most common scripting languages.  Its fluent DSL simplifies the implementation and the deployment of complex parallel and reactive workflows on clouds and clusters.  The general pattern for deploying a Nextflow pipeline on a public cloud (VM batch) service is shown below.
+Nextflow allows you to build, configure and run data-driven computational pipelines, an example is shown above.  Nextflow enables scalable and reproducible scientific workflows using software containers. The example diagram is for the [nf-core/eager](https://nf-co.re/eager) pipeline. This pipeline is a scalable and reproducible bioinformatics best-practise processing pipeline for genomic NGS sequencing data, with a focus on ancient DNA (aDNA) data. It is ideal for the (palaeo)genomic analysis of humans, animals, plants, microbes and even microbiomes
+
+Nextflow allows the adaptation of pipelines written in the most common scripting languages.  Its fluent DSL simplifies the implementation and the deployment of complex parallel and reactive workflows on clouds and clusters.  The general pattern for deploying a Nextflow pipeline on a public cloud (VM batch) service is shown below.
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-batch.png" width=800>
 
