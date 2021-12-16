@@ -1,7 +1,7 @@
 # Public Clouds for Genomics
 
 - Includes info about Alibaba Cloud, AWS, Azure and GCP - see the `README.md` in **each** folder for introductory information
-- List of all of my articles on public cloud genomics on Medium (12 articles) -- [link](https://lynnlangit.medium.com/list/genomics-pipelines-7489db9367e1)
+- List of all of my articles on public cloud genomics pipeline and patterns (12 articles on Medium.com) -- [link](https://lynnlangit.medium.com/list/genomics-pipelines-7489db9367e1)
 
 ## GCP Genomics
 
