@@ -19,9 +19,10 @@ NF is built by Seqera Labs. An example architecture (running on AWS) is shown be
 ## Execution Environments and Tools
 - Example NF pipelines - https://nf-co.re/pipelines
 - Set of pipeline examples - https://github.com/nextflow-io/awesome-nextflow
-- Tools / NFTower - https://help.tower.nf/getting-started/usage/ and see screen below
+- Tools / NFTower - https://help.tower.nf/getting-started/usage/ and see screen below 
+  - Script with a nftower-cli tool - https://seqera.io/blog/announcing-the-nextflow-tower-cli
 - Config runtime environments (include for AWS/Azure/GCP and more) for NF-Tower - https://help.tower.nf/compute-envs/overview/
-- NF on AWS Batch - https://docs.opendata.aws/genomics-workflows/orchestration/nextflow/nextflow-overview.html
+  - NF on AWS Batch - https://docs.opendata.aws/genomics-workflows/orchestration/nextflow/nextflow-overview.html
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-tower.png" width=800>
 
