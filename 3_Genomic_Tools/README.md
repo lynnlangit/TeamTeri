@@ -1,6 +1,6 @@
 # Genomic Tools and Registries
 
-There are a growing number of (mostly open source) genomic analysis tools available.  In addition, there are genomic tool registries which help with discovery of such tools.  These include GATK, HAIL, ADAM, Bioconductor, IDSeq, VariantSpark and more.  I highlight some recently released tools below as well
+There are a growing number of (mostly open source) genomic analysis tools available.  In addition, there are genomic tool registries which help with discovery of such tools.  These include GATK, HAIL, ADAM, Bioconductor, IDSeq, VariantSpark and more.  I highlight some recently released tools (listed below) as well.
 
 - Tool which can be run in a browser! 
   - WebAssembly (open source) project named `biowasm` --> [link](https://biowasm.com/)
