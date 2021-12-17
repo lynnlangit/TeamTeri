@@ -6,7 +6,7 @@ There are a growing number of (mostly open source) genomic analysis tools availa
   - WebAssembly (open source) project --> https://biowasm.com/ 
   - Includes samtools, bedtools, bowtie2, fastp, seq-align and more
 - High-performance set of tools for research and commercial use
-  - "fgbio": tools for working with genomic and high throughput sequencing data --> http://fulcrumgenomics.github.io/fgbio/tools/latest/
+  - `fgbio`: tools for working with genomic and high throughput sequencing data --> [link](http://fulcrumgenomics.github.io/fgbio/tools/latest/)
 
 ## Tools and Pipelines
 
