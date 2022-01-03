@@ -17,16 +17,17 @@ NF is built by Seqera Labs. An example architecture (running on AWS) is shown be
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png" width=800>
 
 ## Execution Environments and Tools
-- Example NF pipelines - https://nf-co.re/pipelines
-- Set of pipeline examples - https://github.com/nextflow-io/awesome-nextflow
-- Tools / NFTower - https://help.tower.nf/getting-started/usage/ and see screen below 
+- Tools / NFTower - https://help.tower.nf/getting-started/usage/ and see screenshot shown below 
   - Script with a nftower-cli tool - https://seqera.io/blog/announcing-the-nextflow-tower-cli
 - Config runtime environments (include for AWS/Azure/GCP and more) for NF-Tower - https://help.tower.nf/compute-envs/overview/
   - NF on AWS Batch - https://docs.opendata.aws/genomics-workflows/orchestration/nextflow/nextflow-overview.html
+- Patterns and info for running Nextflow on GCP - [link on my repo 'gcp-for-bioinformatics'](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/2_Virtual_Machines_%26_Docker_Containers/9a_Use_Nextflow_for_Pipelines.md)
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-tower.png" width=800>
 
 
-### Nextflow on GCP
-- Patterns and info - [link on my repo 'gcp-for-bioinformatics'](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/2_Virtual_Machines_%26_Docker_Containers/9a_Use_Nextflow_for_Pipelines.md)
+## Example Workflows and Pipelines
+- Example NF pipelines - https://nf-co.re/pipelines
+- Set of pipeline examples - https://github.com/nextflow-io/awesome-nextflow
+- Single-Cell Workflow(scFlow) pipeline for the orchestration of automated, scalable, and reproducible single-cell RNA sequencing analyses - https://github.com/combiz/scFlow
 
