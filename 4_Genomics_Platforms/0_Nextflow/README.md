@@ -30,4 +30,5 @@ NF is built by Seqera Labs. An example architecture (running on AWS) is shown be
 - Example NF pipelines - https://nf-co.re/pipelines
 - Set of pipeline examples - https://github.com/nextflow-io/awesome-nextflow
 - Single-Cell Workflow(scFlow) pipeline for the orchestration of automated, scalable, and reproducible single-cell RNA sequencing analyses - https://github.com/combiz/scFlow
+- 📘 Huge list of [Learn Nextflow links](https://www.nextflow.io/blog/2022/learn-nextflow-in-2022.html)
 
