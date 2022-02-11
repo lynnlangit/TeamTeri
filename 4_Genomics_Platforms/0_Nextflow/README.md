@@ -22,7 +22,9 @@ Nextflow allows you to build, configure and run data-driven computational pipeli
 
 ### AWS 
 
-Conceptual architecture for running Nextflow pipeline on AWS is shown above.  
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/aws-conceptual.png" width=800>
+
+Conceptual architecture for running Nextflow pipeline on AWS is shown above, note that the use of AWS FsxLustre is not required, it's one of several file storage options available when building pipelines.
 - More detailed sample architecture for NF on AWS is shown below. 
 - 7-min video concepts and quick demo --> https://www.youtube.com/watch?v=SYhDkUgcOXo&t=54s
 
