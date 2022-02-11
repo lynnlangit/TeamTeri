@@ -1,20 +1,38 @@
 # Nextflow (NF)
 
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-fundamentals.png" width=1000>
+
+The Nextflow platform architecture is shown in the slide above.
+
+## About the Nextflow platform 
+NF is built by Seqera Labs. NF pipelines can run on AWS, Azure, GCP and other environments
+- start here - https://www.nextflow.io/index.html
+- documentation - https://www.nextflow.io/docs/latest/index.html
+- core concepts - https://www.nextflow.io/docs/latest/basic.html
+
+## Example Pipeline
+
+Nextflow allows you to build, configure and run data-driven computational pipelines, an example is shown below.  Nextflow enables scalable and reproducible scientific workflows using software containers. The example diagram is for the [nf-core/eager](https://nf-co.re/eager) pipeline. This pipeline is a scalable and reproducible bioinformatics best-practise processing pipeline for genomic NGS sequencing data, with a focus on ancient DNA (aDNA) data. It is ideal for the (palaeo)genomic analysis of humans, animals, plants, microbes and even microbiomes
+
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-pipe.png" width=1000>
 
-Nextflow allows you to build, configure and run data-driven computational pipelines, an example is shown above.  Nextflow enables scalable and reproducible scientific workflows using software containers. The example diagram is for the [nf-core/eager](https://nf-co.re/eager) pipeline. This pipeline is a scalable and reproducible bioinformatics best-practise processing pipeline for genomic NGS sequencing data, with a focus on ancient DNA (aDNA) data. It is ideal for the (palaeo)genomic analysis of humans, animals, plants, microbes and even microbiomes
+---
+
+## Cloud Based Execution
+
+### AWS 
+
+Example architecture for NF on AWS is shown below. 7-min video concepts and quick demo --> https://www.youtube.com/watch?v=SYhDkUgcOXo&t=54s
+
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png" width=800>
+
+### Azure 
 
 Nextflow allows the adaptation of pipelines written in the most common scripting languages.  Its fluent DSL simplifies the implementation and the deployment of complex parallel and reactive workflows on clouds and clusters.  The general pattern for deploying a Nextflow pipeline on a public cloud (VM batch) service is shown below.
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-batch.png" width=800>
 
-## About the Nextflow platform 
-NF is built by Seqera Labs. An example architecture (running on AWS) is shown below. NF pipelines can run on AWS, Azure, GCP and other environments
-- start here - https://www.nextflow.io/index.html
-- documentation - https://www.nextflow.io/docs/latest/index.html
-- core concepts - https://www.nextflow.io/docs/latest/basic.html
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png" width=800>
 
 ## Execution Environments and Tools
 - Tools / NFTower - https://help.tower.nf/getting-started/usage/ and see screenshot shown below 
