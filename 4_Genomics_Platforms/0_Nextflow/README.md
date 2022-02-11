@@ -22,7 +22,9 @@ Nextflow allows you to build, configure and run data-driven computational pipeli
 
 ### AWS 
 
-Example architecture for NF on AWS is shown below. 7-min video concepts and quick demo --> https://www.youtube.com/watch?v=SYhDkUgcOXo&t=54s
+Conceptual architecture for running Nextflow pipeline on AWS is shown above.  
+- More detailed sample architecture for NF on AWS is shown below. 
+- 7-min video concepts and quick demo --> https://www.youtube.com/watch?v=SYhDkUgcOXo&t=54s
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png" width=800>
 
