@@ -23,6 +23,9 @@ The general pattern for using bioinformatics tools in genomic analysis is to cre
 - [Galaxy Toolshed](https://toolshed.g2.bx.psu.edu/) - tools for Galaxy Project workflows (.ga files)
 - [nf-core](https://nf-co.re/) - Nextflow workflows (.nf files)
 - [bioconda](https://bioconda.github.io/) - Bioconda is a channel for the conda package manager specializing in bioinformatics software
+- [bio-tools](https://bio.tools/t?page=1&q=gatk&sort=citationCount&ord=desc) - Example showing GATK tools by citation count and input/output and more (shown below)
+
+
 
 ## Blast 10 Ways
 
