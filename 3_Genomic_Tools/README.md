@@ -8,7 +8,7 @@ There are a growing number of (mostly open source) genomic analysis tools availa
 - High-performance set of tools for research and commercial use
   - `fgbio`: tools for working with genomic and high throughput sequencing data --> [link](http://fulcrumgenomics.github.io/fgbio/tools/latest/)
 
-## Tools and Pipelines
+## Tools and Pipelines - Patterns
 
 The general pattern for using bioinformatics tools in genomic analysis is to create a pipeline or workflow.  This is often done using a domain-specific language (DSL) for bioninformatics.  DSLs include WDL, CWL, Nextflow and GA (for Galaxy Project).  Workflows chain tools together and are run as jobs on scalable compute environments (cloud, HPC, etc...). A conceptual pipeline or workflow is shown below.  One or more tools are usually encapsulated in containers (docker, singularity or other types).  This is done for portability and reproducibility of research.
 
