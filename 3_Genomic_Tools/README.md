@@ -25,6 +25,8 @@ The general pattern for using bioinformatics tools in genomic analysis is to cre
 - [bioconda](https://bioconda.github.io/) - Bioconda is a channel for the conda package manager specializing in bioinformatics software
 - [bio-tools](https://bio.tools/t?page=1&q=gatk&sort=citationCount&ord=desc) - Example showing GATK tools by citation count and input/output and more (shown below)
 
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/bio-tools-registry.png" width=800>
+
 
 
 ## Blast 10 Ways
