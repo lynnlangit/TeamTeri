@@ -1,6 +1,6 @@
-# Genomic Tools and Registries
+# Finding Genomic Tools 
 
-There are a growing number of (mostly open source) genomic analysis tools available.  In addition, there are genomic tool registries which help with discovery of such tools.  These include GATK, HAIL, ADAM, Bioconductor, IDSeq, VariantSpark and more.  I highlight some recently released tools (listed below) as well.
+There are a growing number of (mostly open source) genomic analysis tools available.  In addition, there are genomic tool **registries** which help with discovery of such tools.  These include GATK, HAIL, ADAM, Bioconductor, IDSeq, VariantSpark and more.  I highlight some recently released tools (listed below) as well.
 
 - Tool which can be run in a browser! 
   - WebAssembly (open source) project named `biowasm` --> [link](https://biowasm.com/)
@@ -14,7 +14,7 @@ The general pattern for using bioinformatics tools in genomic analysis is to cre
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/tools-pipeline.png" width=800>
 
-## Genomics Registries
+## Genomic Tools - Registries
 
 - [Genomic Visualizers](https://github.com/cmdcolin/awesome-genome-visualization) - huge list of visualization tools (companion website has screenshots!)
 - [Biocontainers](https://biocontainers.pro/#/) - tool containers (images hosted on DockerHub, Quay.io or other public container registry)
