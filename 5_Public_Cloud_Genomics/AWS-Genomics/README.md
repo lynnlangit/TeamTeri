@@ -1,5 +1,5 @@
 # AWS for Genomics Pipelines
-Services, tools, patterns, practices and demos from AWS for Genomics pipelines
+Services, tools, patterns, practices and demos from AWS for Genomics pipelines - a conceptual example is shown in the diagram below.  
 
 ![AWS Genomics](https://github.com/lynnlangit/TeamTeri/blob/master/Images/AWS-Genomics.png)
 
