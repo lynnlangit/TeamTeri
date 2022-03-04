@@ -2,7 +2,7 @@
 
 Includes info about Galaxy Project, Terra.bio, Nextflow and Seven Bridges Genomics. This represents a small subset of the available platforms.  Some platforms are free (for research), others are commercial and have associated costs.  Still other platforms have a 'free tier' (running on public cloud) and then a 'you-pay-for-it' tier, usually based on the size of the data you need to analyze.  
 
-Platforms are designed to run **workflows** (which are sometimes called pipeliens) for genomic data anaylsis.  Workflows consist of a series of processing steps or **tasks**.  These tasks can be written via scripts (for example in R or Python) or can be executed using genomic libraries or toolkits, such as GATK (Genome Analysis Toolkit) from The Broad Institute.
+Platforms are designed to run **workflows** (which are sometimes called pipeliens) for genomic data anaylsis.  Platforms consist of **DSLs** (domain specific languages, such as WDL or NF, and integration libraries -- see the `Workflow Languges` section below.  Workflows consist of a series of processing steps or **tasks**.  These tasks can be written via scripts (for example in R or Python) or can be executed using genomic libraries or toolkits, such as GATK (Genome Analysis Toolkit) from The Broad Institute.
 
 Each time a workflow is run it generates a **job execution**.  Individual jobs can be tracked and monitored for accuracy, performance and runtime.
 
