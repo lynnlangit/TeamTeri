@@ -16,6 +16,8 @@ The general pattern for using bioinformatics tools in genomic analysis is to cre
 
 ## Genomic Tools - Registries
 
+Many, but not all bioinformatics tools rely on the Python language.  If this is the case, then understanding the Python packaging options is yet another important aspect of working with these tools.  For a concise comparision of `pip` vs `conda`, see this [article](https://pythonspeed.com/articles/conda-vs-pip).  
+
 - [Genomic Visualizers](https://github.com/cmdcolin/awesome-genome-visualization) - huge list of visualization tools (companion website has screenshots!)
 - [Biocontainers](https://biocontainers.pro/#/) - tool containers (images hosted on DockerHub, Quay.io or other public container registry)
 - [Dockstore](https://dockstore.org/) - Genomic workflows - in CWL, NF or WDL (hosted in GitHub) and associated container-based tools
