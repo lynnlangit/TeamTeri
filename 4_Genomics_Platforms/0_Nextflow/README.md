@@ -37,8 +37,10 @@ Nextflow allows the adaptation of pipelines written in the most common scripting
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-batch.png" width=800>
 
 
-
 ## Execution Environments and Tools
+
+NF-Tower is a flexible execution environment for Nextflow pipelines.  Here's a podcaast/demo - [link](https://seqera.io/podcasts/nf-cast-ep-5)
+
 - Tools / NFTower - https://help.tower.nf/getting-started/usage/ and see screenshot shown below 
   - Script with a nftower-cli tool - https://seqera.io/blog/announcing-the-nextflow-tower-cli
 - Config runtime environments (include for AWS/Azure/GCP and more) for NF-Tower - https://help.tower.nf/compute-envs/overview/
