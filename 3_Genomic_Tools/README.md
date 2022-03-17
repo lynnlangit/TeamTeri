@@ -22,6 +22,7 @@ Many, but not all bioinformatics tools rely on the Python language.  If this is 
 - [Biocontainers](https://biocontainers.pro/#/) - tool containers (images hosted on DockerHub, Quay.io or other public container registry)
 - [Dockstore](https://dockstore.org/) - Genomic workflows - in CWL, NF or WDL (hosted in GitHub) and associated container-based tools
   - [Learn Dockstore](https://www.youtube.com/playlist?list=PL2uhATKMu4U_MxWFXCvu9WlASdJQgAevh) - series of short screencasts showing how to use the Dockstore registry
+  - [Dockstore Fundamentals](https://www.youtube.com/watch?v=shMr_Bd01Ko) - 2 1/2 hours on using Dockstore, w/ many demos
 - [Galaxy Toolshed](https://toolshed.g2.bx.psu.edu/) - tools for Galaxy Project workflows (.ga files)
 - [nf-core](https://nf-co.re/) - Nextflow workflows (.nf files)
 - [bioconda](https://bioconda.github.io/) - Bioconda is a channel for the conda package manager specializing in bioinformatics software
