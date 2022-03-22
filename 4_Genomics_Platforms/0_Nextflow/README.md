@@ -32,7 +32,7 @@ Conceptual architecture for running Nextflow pipeline on AWS is shown above, not
 
 ### Azure 
 
-Nextflow allows the adaptation of pipelines written in the most common scripting languages.  Its fluent DSL simplifies the implementation and the deployment of complex parallel and reactive workflows on clouds and clusters.  The general pattern for deploying a Nextflow pipeline on a public cloud (VM batch) service is shown below.
+Nextflow allows the adaptation of pipelines written in the most common scripting languages.  Its fluent DSL simplifies the implementation and the deployment of complex parallel and reactive workflows on clouds and clusters.  The general pattern for deploying a Nextflow pipeline on a public cloud (VM batch) service is shown below.  Also, here's a 10 minute demo video - [link](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/nextflow-on-microsoft-azure-with-a-blazor-frontend/ba-p/3256430)
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-batch.png" width=800>
 
