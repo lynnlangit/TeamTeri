@@ -38,7 +38,7 @@ DeepVariant is a deep learning-based variant caller that takes aligned reads (in
 - Google [`Deep Variant `Tutorial](https://cloud.google.com/genomics/docs/tutorials/deepvariant)  
 - Google blog post - [`Looking through Deep Variant eyes`](https://google.github.io/deepvariant/posts/2020-02-20-looking-through-deepvariants-eyes/) 
 
-<img src=="https://github.com/lynnlangit/TeamTeri/blob/master/Images/deep-variant.png" width=800>
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/deep-variant.png" width=800>
 ***
 
 
