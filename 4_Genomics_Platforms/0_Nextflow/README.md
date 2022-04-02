@@ -51,8 +51,10 @@ NF-Tower is a flexible execution environment for Nextflow pipelines.  Here's a p
 
 
 ## Example Workflows and Pipelines
-- Example NF pipelines - https://nf-co.re/pipelines
-- Set of pipeline examples - https://github.com/nextflow-io/awesome-nextflow
-- Single-Cell Workflow(scFlow) pipeline for the orchestration of automated, scalable, and reproducible single-cell RNA sequencing analyses - https://github.com/combiz/scFlow
+- 📓  Example NF pipelines - [link](https://nf-co.re/pipelines)
+- :octocat: Set of pipeline examples 'aweseome Nextflow' - [link](https://github.com/nextflow-io/awesome-nextflow)
+- :octocat: Single-Cell Workflow(scFlow) pipeline from Imperial College of London
+    - Orchestration of automated, scalable, and reproducible single-cell RNA sequencing analyses - [link](https://github.com/combiz/scFlow)
 - 📘 Huge list of [Learn Nextflow links](https://www.nextflow.io/blog/2022/learn-nextflow-in-2022.html)
+- :octocat: Nextflow pipeline 'gotchas' (examples) - [link](https://github.com/Midnighter/nextflow-gotchas)
 
