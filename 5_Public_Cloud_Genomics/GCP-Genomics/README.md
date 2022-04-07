@@ -3,7 +3,7 @@
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/GCP-Genomics.png" width=600>
 
 Genomics on GCP includes using data, service and patterns.  This page summarizes these topics.  
-For more detail, see my open source course 'gcp-for-bioinformatics' at https://github.com/lynnlangit/gcp-for-bioinformatics
+**IMPORTANT:** - For more detail, see my open source course `gcp-for-bioinformatics` at https://github.com/lynnlangit/gcp-for-bioinformatics
 
 ---
 
