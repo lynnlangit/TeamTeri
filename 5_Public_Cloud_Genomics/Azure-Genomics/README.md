@@ -20,7 +20,8 @@ To Azure Batch and standard tools (such as GATK), Microsoft adds their genomics 
 
 ## Genomics Workflow Languages and Azure Batch
 
-- WDL/Cromwell on Azure Batch - https://lynnlangit.medium.com/azure-for-genomic-scale-workloads-ad3c989a3d0b
-- Nextflow on Azure Batch - https://www.nextflow.io/blog/2021/introducing-nextflow-for-azure-batch.html
-- Terra.bio runnable on Azure (announced in 2021) - https://terra.bio/exciting-new-horizon-for-terra-with-microsoft/
-- FHIR Server and Azure Synapse - https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/combine-and-explore-fhir-server-and-genomics-data-in-azure/ba-p/3298335
+- 📘 WDL/Cromwell on Azure Batch - https://lynnlangit.medium.com/azure-for-genomic-scale-workloads-ad3c989a3d0b
+- :octocat: cromwell-on-azure source code - https://github.com/microsoft/CromwellOnAzure
+- 📄 Nextflow on Azure Batch - https://www.nextflow.io/blog/2021/introducing-nextflow-for-azure-batch.html
+- 📢 Terra.bio runnable on Azure (announced in 2021) - https://terra.bio/exciting-new-horizon-for-terra-with-microsoft/
+- 📘 FHIR Server and Azure Synapse - https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/combine-and-explore-fhir-server-and-genomics-data-in-azure/ba-p/3298335
