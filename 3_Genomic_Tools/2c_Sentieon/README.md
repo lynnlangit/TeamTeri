@@ -28,6 +28,7 @@ From their website...link above `products`
 ## Using Sentieon Pieplines and Tools
 
 - :octocat: Sentieon Github Organizational Repo --> [link](https://github.com/Sentieon)
+- :octocat: Sentieon Github run-on-google-genomics Repo --> [link](https://github.com/Sentieon/sentieon-google-genomics)
 - :book: Tutorial: run on Sentieon DNASeek pipeline on GCP LS API (Batch --> [link](https://cloud.google.com/life-sciences/docs/tutorials/sentieon)
 
 
