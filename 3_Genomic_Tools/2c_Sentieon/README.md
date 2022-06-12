@@ -32,6 +32,8 @@ From their website...link above `products`
 - :octocat: Sentieon Github Organizational Repo --> [link](https://github.com/Sentieon)
 - :octocat: Sentieon Github run-on-google-genomics Repo --> [link](https://github.com/Sentieon/sentieon-google-genomics)
 - :book: Tutorial: run on Sentieon DNASeek pipeline on GCP LS API (Batch --> [link](https://cloud.google.com/life-sciences/docs/tutorials/sentieon)
+    - NOTE: I tested with Python 3 in CloudShell (no virtenv) and the example worked as written
+    - You can configure a number of pipeline run options including preemptible instances, read groups, streaming input from Cloud Storage, Duplicate Marking and more.  See this [link](https://cloud.google.com/life-sciences/docs/tutorials/sentieon#additional_options) for details
 
 
 
