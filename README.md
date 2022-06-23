@@ -6,7 +6,7 @@
 This Repo contains my own 'study notes' as I learn **genomic-scale cloud bioinformatics**. It includes descriptions of common tools, platforms and summaries of my work with clients. I update this Repo frequently. It is organized via the folder structure shown below.
 
 - 🗒️ **Concepts and Terms** (genomics files types, use cases, terminology and also whitepapers)
-- 🧪 **Lab Testing** (Illumina and more)
+- 🔬 **Lab Testing** (Illumina and more)
 - ⚒️ **Genomic Tools** (GATK, VariantSpark, HAIL and many more - this section updates OFTEN)
 - 📦 **Genomics Platforms** (Terra.bio, Galaxy Project, IDSeq and others)
 - ☁️ **Public Cloud Genomics** (Alibaba Cloud, AWS, Azure or GCP). The general approach is to implement a cloud-native Data Lake pattern for scalable genomic analysis. A conceptual rendering of this pattern is shown below.
