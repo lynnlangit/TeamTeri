@@ -1,6 +1,6 @@
-# Languages for Bioinformatics Tools
+# Programming Languages used with Bioinformatics Tools
 
-Bioinformatics researchers use a number of programming languages and libraries to analyze genomic data.  These include the following:
+Bioinformatics researchers use a number of programming languages and libraries to analyze genomic data.  Simple examples of code using common languages is shown in this folder.  These languages and libraries include the following:
 
 ## General Purpose Languages and Libraries
 
