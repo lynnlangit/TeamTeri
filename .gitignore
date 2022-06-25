@@ -51,3 +51,5 @@ fabric.properties
 .metals/metals.lock.db
 .metals/metals.log
 .metals/metals.mv.db
+.metals/metals.log
+.metals/metals.mv.db

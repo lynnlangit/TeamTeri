@@ -372,3 +372,10 @@ Caused by: java.lang.IllegalArgumentException: 19 is not a valid line number, al
 2022.06.23 08:11:57 WARN  no build target for: /Users/lynnlangit/Documents/GitHub/TeamTeri/6_Programming_Languages/language-examples/testing.scala
 2022.06.23 08:11:58 WARN  no build target for: /Users/lynnlangit/Documents/GitHub/TeamTeri/6_Programming_Languages/language-examples/testing.scala
 2022.06.23 08:11:59 WARN  no build target for: /Users/lynnlangit/Documents/GitHub/TeamTeri/6_Programming_Languages/language-examples/testing.scala
+2022.06.25 12:44:22 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/lynnlangit/Documents/GitHub/TeamTeri/.metals/lsp.trace.json or /Users/lynnlangit/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.06.25 12:44:25 INFO  logging to file /Users/lynnlangit/Documents/GitHub/TeamTeri/.metals/metals.log
+2022.06.25 12:44:25 INFO  Started: Metals version 0.11.6 in workspace '/Users/lynnlangit/Documents/GitHub/TeamTeri' for client Visual Studio Code 1.68.1.
+2022.06.25 12:44:29 INFO  time: initialize in 4.41s
+2022.06.25 12:44:31 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.25 12:44:31 WARN  Build server is not auto-connectable.
+2022.06.25 12:44:31 WARN  no build tool detected in workspace '/Users/lynnlangit/Documents/GitHub/TeamTeri'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
