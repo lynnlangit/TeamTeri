@@ -4,15 +4,15 @@ Bioinformatics researchers use a number of programming languages and libraries t
 
 ## General Purpose Languages and Libraries
 
-- Python: pip3, NumPy, SciPy, Matplotlib, Pandas
-- R: dplyr, ggplot2, Shiny, Plotly, renv
-- Julia: IJulia, SciML
-- Java: Log4j 2, Mockito, Maven
-- Scala: Breeze, Smile
-- C++: Boost, STL, STXXL
+- **Python:** pip3, NumPy, SciPy, Matplotlib, Pandas
+- **R:** dplyr, ggplot2, Shiny, Plotly, renv
+- **Julia:** IJulia, SciML
+- **Java:** Log4j 2, Mockito, Maven
+- **Scala:** Breeze, Smile
+- **C++:** Boost, STL, STXXL
 
 ## Bioinformatics and Machine Learning Libraries
 
-- R: randomForest, rPart, Bioconductor
-- Python: PyTorch, NumPy, SciPy, Sci-kit Learn, TensorFlow (Keras). Jupyter
-- Scala: Apache Spark ML Lib
+- **R:** randomForest, rPart, Bioconductor
+- **Python:** PyTorch, NumPy, SciPy, Sci-kit Learn, TensorFlow (Keras). Jupyter
+- **Scala:** Apache Spark ML Lib
