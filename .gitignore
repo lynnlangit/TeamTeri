@@ -44,3 +44,8 @@ crashlytics-build.properties
 fabric.properties
 
 *.rc
+*.db
+.metals/metals.lock.db
+.metals/metals.mv.db
+.metals/metals.mv.db
+.metals/metals.lock.db
