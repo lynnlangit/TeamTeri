@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/lynnlangit/Documents/GitHub/TeamTeri/6_Programming_Languages/language-examples",
+      "program": "/Users/lynnlangit/Documents/GitHub/TeamTeri/6_Programming_Languages/language-examples/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}

@@ -379,3 +379,7 @@ Caused by: java.lang.IllegalArgumentException: 19 is not a valid line number, al
 2022.06.25 12:44:31 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
 2022.06.25 12:44:31 WARN  Build server is not auto-connectable.
 2022.06.25 12:44:31 WARN  no build tool detected in workspace '/Users/lynnlangit/Documents/GitHub/TeamTeri'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Jun 25, 2022 12:52:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 25, 2022 12:52:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
