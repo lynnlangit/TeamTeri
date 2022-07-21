@@ -11,7 +11,7 @@ Includes info about Alibaba Cloud, AWS, Azure and GCP - see the `README.md` in *
 
 ## Azure Genomics 
 
-- :bookL Azure Open Genomics Datasets at [link](https://azure.microsoft.com/en-us/services/open-datasets/catalog/genomics-data-lake/)
+- :book: Azure Open Genomics Datasets at [link](https://azure.microsoft.com/en-us/services/open-datasets/catalog/genomics-data-lake/)
 - :book: My Medium article 'Azure Data Lake Genomics' at [link](https://medium.com/@lynnlangit/azure-for-genomic-scale-workloads-ad3c989a3d0b)
 
 ## AWS Genomics
