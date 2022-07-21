@@ -1,6 +1,6 @@
 # Azure Genomics
 
-For more - see - https://azure.microsoft.com/en-us/services/genomics/  
+For more information - see - https://azure.microsoft.com/en-us/services/genomics/  
 
 NOTE: You may need to use a 'pay-as-you-go' Azure account [purchase option](https://azure.microsoft.com/en-us/pricing/purchase-options/) to be able to run genomic examples (rather than a free trial account).  The reason for this is that the compute CPU/GPU quota in [free trial Azure accounts](https://azure.microsoft.com/en-us/free/free-account-faq/) is quite limited.
 
