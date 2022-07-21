@@ -6,7 +6,7 @@ NOTE: You may need to use a 'pay-as-you-go' Azure account [purchase option](http
 
 ## Genomic Datasets on Azure
 
-- Azure Open Genomics Datasets - https://azure.microsoft.com/en-us/services/open-datasets/catalog/genomics-data-lake/
+- :books: Azure Open Genomics Datasets - https://azure.microsoft.com/en-us/services/open-datasets/catalog/genomics-data-lake/
 
 ## About Microsoft Genomics
 
@@ -35,5 +35,6 @@ To Azure Batch and standard tools (such as GATK), Microsoft adds their genomics 
 
 ### FIHR Server
 
+- :books: FHIR server via Jupyter notebooks and other example notebooks - [link](https://github.com/microsoft/genomicsnotebook)
 - 📘 FHIR Server and Azure Synapse - [link](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/combine-and-explore-fhir-server-and-genomics-data-in-azure/ba-p/3298335)
 
