@@ -5,9 +5,9 @@ Includes info about Alibaba Cloud, AWS, Azure and GCP - see the `README.md` in *
 
 ## GCP Genomics
 
-- For GCP - see my open source course 'gcp-for-bioinformatics' at https://github.com/lynnlangit/gcp-for-bioinformatics
-- See my article 'From HPC to GCP with Nextflow' at https://medium.com/@lynnlangit/cloud-native-bioinformatics-hpc-to-gcp-21a5fb9921cd
-- See my article 'GCP BigQuery for Genomics' at https://medium.com/@lynnlangit/cloud-native-hello-world-for-bioinformatics-d21458a0013f
+- :octocat: For GCP - see my open source course 'gcp-for-bioinformatics' at [link](https://github.com/lynnlangit/gcp-for-bioinformatics)
+- :book: See my article 'From HPC to GCP with Nextflow' at [link](https://medium.com/@lynnlangit/cloud-native-bioinformatics-hpc-to-gcp-21a5fb9921cd)
+- :book: See my article 'GCP BigQuery for Genomics' at [link](https://medium.com/@lynnlangit/cloud-native-hello-world-for-bioinformatics-d21458a0013f)
 
 ## Azure Genomics 
 
