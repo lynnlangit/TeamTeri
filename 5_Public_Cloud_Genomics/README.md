@@ -23,7 +23,7 @@ See the folder in this Repo
 See the folder in this Repo  
 
 - :books: See my series of articles on Medium `Cloud-scaling Genomics on AWS`
-    - Part One - https://medium.com/@lynnlangit/scaling-custom-machine-learning-on-aws-d9dc7edfbff9
-    - Part Two - https://medium.com/@lynnlangit/scaling-custom-machine-learning-on-aws-part-2-emr-6dfc3cd91a1f
-    - Part Three - https://medium.com/@lynnlangit/scaling-custom-machine-learning-on-aws-part-3-kubernetes-5427d96f825b
-- :book: See my article `Using AWS Marketplace w/VariantSpark` - https://medium.com/@lynnlangit/cloud-native-hello-world-for-bioinformatics-53ecbcb9631b
+    - Part One `Understand and Prepare to Migrate to Cloud` at [link](https://medium.com/@lynnlangit/scaling-custom-machine-learning-on-aws-d9dc7edfbff9)
+    - Part Two `EMR and spot instances` at [link](https://medium.com/@lynnlangit/scaling-custom-machine-learning-on-aws-part-2-emr-6dfc3cd91a1f)
+    - Part Three `Data Lake using Spark` at [link](https://medium.com/@lynnlangit/scaling-custom-machine-learning-on-aws-part-3-kubernetes-5427d96f825b)
+- :book: See my article `Using AWS Marketplace w/VariantSpark` at [link](https://medium.com/@lynnlangit/cloud-native-hello-world-for-bioinformatics-53ecbcb9631b)
