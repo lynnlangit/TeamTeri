@@ -5,16 +5,22 @@ Includes info about Alibaba Cloud, AWS, Azure and GCP - see the `README.md` in *
 
 ## GCP Genomics
 
+See the folder in this Repo, and...   
+
 - :octocat: For GCP - see my open source course 'gcp-for-bioinformatics' at [link](https://github.com/lynnlangit/gcp-for-bioinformatics)
 - :book: See my article 'From HPC to GCP with Nextflow' at [link](https://medium.com/@lynnlangit/cloud-native-bioinformatics-hpc-to-gcp-21a5fb9921cd)
 - :book: See my article 'GCP BigQuery for Genomics' at [link](https://medium.com/@lynnlangit/cloud-native-hello-world-for-bioinformatics-d21458a0013f)
 
 ## Azure Genomics 
 
+See the folder in this Repo   
+
 - :book: Azure Open Genomics Datasets at [link](https://azure.microsoft.com/en-us/services/open-datasets/catalog/genomics-data-lake/)
 - :book: My Medium article 'Azure Data Lake Genomics' at [link](https://medium.com/@lynnlangit/azure-for-genomic-scale-workloads-ad3c989a3d0b)
 
 ## AWS Genomics
+
+See the folder in this Repo  
 
 - :books: See my series of articles on Medium 'Cloud-scaling Genomics'
     - Part One - https://medium.com/@lynnlangit/scaling-custom-machine-learning-on-aws-d9dc7edfbff9
