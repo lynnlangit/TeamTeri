@@ -24,16 +24,16 @@ To Azure Batch and standard tools (such as GATK), Microsoft adds their genomics 
 
 ### Nextflow
 
-- 📄 Nextflow on Azure Batch - https://www.nextflow.io/blog/2021/introducing-nextflow-for-azure-batch.html
+- 📄 Nextflow on Azure Batch - [link](https://www.nextflow.io/blog/2021/introducing-nextflow-for-azure-batch.html)
 
 ### WDL/Cromwell/Terra (and GATK)
 
-- 📘 WDL/Cromwell on Azure Batch - https://lynnlangit.medium.com/azure-for-genomic-scale-workloads-ad3c989a3d0b
-- :octocat: cromwell-on-azure source code - https://github.com/microsoft/CromwellOnAzure
-- 📢 Terra.bio runnable on Azure (announced in 2021) - https://terra.bio/exciting-new-horizon-for-terra-with-microsoft/
-- 📄 DRAGEN (requires FPGA) on Azure Batch using Illumina Bio-IT Platform for genomic analysis - https://support-docs.illumina.com/SW/Dragen_MultiCloud/Content/SW/DRAGEN/AzureBatch.htm
+- 📘 WDL/Cromwell on Azure Batch - [link](https://lynnlangit.medium.com/azure-for-genomic-scale-workloads-ad3c989a3d0b)
+- :octocat: cromwell-on-azure source code - [link](https://github.com/microsoft/CromwellOnAzure)
+- 📢 Terra.bio runnable on Azure (announced in 2021) - [link](https://terra.bio/exciting-new-horizon-for-terra-with-microsoft/)
+- 📄 DRAGEN (requires FPGA) on Azure Batch using Illumina Bio-IT Platform for genomic analysis - [link](https://support-docs.illumina.com/SW/Dragen_MultiCloud/Content/SW/DRAGEN/AzureBatch.htm)
 
 ### FIHR Server
 
-- 📘 FHIR Server and Azure Synapse - https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/combine-and-explore-fhir-server-and-genomics-data-in-azure/ba-p/3298335
+- 📘 FHIR Server and Azure Synapse - [link](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/combine-and-explore-fhir-server-and-genomics-data-in-azure/ba-p/3298335)
 
