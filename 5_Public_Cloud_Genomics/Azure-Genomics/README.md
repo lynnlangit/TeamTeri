@@ -10,11 +10,13 @@ NOTE: You may need to use a 'pay-as-you-go' Azure account [purchase option](http
 
 ## About Microsoft Genomics
 
+Microsoft Genomics offers a cloud implementation of the Burrows-Wheeler Aligner (BWA) and the Genome Analysis Toolkit (GATK) for secondary analysis.
 To Azure Batch and standard tools (such as GATK), Microsoft adds their genomics client (`msgen`) for running genomics workloads.  
 
-- The Microsoft Genomics client (`msgen`) is a Python front-end to the web service, architecture shown below
-- It can beinstalled like a standard Python package, on Windows or Linux via `pip install msgen`
-- For each genome sample that you want to process, you create a configuration file containing all the parameters
+- The Microsoft Genomics client (`msgen`) is a Python front-end to the web service which...
+  - Client architecture is shown below - run a sample -> [link](https://docs.microsoft.com/en-us/azure/genomics/overview-what-is-genomics)
+  - The client can beinstalled like a standard Python package, on Windows or Linux via `pip install msgen`
+  - For each genome sample that you want to process, you create a configuration file containing all the parameters
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/msft-genomics.png" width=600>
 
