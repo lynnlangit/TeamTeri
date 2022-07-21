@@ -34,6 +34,7 @@ To Azure Batch and standard tools (such as GATK), Microsoft adds their genomics 
 - :octocat: cromwell-on-azure source code - [link](https://github.com/microsoft/CromwellOnAzure)
 - 📢 Terra.bio runnable on Azure (announced in 2021) - [link](https://terra.bio/exciting-new-horizon-for-terra-with-microsoft/)
 - 📄 DRAGEN (requires FPGA) on Azure Batch using Illumina Bio-IT Platform for genomic analysis - [link](https://support-docs.illumina.com/SW/Dragen_MultiCloud/Content/SW/DRAGEN/AzureBatch.htm)
+- :book: Article "Accelerate Genomics on Azure" - [link](http://ilikesqldata.com/accelerating-genomics-workflows-and-data-analysis-on-azure/)
 
 ### FIHR Server
 
