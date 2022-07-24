@@ -40,4 +40,5 @@ To Azure Batch and standard tools (such as GATK), Microsoft adds their genomics 
 
 - :books: FHIR server via Jupyter notebooks and other example notebooks - [link](https://github.com/microsoft/genomicsnotebook)
 - 📘 FHIR Server and Azure Synapse - [link](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/combine-and-explore-fhir-server-and-genomics-data-in-azure/ba-p/3298335)
+- :book: Article: "Convert Synthetic FHIR & PacBio VCF Data to parquet & Explore with Azure Synapse Analytics" includes example notebook - [link](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/convert-synthetic-fhir-and-pacbio-vcf-data-to-parquet-and/ba-p/3577038)
 
