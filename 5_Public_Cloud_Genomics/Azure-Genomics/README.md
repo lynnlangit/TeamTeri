@@ -26,7 +26,10 @@ To Azure Batch and standard tools (such as GATK), Microsoft adds their genomics 
 
 ### Nextflow
 
+<img src="https://seqera.io/static/a85bb6dc84e1a06d6564e0ac0855e744/42cbc/blog-nextflow-and-azure-batch-part-1-of-2-1.png">
+
 - 📄 Nextflow on Azure Batch - [link](https://www.nextflow.io/blog/2021/introducing-nextflow-for-azure-batch.html)
+- 📘 Blog: "Nextflow and Azure Batch" graphic above from this article too! - [link](https://seqera.io/blog/nextflow-and-azure-batch-part-1-of-2)
 
 ### WDL/Cromwell/Terra (and GATK)
 
