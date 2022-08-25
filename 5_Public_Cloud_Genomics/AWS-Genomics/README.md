@@ -3,6 +3,10 @@ AWS includes services, tools and partner integrations which support multiple typ
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/aws-genomics-concepts.png">
 
+*NOTE: Comming Soon in 2022, new course `aws-for-bioinformatics`*
+
+---
+
 ## Genomic Datasets on AWS
 * **Genomic Datasets** on AWS -- https://registry.opendata.aws/tag/genomic/
 * **1000 Genomes Dataset** -- https://aws.amazon.com/1000genomes/
