@@ -1,9 +1,13 @@
 # AWS Support for Genomic Workloads
-AWS includes services, tools and partner integrations which support multiple types of genomic workloads.  The diagram below shows various stages/types.
+
+***NEW COURSE IN 2022*** `AWS-for-Bioinformatics` - watch twitter(@lynnlangit) and this repo for course announcement.  
+
+---
+
+AWS includes services, tools and partner integrations which support multiple types of genomic workloads.  The diagram below shows various stages/types that typify genomic data analysis workload types.  Workloads are also often categorized as follows: data ingest, primary, secondary or tertiary analysis.
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/aws-genomics-concepts.png">
 
-*NOTE: Comming Soon in 2022, new course `aws-for-bioinformatics`*
 
 ---
 
