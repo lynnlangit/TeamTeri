@@ -1,6 +1,6 @@
 # AWS Support for Genomic Workloads
 
-***NEW COURSE IN 2022*** `AWS-for-Bioinformatics` - watch twitter(@lynnlangit) and this repo for course announcement.  
+***NEW COURSE IN 2022*** `AWS-for-Bioinformatics` - FREE and open source on GitHub/YouTube - [link](https://github.com/lynnlangit/aws-for-bioinformatics) 
 
 ---
 
