@@ -7,6 +7,7 @@ There are a growing number of (mostly open source) genomic analysis tools availa
     - Includes samtools, bedtools, bowtie2, fastp, seq-align and more
 - High-performance set of tools for research and commercial use
   - `fgbio`: tools for working with genomic and high throughput sequencing data --> [link](http://fulcrumgenomics.github.io/fgbio/tools/latest/)
+- Course (from UT/Austin) 'Understanding NGS Tools; --> [link](https://wikis.utexas.edu/display/CoreNGSTools/Core+NGS+Tools+Home)
 
 ## Tools and Pipelines - Patterns
 
