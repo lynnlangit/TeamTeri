@@ -1,8 +1,10 @@
 # Concepts and Terms
 
-## Intro Video
+## Intro Video and More
 
 In this introductory video on YouTube,  I cover key concepts in genomic data processing using illustrations.  Then, I discuss cloud patterns and genomics tools that my team works with in support of research.  This 30 minute video is a good introduction to the work that we've been doing over the past few years, take a look - [link](https://www.youtube.com/watch?v=oNTdoi2fbKA)
+
+Also, here's a link to a website named `learngenomics.dev` - designed to teach software engineers the basics of genomics.  Lots of great basic information and visualizations - [link](https://learngenomics.dev/)
 
 
 ## Genomic User Story Map
