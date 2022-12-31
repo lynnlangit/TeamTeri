@@ -21,9 +21,15 @@ This Repo contains my own 'study notes' as I learn **genomic-scale cloud bioinfo
 
 In addition to this Repo, I have a number of other Repos with cloud bioinformatics information. Also, I've included two of my favorite link aggregator resources here for additional learning.
 
-- :octocat: my `learn-cloud` Repo - https://github.com/lynnlangit/learning-cloud
-- :octocat: my `gcp-for-bioinformatics` open source course - https://github.com/lynnlangit/gcp-for-bioinformatics
-- :octocat: my `learn-wdl` open source course - https://github.com/openwdl/learn-wdl
+### My GitHub Open Source Courses
+
+- :octocat: GENERAL CLOUD - my `learn-cloud` Repo - https://github.com/lynnlangit/learning-cloud
+- :octocat: GCP - my `gcp-for-bioinformatics` open source course - https://github.com/lynnlangit/gcp-for-bioinformatics
+- :octocat: AWS - my `aws-for-bioinformatics` open source course - https://github.com/lynnlangit/aws-for-bioinformatics
+- :octocat: WDL language - my `learn-wdl` open source course - https://github.com/openwdl/learn-wdl
+
+### Repos with Links
+
 - :octocat: a link Collection : [link to Repo (awesome bioinformatics)](https://github.com/openbiox/awosome-bioinformatics) with large number of curated links for learning about bioinformatics tools and topics
 - :octocat: bioinformatics benchmark papers - [link](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) links to published benchmark papers for bioinformatics
 ---
