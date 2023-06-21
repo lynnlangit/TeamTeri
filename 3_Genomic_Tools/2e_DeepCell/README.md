@@ -26,6 +26,12 @@ docker run --gpus '"device=0"' -it --rm \
 ## Run on VertexAI Notebook
 
 - Managed Jupyter Notebook
+    - Use tensorflow runtime (screenshot below is an example
+    - Verify DeepCell
+      ```
+      import deepcell
+      print("DeepCell version:", deepcell.__version__)
+      ```
 - User-managed Jupyter Notebook
 
 ## Run as a GCP Service
