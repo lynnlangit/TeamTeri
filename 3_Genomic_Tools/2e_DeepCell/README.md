@@ -4,9 +4,9 @@ From the Van Valen lab GitHub Repo Readme
 
 *"`deepcell-tf` is a deep learning library for **single-cell analysis of biological images**. It is written in Python and built using TensorFlow 2.  This library allows users to apply pre-existing models to imaging data as well as to develop new deep learning models for single-cell analysis. This library specializes in models for **cell segmentation (whole-cell and nuclear) in 2D & 3D images** as well as cell tracking in 2D time-lapse datasets. Read the documentation at deepcell.readthedocs.io."*
   
-*"These models are applicable to data ranging from multiplexed images of tissues to dynamic live-cell imaging movies.  `deepcell-tf` is one of several resources created by the Van Valen lab to facilitate the development and application of new deep learning methods to biology. 
+*"These models are applicable to data ranging from multiplexed images of tissues to dynamic live-cell imaging movies.  `deepcell-tf` is one of several resources created by the Van Valen lab to facilitate the development and application of new deep learning methods to biology."*
 
-*Other projects within our DeepCell ecosystem include the following:
+*"Other projects within our DeepCell ecosystem include the following:
 *- **DeepCell Toolbox** for pre and post-processing the outputs of deep learning models
 *- **DeepCell Tracking** for creating cell lineages with deep-learning-based tracking models
 *- **DeepCell Kiosk** for deploying workflows on large datasets in the cloud
