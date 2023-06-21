@@ -25,8 +25,10 @@ docker run --gpus '"device=0"' -it --rm \
 
 ## Run on VertexAI Notebook
 
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/DeepCell-verify.png" width=800>
+
 - Managed Jupyter Notebook
-    - Use tensorflow runtime (screenshot below is an example
+    - Use tensorflow runtime (screenshot above is an example)
     - Verify DeepCell
       ```
       import deepcell
