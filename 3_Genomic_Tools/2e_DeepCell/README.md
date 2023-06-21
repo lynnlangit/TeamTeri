@@ -7,10 +7,10 @@ From the Van Valen lab GitHub Repo Readme
 *"These models are applicable to data ranging from multiplexed images of tissues to dynamic live-cell imaging movies.  `deepcell-tf` is one of several resources created by the Van Valen lab to facilitate the development and application of new deep learning methods to biology."*
 
 *"Other projects within our DeepCell ecosystem include the following:  "*
-*-**DeepCell Toolbox** for pre and post-processing the outputs of deep learning models "* 
-*- **DeepCell Tracking** for creating cell lineages with deep-learning-based tracking models "* 
-*- **DeepCell Kiosk** for deploying workflows on large datasets in the cloud  "*
-*- **DeepCell Label** for annotating high-dimensional biological images to use as training data  "*
+  *- **DeepCell Toolbox** for pre and post-processing the outputs of deep learning models "* 
+  *- **DeepCell Tracking** for creating cell lineages with deep-learning-based tracking models "* 
+  *- **DeepCell Kiosk** for deploying workflows on large datasets in the cloud  "*
+  *- **DeepCell Label** for annotating high-dimensional biological images to use as training data  "*
 
 ## Test DeepCell on WebUI
 
