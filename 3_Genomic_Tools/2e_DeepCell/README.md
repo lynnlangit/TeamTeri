@@ -12,11 +12,33 @@ Other projects within our DeepCell ecosystem include the following:
   - **DeepCell Toolbox** for pre and post-processing the outputs of deep learning models 
   - **DeepCell Tracking** for creating cell lineages with deep-learning-based tracking models 
   - **DeepCell Kiosk** for deploying workflows on large datasets in the cloud 
-  - **DeepCell Label** for annotating high-dimensional biological images to use as training data 
+  - **DeepCell Label** for annotating high-dimensional biological images to use as training data
+
+-------------
 
 ## Test DeepCell on WebUI
 
 Public test area --> https://deepcell.org/predict
+
+## Run on VertexAI Notebook
+
+The DeepCell library includes sample data (on S3), example notebooks (cell segmentation and tracking) and more.  
+
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/DeepCell-verify.png" width=800>
+
+- Managed Jupyter Notebook
+    - Use tensorflow runtime (screenshot above is an example), configure w/at least one GPU
+    - Verify DeepCell
+      ```
+      import deepcell
+      print("DeepCell version:", deepcell.__version__)
+      ```
+- User-managed Jupyter Notebook
+  - Run with `tensorflow` runtime, configure w/at least one GPU
+  
+## Use DeepCell for Cell Segmentation
+
+Example from Van Valen lab (Jupyter notebook)--> [link](https://deepcell.readthedocs.io/en/latest/notebooks/Training-Segmentation.html)
 
 ## Install with Docker
 
@@ -31,26 +53,11 @@ docker run --gpus '"device=0"' -it --rm \
     vanvalenlab/deepcell-tf:latest-gpu
 ```
 
-## Run on VertexAI Notebook
-
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/DeepCell-verify.png" width=800>
-
-- Managed Jupyter Notebook
-    - Use tensorflow runtime (screenshot above is an example)
-    - Verify DeepCell
-      ```
-      import deepcell
-      print("DeepCell version:", deepcell.__version__)
-      ```
-- User-managed Jupyter Notebook
-
 ## Run as a GCP Service
 
 Recommended GCP architecture and image below on GKE cluster (from Van Valen lab documentation) - [link](https://deepcell-kiosk.readthedocs.io/en/master/#software-architecture)
 
 <img src="https://raw.githubusercontent.com/vanvalenlab/kiosk-console/master/docs/images/Kiosk_Architecture.png" width=800>
 
-## Use DeepCell for Cell Segmentation
 
-Example from Van Valen lab (Jupyter notebook)--> [link](https://deepcell.readthedocs.io/en/latest/notebooks/Training-Segmentation.html)
 
