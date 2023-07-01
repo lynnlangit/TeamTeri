@@ -38,7 +38,8 @@ The DeepCell library includes sample data (on S3), example notebooks (cell segme
   
 ## Use DeepCell for Cell Segmentation
 
-Example from Van Valen lab (Jupyter notebook)--> [link](https://deepcell.readthedocs.io/en/latest/notebooks/Training-Segmentation.html)
+Example from Van Valen lab (Jupyter notebook)--> [link](https://deepcell.readthedocs.io/en/latest/notebooks/Training-Segmentation.html)  
+Example notebook "Training a segmentation model" --> [link](https://github.com/vanvalenlab/deepcell-tf/blob/56f2cce7e51655c188acb213e25e1c3ef0fdbef5/notebooks/training/panopticnets/Nuclear%20Segmentation%20-%20DeepWatershed.ipynb)
 
 ## Install with Docker
 
