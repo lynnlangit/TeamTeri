@@ -3,7 +3,7 @@
 **Introduction**
 * **Brief explanation of LLMs and their potential for transforming bioinformatics:** [Harnessing the Power of Large Language Models for Bioinformatics](https://medium.com/@andrew_johnson_4/unveiling-the-potential-of-large-language-models-in-bioinformatics-76710eb0b38a)
 * **Discussion of key challenges faced by traditional bioinformatics approaches:** [Overcoming the Limitations of Traditional Bioinformatics Techniques](https://towardsdatascience.com/overcoming-the-limitations-of-large-language-models-9d4e92ad9823)
-* **Outline of the advantages LLMs offer:** [Why Bioinformatics Needs Large Language Models](https://towardsdatascience.com/large-language-models-in-molecular-biology-9eb6b65d8a30)
+* **Outline of the advantages LLMs offer:** [LLMs for Bio](https://towardsdatascience.com/large-language-models-in-molecular-biology-9eb6b65d8a30)
 * **The next frontier for LLMs is biology:** [Why Bioinformatics Needs Large Language Models](https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?sh=7a7084506f05)
 
 **Key Applications of LLMs in Bioinformatics**
