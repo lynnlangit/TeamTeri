@@ -1,7 +1,7 @@
 # Using Large Language Models (LLMs) for Bioinformatics Research
 
 **Introduction**
-* **Brief explanation of LLMs and their potential for transforming bioinformatics:** [Harnessing the Power of Large Language Models for Bioinformatics](https://medium.com/@init_27/harnessing-the-power-of-large-language-models-for-bioinformatics-d0561db05a69)
+* **Brief explanation of LLMs and their potential for transforming bioinformatics:** [Harnessing the Power of Large Language Models for Bioinformatics](https://medium.com/@andrew_johnson_4/unveiling-the-potential-of-large-language-models-in-bioinformatics-76710eb0b38a)
 * **Discussion of key challenges faced by traditional bioinformatics approaches:** [Overcoming the Limitations of Traditional Bioinformatics Techniques](https://www.frontiersin.org/articles/10.3389/fgene.2022.865626/full)
 * **Outline of the advantages LLMs offer:** [Why Bioinformatics Needs Large Language Models](https://bdoteq.com/why-bioinformatics-need-language-models/)
 
