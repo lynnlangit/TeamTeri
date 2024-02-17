@@ -15,12 +15,13 @@
 * **Data Quality and Bias:** [The Role of Dataset Bias in Natural Language Processing within Healthcare]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8980800/])
 * **Computational Requirements:** [Training and Fine-tuning Large Language Models for Bioinformatics]([https://www.frontiersin.org/articles/10.3389/fbinf.2023.1095659/full])
 * **Interpretability:** [Explainable AI in Bioinformatics: Challenges and Opportunities in the Age of Large Language Models]([https://www.biorxiv.org/content/10.1101/2023.09.08.559268v1])
+* **Benchmarking:** - [Benchmarking techniques](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
 
 
 **Future Directions**
-* **Potential new application areas:** [Large Language Models: A New Frontier in Precision Medicine]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120966/])
-* **Advancements in LLM capabilities:** [Multimodal LLMs: Fusing Text and Data in Bioinformatics]([https://arxiv.org/abs/2308.09910])
-* **Importance of interdisciplinary collaboration:** [Why bioinformatics needs LLMs (and vice-versa)]([https://greenelab.github.io/metagenomics-workshop/posts/llms/])
+* **Potential new application areas:** [Large Language Models: A New Frontier in Precision Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120966/)
+* **Advancements in LLM capabilities:** [Multimodal LLMs: Fusing Text and Data in Bioinformatics](https://arxiv.org/abs/2308.09910)
+* **Importance of interdisciplinary collaboration:** [Why bioinformatics needs LLMs (and vice-versa)](https://greenelab.github.io/metagenomics-workshop/posts/llms/)
 
 **Conclusion**
 * **Summarize the transformative potential of LLMs in bioinformatics:** [The rise of large language models (LLMs) – Omics tutorials](https://omicstutorials.com/the-rise-of-large-language-models-llms/) 
