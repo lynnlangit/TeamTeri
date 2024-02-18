@@ -35,6 +35,7 @@
   - [Text-guided Foundation Model Adaptation for Pathological Image Classification](https://arxiv.org/abs/2307.14901)
   
 ## Challenges and Limitations
+
 * **Data Quality and Bias:**
   - [THE ROLE OF NATURAL LANGUAGE PROCESSING IN HEALTHCARE](https://roundtable.datascience.salon/the-role-of-natural-language-processing-in-healthcare)
 * **Computational Requirements:**
@@ -45,14 +46,16 @@
   - [Bioinfo-Bench: A Simple Benchmark Framework for LLM Bioinformatics Skills Evaluation](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
 
 ## Future Directions
-* **Potential new application areas:** [Large Language Models: A New Frontier in Precision Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120966/)
-* **Advancements in LLM capabilities:** [Multimodal LLMs: Fusing Text and Data in Bioinformatics](https://arxiv.org/abs/2308.09910)
+* **Potential new application areas:**
+  - [Precision Health in the Age of Large Language Models](https://dl.acm.org/doi/10.1145/3580305.3599568)
+* **Advancements in LLM capabilities:** 
 - [Applications of transformer-based language models in bioinformatics: a survey](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad001/6984737)
-* **Importance of interdisciplinary collaboration:** [Why bioinformatics needs LLMs (and vice-versa)](https://greenelab.github.io/metagenomics-workshop/posts/llms/)
 
 ## Conclusion
-* **Summarize the transformative potential of LLMs in bioinformatics:** [The rise of large language models (LLMs) – Omics tutorials](https://omicstutorials.com/the-rise-of-large-language-models-llms/) 
-* **Reiterate key takeaways and the exciting future for this field:**  [Large Language Models (LLMs) in Science and Biology: Advancements in Text Generation and Creative AI – Omics tutorials](https://omicstutorials.com/large-language-models-llms-in-science-and-biology-advancements-in-text-generation-and-creative-ai/)
+* **Summarize the transformative potential of LLMs in bioinformatics:**
+  - [The rise of large language models (LLMs)](https://omicstutorials.com/the-rise-of-large-language-models-llms/)
+* **Reiterate key takeaways and the exciting future for this field:**
+ - [Large Language Models (LLMs) in Science and Biology: Advancements in Text Generation and Creative AI](https://omicstutorials.com/large-language-models-llms-in-science-and-biology-advancements-in-text-generation-and-creative-ai/)
 
 -----
 
