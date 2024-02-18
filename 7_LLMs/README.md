@@ -27,6 +27,9 @@
   - [Large Language Models may speed Drug Discovery](https://www.technologyreview.com/2023/08/22/1076802/large-language-models-may-speed-drug-discovery/)
 * **Gene Expression Analysis:**  
   - [Custom GPT for gene analysis](https://chat.openai.com/g/g-HvvFt9ohw-genegpt)
+  - [GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153281/)
+* **Digi Image Path Analysis:**
+  - [A visual–language foundation model for pathology image analysis using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3)
   
 ## Challenges and Limitations
 * **Data Quality and Bias:**
