@@ -36,7 +36,7 @@
 * **Interpretability:**
   - [XAI meets Biology: A Comprehensive Review of Explainable AI in Bioinformatics Applications](https://arxiv.org/html/2312.06082v1)
 * **Benchmarking:**
-  - [Benchmarking techniques](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
+  - [Bioinfo-Bench: A Simple Benchmark Framework for LLM Bioinformatics Skills Evaluation](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
 
 ## Future Directions
 * **Potential new application areas:** [Large Language Models: A New Frontier in Precision Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120966/)
