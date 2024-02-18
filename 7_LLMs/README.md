@@ -7,16 +7,21 @@
   - [Overcoming the Limitations of Traditional Bioinformatics Techniques](https://towardsdatascience.com/overcoming-the-limitations-of-large-language-models-9d4e92ad9823)
 * **Outline of the advantages LLMs offer:**
   - [LLMs for Bio](https://towardsdatascience.com/large-language-models-in-molecular-biology-9eb6b65d8a30)
+  - [https://www.bio-itworld.com/news/2023/01/27/take-the-dna-delorean-the-promise-of-large-language-models-in-genomics](https://www.bio-itworld.com/news/2023/01/27/take-the-dna-delorean-the-promise-of-large-language-models-in-genomics)
 * **The next frontier for LLMs is biology:**
   - [Why Bioinformatics Needs Large Language Models](https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?sh=7a7084506f05)
 
 **Key Applications of LLMs in Bioinformatics**
-* **Sequence Analysis:**  [How Language Models are Revolutionizing Biological Sequence Analysis](https://www.technologynetworks.com/informatics/articles/how-language-models-are-revolutionizing-biological-sequence-analysis-366863)
-* **Protein Structure Prediction:** [Protein Structure Prediction with AI: AlphaFold and the Next Generation of Language Models ](https://www.marktechpost.com/2023/05/15/protein-structure-prediction-with-ai-alphafold-and-the-next-generation-of-language-models/)
-* **Drug Discovery:**  [Large Language Models in Drug Discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9469591/)
-* **Gene Expression Analysis:**  [Understanding Gene Expression with Large Language Models](https://bdoteq.com/understanding-gene-expression-with-large-language-models/)
-* **Gene GPT:**
-- [Custom GPT for gene analysis](https://chat.openai.com/g/g-HvvFt9ohw-genegpt)
+* **Sequence Analysis:**
+  - [Large models for genomics](https://www.nature.com/articles/s41592-023-02105-5)
+  - [ProtHyena: A fast and efficient foundation protein language model at single amino acid Resolution](https://www.biorxiv.org/content/10.1101/2024.01.18.576206v1)
+* **Protein Structure Prediction:**
+  - [Protein Structure Prediction with AI: AlphaFold](https://www.nature.com/articles/s41586-021-03819-2%3C)
+  - [When Protein Structure Embedding Meets Large Language Models](https://pubmed.ncbi.nlm.nih.gov/38254915/)
+* **Drug Discovery:**
+  - [Large Language Models may speed Drug Discovery](https://www.technologyreview.com/2023/08/22/1076802/large-language-models-may-speed-drug-discovery/)
+* **Gene Expression Analysis:**  
+  - [Custom GPT for gene analysis](https://chat.openai.com/g/g-HvvFt9ohw-genegpt)
   
 **Challenges and Limitations**
 * **Data Quality and Bias:** [The Role of Dataset Bias in Natural Language Processing within Healthcare]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8980800/])
@@ -24,10 +29,10 @@
 * **Interpretability:** [Explainable AI in Bioinformatics: Challenges and Opportunities in the Age of Large Language Models]([https://www.biorxiv.org/content/10.1101/2023.09.08.559268v1])
 * **Benchmarking:** - [Benchmarking techniques](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
 
-
 **Future Directions**
 * **Potential new application areas:** [Large Language Models: A New Frontier in Precision Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120966/)
 * **Advancements in LLM capabilities:** [Multimodal LLMs: Fusing Text and Data in Bioinformatics](https://arxiv.org/abs/2308.09910)
+- [Applications of transformer-based language models in bioinformatics: a survey](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad001/6984737)
 * **Importance of interdisciplinary collaboration:** [Why bioinformatics needs LLMs (and vice-versa)](https://greenelab.github.io/metagenomics-workshop/posts/llms/)
 
 **Conclusion**
