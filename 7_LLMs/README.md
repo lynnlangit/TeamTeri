@@ -1,6 +1,6 @@
 # Using Large Language Models (LLMs) for Bioinformatics Research
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/llm-research.png" width=700>
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/llm-research.png" width=500 align=center>
 
 ## Introduction
 * **Brief explanation of LLMs and their potential for transforming bioinformatics:**
@@ -14,6 +14,9 @@
   - [Why Bioinformatics Needs Large Language Models](https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?sh=7a7084506f05)
 
 ## Key Applications of LLMs in Bioinformatics
+
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/llm-bio.png" width=300 align=right>
+
 * **Sequence Analysis:**
   - [Large models for genomics](https://www.nature.com/articles/s41592-023-02105-5)
   - [ProtHyena: A fast and efficient foundation protein language model at single amino acid Resolution](https://www.biorxiv.org/content/10.1101/2024.01.18.576206v1)
