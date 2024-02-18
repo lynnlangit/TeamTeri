@@ -15,8 +15,9 @@
 * **Protein Structure Prediction:** [Protein Structure Prediction with AI: AlphaFold and the Next Generation of Language Models ](https://www.marktechpost.com/2023/05/15/protein-structure-prediction-with-ai-alphafold-and-the-next-generation-of-language-models/)
 * **Drug Discovery:**  [Large Language Models in Drug Discovery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9469591/)
 * **Gene Expression Analysis:**  [Understanding Gene Expression with Large Language Models](https://bdoteq.com/understanding-gene-expression-with-large-language-models/)
-* **Gene GPT:**  [Custom GPT for gene analysis](https://news.ycombinator.com/item?id=39348902
-
+* **Gene GPT:**
+- [Custom GPT for gene analysis](https://chat.openai.com/g/g-HvvFt9ohw-genegpt)
+  
 **Challenges and Limitations**
 * **Data Quality and Bias:** [The Role of Dataset Bias in Natural Language Processing within Healthcare]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8980800/])
 * **Computational Requirements:** [Training and Fine-tuning Large Language Models for Bioinformatics]([https://www.frontiersin.org/articles/10.3389/fbinf.2023.1095659/full])
