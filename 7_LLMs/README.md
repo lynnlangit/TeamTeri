@@ -28,6 +28,7 @@
 * **Gene Expression Analysis:**  
   - [Custom GPT for gene analysis](https://chat.openai.com/g/g-HvvFt9ohw-genegpt)
   - [GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153281/)
+  - [GENEPT: A SIMPLE BUT HARD-TO-BEAT FOUNDATION MODEL FOR GENES AND CELLS BUILT FROM CHATGPT](https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1)
 * **Digi Image Path Analysis:**
   - [A visual–language foundation model for pathology image analysis using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3)
   
