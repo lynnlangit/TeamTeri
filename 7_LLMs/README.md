@@ -45,13 +45,11 @@
 * **Benchmarking:**
   - [Bioinfo-Bench: A Simple Benchmark Framework for LLM Bioinformatics Skills Evaluation](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
 
-## Future Directions
+## Summary and Future Directions
 * **Potential new application areas:**
   - [Precision Health in the Age of Large Language Models](https://dl.acm.org/doi/10.1145/3580305.3599568)
 * **Advancements in LLM capabilities:** 
-- [Applications of transformer-based language models in bioinformatics: a survey](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad001/6984737)
-
-## Conclusion
+  - [Applications of transformer-based language models in bioinformatics: a survey](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad001/6984737)
 * **Summarize the transformative potential of LLMs in bioinformatics:**
   - [The rise of large language models (LLMs)](https://omicstutorials.com/the-rise-of-large-language-models-llms/)
 * **Reiterate key takeaways and the exciting future for this field:**
