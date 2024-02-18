@@ -1,5 +1,7 @@
 # Using Large Language Models (LLMs) for Bioinformatics Research
 
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/llm-research.png" width=700>
+
 ## Introduction
 * **Brief explanation of LLMs and their potential for transforming bioinformatics:**
   - [Harnessing the Power of Large Language Models for Bioinformatics](https://medium.com/@andrew_johnson_4/unveiling-the-potential-of-large-language-models-in-bioinformatics-76710eb0b38a)
