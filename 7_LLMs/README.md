@@ -53,7 +53,7 @@
 * **Summarize the transformative potential of LLMs in bioinformatics:**
   - [The rise of large language models (LLMs)](https://omicstutorials.com/the-rise-of-large-language-models-llms/)
 * **Reiterate key takeaways and the exciting future for this field:**
- - [Large Language Models (LLMs) in Science and Biology: Advancements in Text Generation and Creative AI](https://omicstutorials.com/large-language-models-llms-in-science-and-biology-advancements-in-text-generation-and-creative-ai/)
+   - [Large Language Models (LLMs) in Science and Biology: Advancements in Text Generation and Creative AI](https://omicstutorials.com/large-language-models-llms-in-science-and-biology-advancements-in-text-generation-and-creative-ai/)
 
 -----
 
