@@ -29,10 +29,14 @@
   - [Custom GPT for gene analysis](https://chat.openai.com/g/g-HvvFt9ohw-genegpt)
   
 ## Challenges and Limitations
-* **Data Quality and Bias:** [The Role of Dataset Bias in Natural Language Processing within Healthcare]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8980800/])
-* **Computational Requirements:** [Training and Fine-tuning Large Language Models for Bioinformatics]([https://www.frontiersin.org/articles/10.3389/fbinf.2023.1095659/full])
-* **Interpretability:** [Explainable AI in Bioinformatics: Challenges and Opportunities in the Age of Large Language Models]([https://www.biorxiv.org/content/10.1101/2023.09.08.559268v1])
-* **Benchmarking:** - [Benchmarking techniques](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
+* **Data Quality and Bias:**
+  - [THE ROLE OF NATURAL LANGUAGE PROCESSING IN HEALTHCARE](https://roundtable.datascience.salon/the-role-of-natural-language-processing-in-healthcare)
+* **Computational Requirements:**
+  - [Leveraging Fine-Tuned Large Language Models in Bioinformatics: A Research Perspective](https://www.qeios.com/read/WE7UMN.2)
+* **Interpretability:**
+  - [XAI meets Biology: A Comprehensive Review of Explainable AI in Bioinformatics Applications](https://arxiv.org/html/2312.06082v1)
+* **Benchmarking:**
+  - [Benchmarking techniques](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
 
 ## Future Directions
 * **Potential new application areas:** [Large Language Models: A New Frontier in Precision Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9120966/)
