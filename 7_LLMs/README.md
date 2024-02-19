@@ -23,6 +23,7 @@
 * **Protein Structure Prediction:**
   - [Protein Structure Prediction with AI: AlphaFold](https://www.nature.com/articles/s41586-021-03819-2%3C)
   - [When Protein Structure Embedding Meets Large Language Models](https://pubmed.ncbi.nlm.nih.gov/38254915/)
+  - [OpenFold Biotech AI Research Consortium releases SoloSeq and Multimer, an integrated protein Large Language Model with 3D structure generation](https://www.businesswire.com/news/home/20240219658831/en/OpenFold-Biotech-AI-Research-Consortium-releases-SoloSeq-and-Multimer-an-integrated-protein-Large-Language-Model-with-3D-structure-generation)
 * **Drug Discovery:**
   - [Large Language Models may speed Drug Discovery](https://www.technologyreview.com/2023/08/22/1076802/large-language-models-may-speed-drug-discovery/)
 * **Gene Expression Analysis:**  
