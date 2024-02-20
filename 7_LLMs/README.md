@@ -14,7 +14,7 @@
 * **The next frontier for LLMs is biology:**
   - [Why Bioinformatics Needs Large Language Models](https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?sh=7a7084506f05)
 * **LLM Tutorials:**
-  - [LLM Tutorials from Argonne Labs](https://github.com/langitlynn/llm-workshop)
+  - :octocat: [LLM Tutorials from Argonne Labs](https://github.com/langitlynn/llm-workshop)
 
 ## Key Applications of LLMs in Bioinformatics
 
