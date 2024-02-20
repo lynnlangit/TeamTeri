@@ -10,6 +10,7 @@ This Repo contains my own 'study notes' as I learn **genomic-scale cloud bioinfo
 - ⚒️ **Genomic Tools** (GATK, VariantSpark, HAIL and many more - this section updates OFTEN)
 - 📦 **Genomics Platforms** (Terra.bio, Galaxy Project, IDSeq and others)
 - ☁️ **Public Cloud Genomics** (Alibaba Cloud, AWS, Azure or GCP). The general approach is to implement a cloud-native Data Lake pattern for scalable genomic analysis. A conceptual rendering of this pattern is shown below.
+- 📚 **LLMs for Bioinformatics** (Reading List).  So many papers and tools are being published in this area.  Here's what I am reading now.
 
 ### Data Lake Pattern
 
