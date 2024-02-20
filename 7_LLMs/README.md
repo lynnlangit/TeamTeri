@@ -9,7 +9,7 @@
 * **Discussion of key challenges faced by traditional bioinformatics approaches and LLMs:**
   - 📖 [What are some of the challenges and limitations of bioinformatics?](https://omicstutorials.com/what-are-some-of-the-challenges-and-limitations-of-bioinformatics/)
   - 📖 [Overcoming the Limitations of LLMs](https://towardsdatascience.com/overcoming-the-limitations-of-large-language-models-9d4e92ad9823)
-* **Outline of the advantages LLMs offer for Biology:**
+* **Advantages LLMs offer for Biology:**
   - 📖 [Large Language Models in Molecular Biology](https://towardsdatascience.com/large-language-models-in-molecular-biology-9eb6b65d8a30)
   - 📖 [Take the DNA Delorean: The Promise of Large Language Models in Genomics](https://www.bio-itworld.com/news/2023/01/27/take-the-dna-delorean-the-promise-of-large-language-models-in-genomics)
   - 📖 [Unveiling the Potential of Large Language Models in Bioinformatics](https://medium.com/@andrew_johnson_4/unveiling-the-potential-of-large-language-models-in-bioinformatics-76710eb0b38a)
