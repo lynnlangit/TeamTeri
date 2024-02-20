@@ -9,10 +9,9 @@
 * **Discussion of key challenges faced by traditional bioinformatics approaches and LLMs:**
   - 📖 [What are some of the challenges and limitations of bioinformatics?](https://omicstutorials.com/what-are-some-of-the-challenges-and-limitations-of-bioinformatics/)
   - 📖 [Overcoming the Limitations of LLMs](https://towardsdatascience.com/overcoming-the-limitations-of-large-language-models-9d4e92ad9823)
-* **Outline of the advantages LLMs offer:**
+* **Outline of the advantages LLMs offer for Biology:**
   - 📖 [Large Language Models in Molecular Biology](https://towardsdatascience.com/large-language-models-in-molecular-biology-9eb6b65d8a30)
   - 📖 [Take the DNA Delorean: The Promise of Large Language Models in Genomics](https://www.bio-itworld.com/news/2023/01/27/take-the-dna-delorean-the-promise-of-large-language-models-in-genomics)
-* **The next frontier for LLMs is biology:**
   - 📖 [Unveiling the Potential of Large Language Models in Bioinformatics](https://medium.com/@andrew_johnson_4/unveiling-the-potential-of-large-language-models-in-bioinformatics-76710eb0b38a)
   - 📖 [Why Bioinformatics Needs Large Language Models](https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?sh=7a7084506f05)
   - 📖 [Application of Large Language Models in Biotechnology and Pharmaceutical Research](https://www.marktechpost.com/2023/07/12/application-of-large-language-models-in-biotechnology-and-pharmaceutical-research/)
@@ -44,7 +43,6 @@
   - 📖 [Transformer with convolution and graph-node co-embedding: An accurate and interpretable vision backbone for predicting gene expressions from local histopathological image](https://www.sciencedirect.com/science/article/pii/S1361841523003006)
   
 ## Challenges and Limitations
-
 * **Data Quality and Bias:**
   - 📖 [THE ROLE OF NATURAL LANGUAGE PROCESSING IN HEALTHCARE](https://roundtable.datascience.salon/the-role-of-natural-language-processing-in-healthcare)
 * **Computational Requirements:**
@@ -54,17 +52,16 @@
 * **Benchmarking:**
   - 📖 [Bioinfo-Bench: A Simple Benchmark Framework for LLM Bioinformatics Skills Evaluation](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
 
-## Summary and Future Directions
+## Future Directions
 * **Potential new application areas:**
   - 📖 [Precision Health in the Age of Large Language Models](https://dl.acm.org/doi/10.1145/3580305.3599568)
   - 📖 [About Bio-chatter: A Platform for the Biomedical Application of Large Language Models](https://arxiv.org/pdf/2305.06488.pdf)
   - 💬 [Bio-Chatter Light: example chat application](https://light.biochatter.org/)
 * **Advancements in LLM capabilities:** 
   - 📖 [Applications of transformer-based language models in bioinformatics: a survey](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad001/6984737)
-* **Summarize the transformative potential of LLMs in bioinformatics:**
+* **About the transformative potential of LLMs in bioinformatics:**
   - 📖 [The rise of large language models (LLMs)](https://omicstutorials.com/the-rise-of-large-language-models-llms/)
-* **Reiterate key takeaways and the exciting future for this field:**
-   - 📖 [Large Language Models (LLMs) in Science and Biology: Advancements in Text Generation and Creative AI](https://omicstutorials.com/large-language-models-llms-in-science-and-biology-advancements-in-text-generation-and-creative-ai/)
+  - 📖 [Large Language Models (LLMs) in Science and Biology: Advancements in Text Generation and Creative AI](https://omicstutorials.com/large-language-models-llms-in-science-and-biology-advancements-in-text-generation-and-creative-ai/)
 
 -----
 
