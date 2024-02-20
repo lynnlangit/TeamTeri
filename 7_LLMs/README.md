@@ -42,7 +42,7 @@
   - 📖 [Text-guided Foundation Model Adaptation for Pathological Image Classification](https://arxiv.org/abs/2307.14901)
   - 📖 [Transformer with convolution and graph-node co-embedding: An accurate and interpretable vision backbone for predicting gene expressions from local histopathological image](https://www.sciencedirect.com/science/article/pii/S1361841523003006)
   
-## Challenges and Limitations
+## Challenges and Tools
 * **Data Quality and Bias:**
   - 📖 [THE ROLE OF NATURAL LANGUAGE PROCESSING IN HEALTHCARE](https://roundtable.datascience.salon/the-role-of-natural-language-processing-in-healthcare)
 * **Computational Requirements:**
