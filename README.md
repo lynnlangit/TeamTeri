@@ -11,11 +11,6 @@ This Repo contains my own 'study notes' as I learn **genomic-scale cloud bioinfo
 - 📦 **Genomics Platforms** (Terra.bio, Galaxy Project, IDSeq and others)
 - ☁️ **Public Cloud Genomics** (Alibaba Cloud, AWS, Azure or GCP). The general approach is to implement a cloud-native Data Lake pattern for scalable genomic analysis. A conceptual rendering of this pattern is shown below.
 - 📚 **LLMs for Bioinformatics** (Reading List).  So many papers and tools are being published in this area.  Here's what I am reading now.
-
-### Data Lake Pattern
-
-<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/data-lake.png" width=600>
-
 ---
 
 ## More Cloud/Genomics Reources
@@ -33,6 +28,13 @@ In addition to this Repo, I have a number of other Repos with cloud bioinformati
 
 - :octocat: a link Collection : [link to Repo (awesome bioinformatics)](https://github.com/openbiox/awosome-bioinformatics) with large number of curated links for learning about bioinformatics tools and topics
 - :octocat: bioinformatics benchmark papers - [link](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) links to published benchmark papers for bioinformatics
+
+### Data Lake Pattern
+
+The Data Lake (or Data Mesh [Lake of Lakes]) pattern is key for implementing bioinformatics workloads effectively on any public cloud. Shown below is a simple conceptual explanation of this key concept.  
+
+<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/data-lake.png" width=600>
+
 ---
 
 ## Who is Teri?
