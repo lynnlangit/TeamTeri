@@ -56,6 +56,8 @@
 ## Summary and Future Directions
 * **Potential new application areas:**
   - [Precision Health in the Age of Large Language Models](https://dl.acm.org/doi/10.1145/3580305.3599568)
+  - [About Bio-chatter: A Platform for the Biomedical Application of Large Language Models(]https://arxiv.org/pdf/2305.06488.pdf)
+  - [Bio-Chatter Light: example chat application](https://light.biochatter.org/)
 * **Advancements in LLM capabilities:** 
   - [Applications of transformer-based language models in bioinformatics: a survey](https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad001/6984737)
 * **Summarize the transformative potential of LLMs in bioinformatics:**
