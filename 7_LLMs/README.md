@@ -12,6 +12,7 @@
   - [Large Language Models in Molecular Biology](https://towardsdatascience.com/large-language-models-in-molecular-biology-9eb6b65d8a30)
   - [Take the DNA Delorean: The Promise of Large Language Models in Genomics](https://www.bio-itworld.com/news/2023/01/27/take-the-dna-delorean-the-promise-of-large-language-models-in-genomics)
 * **The next frontier for LLMs is biology:**
+  - [Unveiling the Potential of Large Language Models in Bioinformatics](https://medium.com/@andrew_johnson_4/unveiling-the-potential-of-large-language-models-in-bioinformatics-76710eb0b38a)
   - [Why Bioinformatics Needs Large Language Models](https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?sh=7a7084506f05)
 * **LLM Tutorials:**
   - :octocat: [LLM Tutorials from Argonne Labs](https://github.com/langitlynn/llm-workshop)
