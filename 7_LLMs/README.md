@@ -14,7 +14,8 @@
 * **The next frontier for LLMs is biology:**
   - [Unveiling the Potential of Large Language Models in Bioinformatics](https://medium.com/@andrew_johnson_4/unveiling-the-potential-of-large-language-models-in-bioinformatics-76710eb0b38a)
   - [Why Bioinformatics Needs Large Language Models](https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?sh=7a7084506f05)
-* **LLM Tutorials:**
+  - [Application of Large Language Models in Biotechnology and Pharmaceutical Research](https://www.marktechpost.com/2023/07/12/application-of-large-language-models-in-biotechnology-and-pharmaceutical-research/)
+* **LLM Tutorials (HF + Langchain):**
   - :octocat: [LLM Tutorials from Argonne Labs](https://github.com/langitlynn/llm-workshop)
 
 ## Key Applications of LLMs in Bioinformatics
