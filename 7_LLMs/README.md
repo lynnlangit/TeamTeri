@@ -30,6 +30,7 @@
   - [OpenFold Biotech AI Research Consortium releases SoloSeq and Multimer, an integrated protein Large Language Model with 3D structure generation](https://www.businesswire.com/news/home/20240219658831/en/OpenFold-Biotech-AI-Research-Consortium-releases-SoloSeq-and-Multimer-an-integrated-protein-Large-Language-Model-with-3D-structure-generation)
 * **Drug Discovery:**
   - [Large Language Models may speed Drug Discovery](https://www.technologyreview.com/2023/08/22/1076802/large-language-models-may-speed-drug-discovery/)
+  - [Harnessing large language models (LLMs) for candidate gene prioritization and selection](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-04576-8)
 * **Gene Expression Analysis:**  
   - [Custom GPT for gene analysis](https://chat.openai.com/g/g-HvvFt9ohw-genegpt)
   - [GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153281/)
