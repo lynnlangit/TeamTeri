@@ -41,16 +41,24 @@
   - 📖 [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://arxiv.org/abs/2306.11207)
   - 📖 [Text-guided Foundation Model Adaptation for Pathological Image Classification](https://arxiv.org/abs/2307.14901)
   - 📖 [Transformer with convolution and graph-node co-embedding: An accurate and interpretable vision backbone for predicting gene expressions from local histopathological image](https://www.sciencedirect.com/science/article/pii/S1361841523003006)
+
   
 ## Challenges and Tools
+ 
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/llm-tools.png" width=300 align=left>
+
 * **Data Quality and Bias:**
-  - 📖 [THE ROLE OF NATURAL LANGUAGE PROCESSING IN HEALTHCARE](https://roundtable.datascience.salon/the-role-of-natural-language-processing-in-healthcare)
-* **Computational Requirements:**
-  - 📖 [Leveraging Fine-Tuned Large Language Models in Bioinformatics: A Research Perspective](https://www.qeios.com/read/WE7UMN.2)
+    - 📖 [THE ROLE OF NATURAL LANGUAGE PROCESSING IN HEALTHCARE](https://roundtable.datascience.salon/the-role-of-natural-language-processing-in-healthcare)
+* **Computational Requirements for Fine Tuning:**
+    - 📖 [Leveraging Fine-Tuned Large Language Models in Bioinformatics: A Research Perspective](https://www.qeios.com/read/WE7UMN.2)
 * **Interpretability:**
-  - 📖 [XAI meets Biology: A Comprehensive Review of Explainable AI in Bioinformatics Applications](https://arxiv.org/html/2312.06082v1)
+    - 📖 [XAI meets Biology: A Comprehensive Review of Explainable AI in Bioinformatics Applications](https://arxiv.org/html/2312.06082v1)
 * **Benchmarking:**
-  - 📖 [Bioinfo-Bench: A Simple Benchmark Framework for LLM Bioinformatics Skills Evaluation](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
+    - 📖 [Bioinfo-Bench: A Simple Benchmark Framework for LLM Bioinformatics Skills Evaluation](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
+    - 📖 [BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual Pragmatic Knowledge](https://arxiv.org/html/2308.16458v4)
+
+ 
+----
 
 ## Future Directions
 * **Potential new application areas:**
