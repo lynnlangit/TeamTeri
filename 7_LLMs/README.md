@@ -56,11 +56,15 @@
 * **Benchmarking:**
     - 📖 [Bioinfo-Bench: A Simple Benchmark Framework for LLM Bioinformatics Skills Evaluation](https://www.biorxiv.org/content/10.1101/2023.10.18.563023v1)
     - 📖 [BioCoder: A Benchmark for Bioinformatics Code Generation with Contextual Pragmatic Knowledge](https://arxiv.org/html/2308.16458v4)
+    - 📖 [BioLLMBench: A Comprehensive Benchmarking of Large Language Models in Bioinformatics](https://www.biorxiv.org/content/10.1101/2023.12.19.572483v1.full.pdf)
 
  
 ----
 
 ## Future Directions
+
+<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/llm-futures.png" width=300 align=right>
+
 * **Potential new application areas:**
   - 📖 [Precision Health in the Age of Large Language Models](https://dl.acm.org/doi/10.1145/3580305.3599568)
   - 📖 [About Bio-chatter: A Platform for the Biomedical Application of Large Language Models](https://arxiv.org/pdf/2305.06488.pdf)
