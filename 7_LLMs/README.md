@@ -41,6 +41,7 @@
   - 📖 [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://arxiv.org/abs/2306.11207)
   - 📖 [Text-guided Foundation Model Adaptation for Pathological Image Classification](https://arxiv.org/abs/2307.14901)
   - 📖 [Transformer with convolution and graph-node co-embedding: An accurate and interpretable vision backbone for predicting gene expressions from local histopathological image](https://www.sciencedirect.com/science/article/pii/S1361841523003006)
+  - 📖 [scGPT: toward building a foundation model for single-cell multi-omics using generative AI](https://www.nature.com/articles/s41592-024-02201-0)
 
   
 ## Challenges and Tools
