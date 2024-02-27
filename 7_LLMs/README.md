@@ -23,6 +23,7 @@
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/llm-bio.png" width=300 align=right>
 
 * **Sequence Analysis:**
+Top level list of links *Awesome Foundational Model Single Cell Papers* - [link](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers)
   - 📖 [Large models for genomics](https://www.nature.com/articles/s41592-023-02105-5)
   - 📖 [ProtHyena: A fast and efficient foundation protein language model at single amino acid Resolution](https://www.biorxiv.org/content/10.1101/2024.01.18.576206v1)
 * **Protein Structure Prediction:**
