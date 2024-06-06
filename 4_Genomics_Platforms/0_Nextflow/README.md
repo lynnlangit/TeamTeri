@@ -1,8 +1,8 @@
-# Nextflow (NF)
+# Nextflow (NF) & Seqera Cloud
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-fundamentals.png" width=1000>
 
-The Nextflow platform architecture is shown in the slide above.
+The Nextflow platform architecture is shown in the slide above.  [Seqera](https://seqera.io/) is a commercial company comprised of the core Nextflow committer team.
 
 ## About the Nextflow platform 
 NF is built by Seqera Labs. NF pipelines can run on AWS, Azure, GCP and other environments
@@ -22,33 +22,18 @@ Nextflow allows you to build, configure and run data-driven computational pipeli
 
 ### AWS 
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/aws-conceptual.png" width=800>
-
-Conceptual architecture for running Nextflow pipeline on AWS is shown above, note that the use of AWS FsxLustre is not required, it's one of several file storage options available when building pipelines.
+Conceptual architecture for running Nextflow pipeline on AWS is shown below.
 - More detailed sample architecture for NF on AWS is shown below. 
 - 7-min video concepts and quick demo --> https://www.youtube.com/watch?v=SYhDkUgcOXo&t=54s
 
 <img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nextflow-aws-batch.png" width=800>
 
-### Azure 
-
-Nextflow allows the adaptation of pipelines written in the most common scripting languages.  Its fluent DSL simplifies the implementation and the deployment of complex parallel and reactive workflows on clouds and clusters.  The general pattern for deploying a Nextflow pipeline on a public cloud (VM batch) service is shown below.  Also, here's a 10 minute demo video - [link](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/nextflow-on-microsoft-azure-with-a-blazor-frontend/ba-p/3256430)
-
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-batch.png" width=800>
-
-
 ## Execution Environments and Tools
 
-NF-Tower is a flexible execution environment for Nextflow pipelines.  Here's a podcaast/demo - [link](https://seqera.io/podcasts/nf-cast-ep-5)
+Seqera Cloud is a commercial execution environment for Nextflow. Core architecture (from Seqera's documentation) is shown below.  
+Seqera documentation is available at [link](https://docs.seqera.io/)
 
-- Tools / NFTower - https://help.tower.nf/getting-started/usage/ and see screenshot shown below 
-  - Script with a nftower-cli tool - https://seqera.io/blog/announcing-the-nextflow-tower-cli
-  - Use the `tower-cli` - https://github.com/seqeralabs/tower-cli
-- Config runtime environments (include for AWS/Azure/GCP and more) for NF-Tower - https://help.tower.nf/compute-envs/overview/
-  - NF on AWS Batch - https://docs.opendata.aws/genomics-workflows/orchestration/nextflow/nextflow-overview.html
-- Patterns and info for running Nextflow on GCP - [link on my repo 'gcp-for-bioinformatics'](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/2_Virtual_Machines_%26_Docker_Containers/9a_Use_Nextflow_for_Pipelines.md)
-
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-tower.png" width=800>
+<img src="https://docs.seqera.io/assets/images/seqera_reference_architecture-11fa0ed3f5b9db1dadeb2f09252a53d6.png">
 
 
 ## Example Workflows and Pipelines
