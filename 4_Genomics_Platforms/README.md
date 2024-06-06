@@ -15,7 +15,7 @@ Most workflows follow this pattern (summarized in the diagram below for AWS):
 - Use of **containers to encapsulate data analysis tasks/tools** - docker or singularity containers, the latter for HPC environments
 - Use of **libraries AND job controllers** to manage cluster resources (CPU, RAM) - cloud libraries include AWS Batch, Azure Batch, GCP Life Sciences
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/lake-pattern.png" width=800>
+<kbd><img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/lake-pattern.png" width=800></kbd>
 
 The diagram above shows a workflow one possible example. It uses cloud vendor AWS (VM controller `AWS Batch` service, workflow language / job controller `cromwell service` (for `WDL language`) and genomic analysis toolset `GATK`.
 
