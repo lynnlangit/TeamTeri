@@ -14,7 +14,7 @@ NF is built by Seqera Labs. NF pipelines can run on AWS, Azure, GCP and other en
 
 Nextflow allows you to build, configure and run data-driven computational pipelines, an example is shown below.  Nextflow enables scalable and reproducible scientific workflows using software containers. The example diagram is for the [nf-core/eager](https://nf-co.re/eager) pipeline. This pipeline is a scalable and reproducible bioinformatics best-practise processing pipeline for genomic NGS sequencing data, with a focus on ancient DNA (aDNA) data. It is ideal for the (palaeo)genomic analysis of humans, animals, plants, microbes and even microbiomes
 
-<img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-pipe.png" width=1000>
+<kbd><img src="https://github.com/lynnlangit/TeamTeri/blob/master/Images/nf-pipe.png" width=1000></kbd>
 
 ---
 
@@ -33,8 +33,7 @@ Conceptual architecture for running Nextflow pipeline on AWS is shown below.
 Seqera Cloud is a commercial execution environment for Nextflow. Core architecture (from Seqera's documentation) is shown below.  
 Seqera documentation is available at [link](https://docs.seqera.io/)
 
-<img src="https://docs.seqera.io/assets/images/seqera_reference_architecture-11fa0ed3f5b9db1dadeb2f09252a53d6.png">
-
+<kbd><img src="https://docs.seqera.io/assets/images/seqera_reference_architecture-11fa0ed3f5b9db1dadeb2f09252a53d6.png"></kbd>
 
 ## Example Workflows and Pipelines
 - 📓  Example NF pipelines - [link](https://nf-co.re/pipelines)
