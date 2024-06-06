@@ -33,7 +33,7 @@ In addition to this Repo, I have a number of other Repos with cloud bioinformati
 
 The Data Lake (or Data Mesh [Lake of Lakes]) pattern is key for implementing bioinformatics workloads effectively on any public cloud. Shown below is a simple conceptual explanation of this key concept.  
 
-<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/data-lake.png" width=600>
+<kbd><img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/data-lake.png" width=600></kbd>
 
 ---
 
