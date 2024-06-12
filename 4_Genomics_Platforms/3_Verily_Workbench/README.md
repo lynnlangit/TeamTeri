@@ -3,7 +3,7 @@
 
 From the [docs](https://support.workbench.verily.com/docs/overview/): *"Verily Workbench is a secure research environment for governing and analyzing global multimodal biomedical data. Our mission is to transform biomedical research by making the world’s most scientifically valuable data discoverable, accessible, and analyzable. We aspire to enable the next generation of secure biomedical research and set the de-facto standard for health data analysis in the world by supporting the collaborative analysis of data from many sources, organizations, and geographies, respecting regulatory and ethical policies. To realize that vision, we support the end-to-end lifecycle of data that is governed, research that is reproducible, and collaboration that is easy & secure for commercial enterprises."*
 
-Data Capabilities include:
+## Data Capabilities include:
 
 Resources (or data) web ui is shown below.  
 
@@ -19,7 +19,7 @@ Resources (or data) web ui is shown below.
 
 <kbd><img src=https://github.com/lynnlangit/TeamTeri/blob/master/Images/verily-data.png></kbd>
 
-Compute Capabilities include:
+## Compute Capabilities include:
 
 Environments (for compute) web ui is shown below.  
 
@@ -32,7 +32,7 @@ Environments (for compute) web ui is shown below.
 <kbd><img src=https://github.com/lynnlangit/TeamTeri/blob/master/Images/verily-env.png></kbd>
 
 
-Cloud / Security Capabilities:
+## Cloud / Security Capabilities:
 
 Job interface (supports Nextflow, Cronwell/WDL and others, web ui shown below.  
 
