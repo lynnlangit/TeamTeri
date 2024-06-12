@@ -5,6 +5,8 @@ From the [docs](https://support.workbench.verily.com/docs/overview/): *"Verily W
 
 Data Capabilities include:
 
+Resources (or data) web ui is shown below.  
+
 - Research-ready data collections that support dataset versioning
 - Support for multiple data modalities and schemas, including:
 - omics (e.g. BAM, CRAM, VCF)
@@ -15,21 +17,31 @@ Data Capabilities include:
 - Self service data onboarding
 - File import using GA4GH Data Connect
 
+<kbd><img src=https://github.com/lynnlangit/TeamTeri/blob/master/Images/verily-data.png></kbd>
+
 Compute Capabilities include:
 
+Environments (for compute) web ui is shown below.  
+
 - Access to public cloud scale (e.g. petabytes of storage, 100K CPUs, global datacenter footprint) with native integrations with Google Cloud and AWS that support complex scientific analyses such as variant calling and genome wide association studies
-- Built-in analysis tools, e.g.,Vertex AI Notebook / JupyterLab, Spark clusters, Visual Studio Code
+- Built-in analysis tools, e.g.,Vertex AI Notebook / JupyterLab, Spark clusters, Visual Studio Code, R Studio
 - Extensible app framework / bring your own license, e.g. RStudio, SAS
 - Autoconnect cloud data storage to cloud compute
 - File preview, including: CSV, PDF, JSON, BAM, CRAM
 
+<kbd><img src=https://github.com/lynnlangit/TeamTeri/blob/master/Images/verily-env.png></kbd>
+
 
 Cloud / Security Capabilities:
+
+Job interface (supports Nextflow, Cronwell/WDL and others, web ui shown below.  
 
 - Cloud support: Google Cloud (Generally Available), AWS (Private Preview)
 - Federated identity providers (Auth0)
 - Source code management (git)
 - Flexible cloud infrastructure, e.g. bring your own billing, leverage your cloud configuration.
+
+<kbd><img src=https://github.com/lynnlangit/TeamTeri/blob/master/Images/verily-job.png></kbd>
 
 
 
