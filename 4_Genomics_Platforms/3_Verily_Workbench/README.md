@@ -9,9 +9,9 @@ Resources (or data) web ui is shown below.
 
 - Research-ready data collections that support dataset versioning
 - Support for multiple data modalities and schemas, including:
-- omics (e.g. BAM, CRAM, VCF)
-- clinical (e.g., CSV/TSV, PDF, OMOP, CDISC)
-- imaging (e.g., DICOM, JPG)
+  - omics (e.g. BAM, CRAM, VCF)
+  - clinical (e.g., CSV/TSV, PDF, OMOP, CDISC)
+  - imaging (e.g., DICOM, JPG)
 - Workspace resources and folders
 - Workbench resource lineage
 - Self service data onboarding
