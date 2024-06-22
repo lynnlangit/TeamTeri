@@ -10,6 +10,12 @@ NF is built by Seqera Labs. NF pipelines can run on AWS, Azure, GCP and other en
 - documentation - https://www.nextflow.io/docs/latest/index.html
 - core concepts - https://www.nextflow.io/docs/latest/basic.html
 
+## Seqera and Nextflow
+
+Seqera Labs plays a pivotal role in the development and support of the Nextflow platform. As the creators of Nextflow, Seqera is deeply committed to open-source development and actively contributes to the Nextflow community. Their expertise ensures that Nextflow remains at the forefront of workflow orchestration, enabling researchers and developers to build, run, and share data-driven analysis pipelines across a wide range of computing environments.
+
+For more information about Seqera and their contributions to the Nextflow project, visit [Seqera's website](https://seqera.io/).
+
 ## Example Pipeline
 
 Nextflow allows you to build, configure and run data-driven computational pipelines, an example is shown below.  Nextflow enables scalable and reproducible scientific workflows using software containers. The example diagram is for the [nf-core/eager](https://nf-co.re/eager) pipeline. This pipeline is a scalable and reproducible bioinformatics best-practise processing pipeline for genomic NGS sequencing data, with a focus on ancient DNA (aDNA) data. It is ideal for the (palaeo)genomic analysis of humans, animals, plants, microbes and even microbiomes
@@ -42,4 +48,3 @@ Seqera documentation is available at [link](https://docs.seqera.io/)
     - Orchestration of automated, scalable, and reproducible single-cell RNA sequencing analyses - [link](https://github.com/combiz/scFlow)
 - 📘 Huge list of [Learn Nextflow links](https://www.nextflow.io/blog/2022/learn-nextflow-in-2022.html)
 - :octocat: Nextflow pipeline 'gotchas' (examples) - [link](https://github.com/Midnighter/nextflow-gotchas)
-
