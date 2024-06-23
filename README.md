@@ -27,7 +27,7 @@ In addition to this Repo, I have a number of other Repos with cloud bioinformati
 ### Repos with Links
 
 - :octocat: `awesome-bioinformatics`(collection of links) - [link](https://github.com/openbiox/awosome-bioinformatics) with large number of curated links for learning about bioinformatics tools and topics
-- :octocat: `awesome-bioinformatics-benchmarks (collection of papers) - [link](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) links to published benchmark papers for bioinformatics
+- :octocat: `awesome-bioinformatics-benchmarks` (collection of papers) - [link](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) links to published benchmark papers for bioinformatics
 
 ---
 
