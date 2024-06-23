@@ -29,12 +29,6 @@ In addition to this Repo, I have a number of other Repos with cloud bioinformati
 - :octocat: a link Collection : [link to Repo (awesome bioinformatics)](https://github.com/openbiox/awosome-bioinformatics) with large number of curated links for learning about bioinformatics tools and topics
 - :octocat: bioinformatics benchmark papers - [link](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) links to published benchmark papers for bioinformatics
 
-### Data Lake Pattern
-
-The Data Lake (or Data Mesh [Lake of Lakes]) pattern is key for implementing bioinformatics workloads effectively on any public cloud. Shown below is a simple conceptual explanation of this key concept.  
-
-<kbd><img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/data-lake.png" width=600></kbd>
-
 ---
 
 ## Who is Teri?
