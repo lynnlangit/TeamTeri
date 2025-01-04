@@ -53,7 +53,8 @@ For a list of cancer research information from a working bioinformatics research
 * .bed files - representations of genomic regions
 * .vcf files - variant call format files - to learn more see 'learning the vcf format' tutorial - [link](https://davetang.github.io/learning_vcf_file/)
 
-For examples of these files, see this link - https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/4_FILE-TYPES.md
+For examples of these files, see this link - https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/4_FILE-TYPES.md  
+For more example data see --> https://github.com/omgenomics/bio-data-zoo
 
 * * *
 
