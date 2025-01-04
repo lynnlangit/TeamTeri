@@ -24,6 +24,7 @@
 Top level list of links *Awesome Foundational Model Single Cell Papers* - [link](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers)
   - 📖 [Large models for genomics](https://www.nature.com/articles/s41592-023-02105-5)
   - 📖 [ProtHyena: A fast and efficient foundation protein language model at single amino acid Resolution](https://www.biorxiv.org/content/10.1101/2024.01.18.576206v1)
+  - 📖 [DNA language models are powerful predictors of genome-wide variant effects](https://www.pnas.org/doi/10.1073/pnas.2311219120)
 * **Protein Structure Prediction:**
   - 📖 [Protein Structure Prediction with AI: AlphaFold](https://www.nature.com/articles/s41586-021-03819-2%3C)
   - 📖 [When Protein Structure Embedding Meets Large Language Models](https://pubmed.ncbi.nlm.nih.gov/38254915/)
