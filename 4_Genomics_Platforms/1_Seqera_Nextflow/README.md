@@ -9,6 +9,7 @@ NF is built by Seqera Labs. NF pipelines can run on AWS, Azure, GCP and other en
 - start here - https://www.nextflow.io/index.html
 - documentation - https://www.nextflow.io/docs/latest/index.html
 - core concepts - https://www.nextflow.io/docs/latest/basic.html
+- NF training - https://github.com/nextflow-io/training  
 
 ## Seqera and Nextflow
 
