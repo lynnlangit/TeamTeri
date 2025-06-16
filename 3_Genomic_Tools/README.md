@@ -40,7 +40,7 @@ Many, but not all bioinformatics tools rely on the Python language.  If this is 
 
 ## Blast 10 Ways
 
-I wrote a short article on Medium using the `blast` tool, which demonstrates my approach to testing genomics tools - [link](https://medium.com/@lynnlangit/blast-10-ways-3db78f881059)
+I wrote a short article on Medium using the `blast` tool, which demonstrates my approach to testing genomics tools - [link](https://lynnlangit.medium.com/blast-10-ways-3db78f881059)
 
 ## Practical Advice
 
