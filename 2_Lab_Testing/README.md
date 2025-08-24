@@ -12,14 +12,10 @@
 | Single-Cell Sequencing | Sequencing at the single-cell level for cellular heterogeneity.              | Cancer, immunology, development    | [Nature Review](https://www.nature.com/articles/nrm.2016.127) |
 | Long-Read Sequencing   | Technologies like PacBio and Oxford Nanopore for longer DNA fragments.       | Structural variation, complex regions | [PacBio](https://www.pacb.com/smrt-science/smrt-sequencing/) |
 | Whole Genome Sequencing| Sequencing the entire genome of an organism.                                 | Population genomics, diagnostics   | [Wikipedia](https://en.wikipedia.org/wiki/Whole_genome_sequencing) |
-| Targeted Sequencing    | Sequencing specific regions of interest (e.g., panels, exomes).              | Disease gene panels, diagnostics   | [Illumina](https://www.illumina.com/techniques/sequencing/dna-sequencing/targeted-sequencing.html) |
+| Targeted Sequencing    | Sequencing specific regions of interest (e.g., panels, exomes).              | Disease gene panels, diagnostics   | [Illumina](https://www.illumina.com/techniques/sequencing/dna-sequencing/targeted-resequencing/targeted-panels.html) |
 
 References are linked in the table above for further reading.
 
-There are a LARGE number of types of sequencing.  Start with wikipedia  
-- DNA Sequencing - https://en.wikipedia.org/wiki/DNA_sequencing
-- RNA Sequencing (RNA-seq) - https://en.wikipedia.org/wiki/RNA-Seq
-- NGS Sequencing (next-gen) in a 4-min YouTube animated video - https://www.youtube.com/watch?v=CZeN-IgjYCo
 
 ## Background and Illumina
 
