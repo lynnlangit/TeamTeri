@@ -1,0 +1,8 @@
+# MCP requires Python 3.10+
+# Current system has Python 3.9.6
+# 
+# To use MCP SDK, upgrade to Python 3.10+ then run:
+# pip install mcp
+
+# Alternative: Basic JSON-RPC server (Python 3.9 compatible)
+# No additional dependencies required

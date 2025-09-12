@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "greetings": {
+      "command": "python3.11",
+      "args": [
+        "/Users/lynnlangit/Documents/GitHub/TeamTeri/8_mcp_demo/mcp_server.py"
+      ],
+      "cwd": "/Users/lynnlangit/Documents/GitHub/TeamTeri/8_mcp_demo"
+    }
+  }
+}
